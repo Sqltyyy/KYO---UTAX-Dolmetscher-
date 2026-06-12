@@ -5,9 +5,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "5008ci",
-      "triumph_adler": null,
       "kyocera": "TASKalfa 5054ci",
-      "olivetti": null
     },
     "produktname": "Iris 2020 Color",
     "code": "2YM",
@@ -28,9 +26,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "6008ci",
-      "triumph_adler": null,
       "kyocera": "TASKalfa 6054ci",
-      "olivetti": null
     },
     "produktname": "Iris 2020 Color",
     "code": "2YL",
@@ -52,9 +48,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "5058i",
-      "triumph_adler": null,
       "kyocera": "TASKalfa 5004i",
-      "olivetti": "d-Copia 5002MF"
     },
     "produktname": "Iris 2020 mono",
     "code": "2YS",
@@ -77,9 +71,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-6034DN",
-      "triumph_adler": null,
       "kyocera": "PA6000x",
-      "olivetti": null
     },
     "produktname": "6th Gen. Next",
     "code": "C0T",
