@@ -1,85 +1,84 @@
 [
   {
-    "id": "copy-color-5054ci",
+    "id": "5054ci",
     "beginn": "10-2021",
     "vertrieb_eingestellt": true,
     "marken": {
-      "utax": "5008ci",
-      "kyocera": "TASKalfa 5054ci"
+      "kyocera": "TASKalfa 5054ci",
+      "utax": "5008ci"
     },
     "produktname": "Iris 2020 Color",
     "code": "2YM",
     "aliases": [
-      "5008ci",
-      "UTAX 5008ci",
+      "5054ci",
       "TASKalfa 5054ci",
       "Kyocera TASKalfa 5054ci",
-      "5054ci",
+      "5008ci",
+      "UTAX 5008ci",
       "Iris 2020 Color",
       "2YM"
     ],
     "bemerkung": ""
   },
   {
-    "id": "copy-color-6054ci",
+    "id": "6054ci",
     "beginn": "10-2021",
     "vertrieb_eingestellt": true,
     "marken": {
-      "utax": "6008ci",
-      "kyocera": "TASKalfa 6054ci"
+      "kyocera": "TASKalfa 6054ci",
+      "utax": "6008ci"
     },
     "produktname": "Iris 2020 Color",
     "code": "2YL",
     "aliases": [
-      "6008ci",
-      "UTAX 6008ci",
+      "6054ci",
       "TASKalfa 6054ci",
       "Kyocera TASKalfa 6054ci",
-      "6054ci",
+      "6008ci",
+      "UTAX 6008ci",
       "Iris 2020 Color",
       "2YL"
     ],
     "bemerkung": ""
   },
   {
-    "id": "copy-mono-5004i",
-    "geraetetyp": "MFP",
+    "id": "5004i",
     "beginn": "10-2021",
     "vertrieb_eingestellt": true,
     "marken": {
-      "utax": "5058i",
-      "kyocera": "TASKalfa 5004i"
+      "kyocera": "TASKalfa 5004i",
+      "utax": "5058i"
     },
     "produktname": "Iris 2020 mono",
     "code": "2YS",
     "aliases": [
-      "5058i",
-      "UTAX 5058i",
+      "5004i",
       "TASKalfa 5004i",
       "Kyocera TASKalfa 5004i",
-      "5004i",
-      "d-Copia 5002MF",
+      "5058i",
+      "UTAX 5058i",
       "Iris 2020 mono",
       "2YS"
     ],
     "bemerkung": ""
   },
   {
-    "id": "printer-mono-pa6000x",
-    "geraetetyp": "Drucker",
+    "id": "pa6000x",
     "beginn": "01-2024",
     "vertrieb_eingestellt": false,
     "marken": {
-      "utax": "P-6034DN",
-      "kyocera": "PA6000x"
+      "kyocera": "PA6000x",
+      "utax": "P-6034DN"
     },
     "produktname": "6th Gen. Next",
     "code": "C0T",
     "aliases": [
-      "P-6034DN",
-      "UTAX P-6034DN",
+      "pa6000x",
       "PA6000x",
       "Kyocera PA6000x",
+      "P-6034DN",
+      "P6034DN",
+      "UTAX P-6034DN",
       "6th Gen. Next",
       "C0T"
     ],
