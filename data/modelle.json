@@ -1,0 +1,106 @@
+[
+  {
+    "id": "copy-color-5054ci",
+    "kategorie": "Kopierer / Copy - color",
+    "geraetetyp": "MFP",
+    "farbe": true,
+    "beginn": "10-2021",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "5008ci",
+      "triumph_adler": null,
+      "kyocera": "TASKalfa 5054ci",
+      "olivetti": null
+    },
+    "produktname": "Iris 2020 Color",
+    "code": "2YM",
+    "aliases": [
+      "5008ci",
+      "UTAX 5008ci",
+      "TASKalfa 5054ci",
+      "Kyocera TASKalfa 5054ci",
+      "5054ci",
+      "Iris 2020 Color",
+      "2YM"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "copy-color-6054ci",
+    "kategorie": "Kopierer / Copy - color",
+    "geraetetyp": "MFP",
+    "farbe": true,
+    "beginn": "10-2021",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "6008ci",
+      "triumph_adler": null,
+      "kyocera": "TASKalfa 6054ci",
+      "olivetti": null
+    },
+    "produktname": "Iris 2020 Color",
+    "code": "2YL",
+    "aliases": [
+      "6008ci",
+      "UTAX 6008ci",
+      "TASKalfa 6054ci",
+      "Kyocera TASKalfa 6054ci",
+      "6054ci",
+      "Iris 2020 Color",
+      "2YL"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "copy-mono-5004i",
+    "kategorie": "Kopierer / Copy - monochrome",
+    "geraetetyp": "MFP",
+    "farbe": false,
+    "beginn": "10-2021",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "5058i",
+      "triumph_adler": null,
+      "kyocera": "TASKalfa 5004i",
+      "olivetti": "d-Copia 5002MF"
+    },
+    "produktname": "Iris 2020 mono",
+    "code": "2YS",
+    "aliases": [
+      "5058i",
+      "UTAX 5058i",
+      "TASKalfa 5004i",
+      "Kyocera TASKalfa 5004i",
+      "5004i",
+      "d-Copia 5002MF",
+      "Iris 2020 mono",
+      "2YS"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "printer-mono-pa6000x",
+    "kategorie": "Drucker / Printer - monochrome",
+    "geraetetyp": "Drucker",
+    "farbe": false,
+    "beginn": "01-2024",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-6034DN",
+      "triumph_adler": null,
+      "kyocera": "PA6000x",
+      "olivetti": null
+    },
+    "produktname": "6th Gen. Next",
+    "code": "C0T",
+    "aliases": [
+      "P-6034DN",
+      "UTAX P-6034DN",
+      "PA6000x",
+      "Kyocera PA6000x",
+      "6th Gen. Next",
+      "C0T"
+    ],
+    "bemerkung": ""
+  }
+]
