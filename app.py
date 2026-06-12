@@ -69,9 +69,6 @@ def baue_suchtext(eintrag):
     teile = []
 
     teile.append(eintrag.get("id", ""))
-    teile.append(eintrag.get("kategorie", ""))
-    teile.append(eintrag.get("geraetetyp", ""))
-    teile.append(eintrag.get("typ", ""))
     teile.append(eintrag.get("produktname", ""))
     teile.append(eintrag.get("code", ""))
     teile.append(eintrag.get("bemerkung", ""))
@@ -234,9 +231,6 @@ for eintrag in treffer:
             st.write(f"- Olivetti: {marken.get('olivetti') or '-'}")
 
             st.write("**Technische Informationen:**")
-            st.write(f"- Kategorie: {eintrag.get('kategorie', '-')}")
-            st.write(f"- Gerätetyp: {eintrag.get('geraetetyp') or eintrag.get('typ') or '-'}")
-            st.write(f"- Farbe: {'Ja' if eintrag.get('farbe') else 'Nein'}")
             st.write(f"- Produktname: {eintrag.get('produktname', '-')}")
             st.write(f"- Code: {eintrag.get('code', '-')}")
             st.write(f"- Beginn: {eintrag.get('beginn', '-')}")
