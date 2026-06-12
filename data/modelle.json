@@ -1,9 +1,6 @@
 [
   {
     "id": "copy-color-5054ci",
-    "kategorie": "Kopierer / Copy - color",
-    "geraetetyp": "MFP",
-    "farbe": true,
     "beginn": "10-2021",
     "vertrieb_eingestellt": true,
     "marken": {
@@ -27,9 +24,6 @@
   },
   {
     "id": "copy-color-6054ci",
-    "kategorie": "Kopierer / Copy - color",
-    "geraetetyp": "MFP",
-    "farbe": true,
     "beginn": "10-2021",
     "vertrieb_eingestellt": true,
     "marken": {
@@ -53,9 +47,7 @@
   },
   {
     "id": "copy-mono-5004i",
-    "kategorie": "Kopierer / Copy - monochrome",
     "geraetetyp": "MFP",
-    "farbe": false,
     "beginn": "10-2021",
     "vertrieb_eingestellt": true,
     "marken": {
@@ -80,9 +72,7 @@
   },
   {
     "id": "printer-mono-pa6000x",
-    "kategorie": "Drucker / Printer - monochrome",
     "geraetetyp": "Drucker",
-    "farbe": false,
     "beginn": "01-2024",
     "vertrieb_eingestellt": false,
     "marken": {
