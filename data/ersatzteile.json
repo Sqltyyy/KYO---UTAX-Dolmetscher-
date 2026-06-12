@@ -1,0 +1,368 @@
+{
+  "version": 1,
+  "beschreibung": "Testdaten für die Ersatzteilanzeige im Kyocera/UTAX-Modellfinder. Struktur angelehnt an die KyoceraCommunity-Darstellung: Main Parts und Toner/WTB.",
+  "hinweis": "FK-8570 wird nur dort geführt, wo es in der gelieferten Excel-Datei explizit zugeordnet ist.",
+  "modelle": {
+    "5054ci": {
+      "kyocera_modell": "TASKalfa 5054ci",
+      "gruppen": [
+        {
+          "name": "Main Parts",
+          "teile": [
+            {
+              "nummer": "DK-8560",
+              "bezeichnung": "Drum Unit / Trommeleinheit",
+              "farbe": null,
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            },
+            {
+              "nummer": "DV-8570C",
+              "bezeichnung": "Developer Unit / Entwicklereinheit",
+              "farbe": "Cyan",
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            },
+            {
+              "nummer": "DV-8570K",
+              "bezeichnung": "Developer Unit / Entwicklereinheit",
+              "farbe": "Schwarz",
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            },
+            {
+              "nummer": "DV-8570M",
+              "bezeichnung": "Developer Unit / Entwicklereinheit",
+              "farbe": "Magenta",
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            },
+            {
+              "nummer": "DV-8570Y",
+              "bezeichnung": "Developer Unit / Entwicklereinheit",
+              "farbe": "Gelb",
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            },
+            {
+              "nummer": "MC-8560",
+              "bezeichnung": "Main Charger",
+              "farbe": null,
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            },
+            {
+              "nummer": "MK-8535A",
+              "bezeichnung": "Maintenance Kit / Wartungskit",
+              "farbe": null,
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            },
+            {
+              "nummer": "MK-8535B",
+              "bezeichnung": "Maintenance Kit / Wartungskit",
+              "farbe": null,
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            },
+            {
+              "nummer": "TR-8560",
+              "bezeichnung": "Transfer Unit",
+              "farbe": null,
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Toner/WTB",
+          "teile": [
+            {
+              "nummer": "TK-8555C",
+              "bezeichnung": "Toner",
+              "farbe": "Cyan",
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            },
+            {
+              "nummer": "TK-8555K",
+              "bezeichnung": "Toner",
+              "farbe": "Schwarz",
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            },
+            {
+              "nummer": "TK-8555M",
+              "bezeichnung": "Toner",
+              "farbe": "Magenta",
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            },
+            {
+              "nummer": "TK-8555Y",
+              "bezeichnung": "Toner",
+              "farbe": "Gelb",
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            },
+            {
+              "nummer": "WT-8500",
+              "bezeichnung": "Waste Toner Box / Resttonerbehälter",
+              "farbe": null,
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    "6054ci": {
+      "kyocera_modell": "TASKalfa 6054ci",
+      "gruppen": [
+        {
+          "name": "Main Parts",
+          "teile": [
+            {
+              "nummer": "DK-8560",
+              "bezeichnung": "Drum Unit / Trommeleinheit",
+              "farbe": null,
+              "quelle": "Kompatibilitätsliste + Geräteblock 6054ci",
+              "url": ""
+            },
+            {
+              "nummer": "DV-8570C",
+              "bezeichnung": "Developer Unit / Entwicklereinheit",
+              "farbe": "Cyan",
+              "quelle": "Kompatibilitätsliste + Geräteblock 6054ci",
+              "url": ""
+            },
+            {
+              "nummer": "DV-8570K",
+              "bezeichnung": "Developer Unit / Entwicklereinheit",
+              "farbe": "Schwarz",
+              "quelle": "Kompatibilitätsliste + Geräteblock 6054ci",
+              "url": ""
+            },
+            {
+              "nummer": "DV-8570M",
+              "bezeichnung": "Developer Unit / Entwicklereinheit",
+              "farbe": "Magenta",
+              "quelle": "Kompatibilitätsliste + Geräteblock 6054ci",
+              "url": ""
+            },
+            {
+              "nummer": "DV-8570Y",
+              "bezeichnung": "Developer Unit / Entwicklereinheit",
+              "farbe": "Gelb",
+              "quelle": "Kompatibilitätsliste + Geräteblock 6054ci",
+              "url": ""
+            },
+            {
+              "nummer": "FK-8570",
+              "bezeichnung": "Fuser Kit / Fixiereinheit",
+              "farbe": null,
+              "quelle": "Geräteblock 6054ci",
+              "url": ""
+            },
+            {
+              "nummer": "MC-8560",
+              "bezeichnung": "Main Charger",
+              "farbe": null,
+              "quelle": "Kompatibilitätsliste + Geräteblock 6054ci",
+              "url": ""
+            },
+            {
+              "nummer": "MK-8535A",
+              "bezeichnung": "Maintenance Kit / Wartungskit",
+              "farbe": null,
+              "quelle": "Kompatibilitätsliste + Geräteblock 6054ci",
+              "url": ""
+            },
+            {
+              "nummer": "MK-8535B",
+              "bezeichnung": "Maintenance Kit / Wartungskit",
+              "farbe": null,
+              "quelle": "Kompatibilitätsliste + Geräteblock 6054ci",
+              "url": ""
+            },
+            {
+              "nummer": "TR-8560",
+              "bezeichnung": "Transfer Unit",
+              "farbe": null,
+              "quelle": "Kompatibilitätsliste + Geräteblock 6054ci",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Toner/WTB",
+          "teile": [
+            {
+              "nummer": "TK-8555C",
+              "bezeichnung": "Toner",
+              "farbe": "Cyan",
+              "quelle": "Kompatibilitätsliste + Geräteblock 6054ci",
+              "url": ""
+            },
+            {
+              "nummer": "TK-8555K",
+              "bezeichnung": "Toner",
+              "farbe": "Schwarz",
+              "quelle": "Kompatibilitätsliste + Geräteblock 6054ci",
+              "url": ""
+            },
+            {
+              "nummer": "TK-8555M",
+              "bezeichnung": "Toner",
+              "farbe": "Magenta",
+              "quelle": "Kompatibilitätsliste + Geräteblock 6054ci",
+              "url": ""
+            },
+            {
+              "nummer": "TK-8555Y",
+              "bezeichnung": "Toner",
+              "farbe": "Gelb",
+              "quelle": "Kompatibilitätsliste + Geräteblock 6054ci",
+              "url": ""
+            },
+            {
+              "nummer": "WT-8500",
+              "bezeichnung": "Waste Toner Box / Resttonerbehälter",
+              "farbe": null,
+              "quelle": "Kompatibilitätsliste + Geräteblock 6054ci",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    "5004i": {
+      "kyocera_modell": "TASKalfa 5004i",
+      "gruppen": [
+        {
+          "name": "Main Parts",
+          "teile": [
+            {
+              "nummer": "DK-8560",
+              "bezeichnung": "Drum Unit / Trommeleinheit",
+              "farbe": null,
+              "quelle": "Geräteblock TASKalfa 5004i",
+              "url": ""
+            },
+            {
+              "nummer": "DV-8570K",
+              "bezeichnung": "Developer Unit / Entwicklereinheit",
+              "farbe": "Schwarz",
+              "quelle": "Geräteblock TASKalfa 5004i",
+              "url": ""
+            },
+            {
+              "nummer": "FK-8570",
+              "bezeichnung": "Fuser Kit / Fixiereinheit",
+              "farbe": null,
+              "quelle": "Geräteblock TASKalfa 5004i",
+              "url": ""
+            },
+            {
+              "nummer": "MC-8560",
+              "bezeichnung": "Main Charger",
+              "farbe": null,
+              "quelle": "Geräteblock TASKalfa 5004i",
+              "url": ""
+            },
+            {
+              "nummer": "MK-6345",
+              "bezeichnung": "Maintenance Kit / Wartungskit",
+              "farbe": null,
+              "quelle": "Geräteblock TASKalfa 5004i",
+              "url": ""
+            },
+            {
+              "nummer": "TR-6510",
+              "bezeichnung": "Transfer Unit",
+              "farbe": null,
+              "quelle": "Geräteblock TASKalfa 5004i",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Toner/WTB",
+          "teile": [
+            {
+              "nummer": "WT-8500",
+              "bezeichnung": "Waste Toner Box / Resttonerbehälter",
+              "farbe": null,
+              "quelle": "Kompatibilitätsliste",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    "pa6000x": {
+      "kyocera_modell": "ECOSYS PA6000x",
+      "gruppen": [
+        {
+          "name": "Main Parts",
+          "teile": [
+            {
+              "nummer": "DK-3210",
+              "bezeichnung": "Drum Unit / Trommeleinheit",
+              "farbe": null,
+              "quelle": "Geräteblock ECOSYS PA6000x",
+              "url": ""
+            },
+            {
+              "nummer": "DV-3110",
+              "bezeichnung": "Developer Unit / Entwicklereinheit",
+              "farbe": null,
+              "quelle": "Geräteblock ECOSYS PA6000x",
+              "url": ""
+            },
+            {
+              "nummer": "FK-3220",
+              "bezeichnung": "Fuser Kit / Fixiereinheit",
+              "farbe": null,
+              "quelle": "Geräteblock ECOSYS PA6000x",
+              "url": ""
+            },
+            {
+              "nummer": "MC-3100",
+              "bezeichnung": "Main Charger",
+              "farbe": null,
+              "quelle": "Geräteblock ECOSYS PA6000x",
+              "url": ""
+            },
+            {
+              "nummer": "MK-3380",
+              "bezeichnung": "Maintenance Kit / Wartungskit",
+              "farbe": null,
+              "quelle": "Geräteblock ECOSYS PA6000x",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Toner/WTB",
+          "teile": [
+            {
+              "nummer": "TK-3440",
+              "bezeichnung": "Toner",
+              "farbe": "Schwarz",
+              "quelle": "Geräteblock ECOSYS PA6000x",
+              "url": ""
+            },
+            {
+              "nummer": "WT-3200",
+              "bezeichnung": "Waste Toner Box / Resttonerbehälter",
+              "farbe": null,
+              "quelle": "Geräteblock ECOSYS PA6000x",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

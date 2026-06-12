@@ -6,6 +6,104 @@ import streamlit as st
 
 DATA_FILE = Path("data/modelle.json")
 
+ERSATZTEILE_FILE = Path("data/ersatzteile.json")
+
+def lade_ersatzteile():
+    """Lädt die Ersatzteildaten aus der separaten JSON-Datei."""
+    with open(ERSATZTEILE_FILE, "r", encoding="utf-8") as file:
+        return json.load(file)
+
+
+def normalisiere_key(text):
+    """
+    Macht Modellnamen vergleichbar.
+
+    Beispiele:
+    'TASKalfa 5054ci' -> '5054ci'
+    'ECOSYS PA6000x' -> 'pa6000x'
+    """
+    if not text:
+        return ""
+
+    return (
+        str(text)
+        .lower()
+        .replace("taskalfa", "")
+        .replace("ecosys", "")
+        .replace("kyocera", "")
+        .replace(" ", "")
+        .replace("-", "")
+        .strip()
+    )
+
+
+def finde_ersatzteile(eintrag, ersatzteile_db):
+    """
+    Sucht die passenden Ersatzteile zu einem Modell-Eintrag.
+    """
+    modelle = ersatzteile_db.get("modelle", {})
+    marken = eintrag.get("marken", {})
+
+    moegliche_keys = [
+        eintrag.get("id"),
+        marken.get("kyocera"),
+        marken.get("utax")
+    ]
+
+    for key in moegliche_keys:
+        normalisiert = normalisiere_key(key)
+
+        if normalisiert in modelle:
+            return modelle[normalisiert]
+
+    return None
+
+
+def formatiere_teil(teil):
+    """
+    Formatiert eine Ersatzteilnummer.
+    Später kann hier ein echter Link zur Knowledgebase genutzt werden.
+    """
+    nummer = teil.get("nummer", "-")
+    url = teil.get("url", "")
+
+    if url:
+        return f"[{nummer}]({url})"
+
+    return f"`{nummer}`"
+
+
+def zeige_ersatzteile(ersatzteil_daten):
+    """
+    Zeigt Ersatzteile im Stil der KyoceraCommunity-Struktur an:
+    Main Parts und Toner/WTB.
+    """
+    if not ersatzteil_daten:
+        st.info("Noch keine Ersatzteile hinterlegt.")
+        return
+
+    gruppen = ersatzteil_daten.get("gruppen", [])
+
+    if not gruppen:
+        st.info("Noch keine Ersatzteile hinterlegt.")
+        return
+
+    for gruppe in gruppen:
+        name = gruppe.get("name", "Ersatzteile")
+        teile = gruppe.get("teile", [])
+
+        st.markdown(
+            f"<span style='color: orange; font-weight: bold;'>{name}:</span>",
+            unsafe_allow_html=True
+        )
+
+        if not teile:
+            st.caption("Keine Teile in dieser Gruppe hinterlegt.")
+            continue
+
+        teile_ausgabe = " ".join(formatiere_teil(teil) for teil in teile)
+
+        st.markdown(teile_ausgabe)
 
 def lade_modelle():
     """Lädt die Gerätedaten aus der JSON-Datei."""
@@ -190,7 +288,7 @@ st.write(
 
 
 modelle = lade_modelle()
-
+ersatzteile_db = lade_ersatzteile()
 
 suchbegriff = st.text_input(
     "Modell suchen",
@@ -221,12 +319,18 @@ for eintrag in treffer:
         st.subheader(f"{hauptanzeige['titel']}: {hauptanzeige['modell']}")
         st.caption(hauptanzeige["hinweis"])
 
-        with st.expander("Weitere Informationen"):
-            st.write("**Modellbezeichnungen:**")
-            st.write(f"- Kyocera: {marken.get('kyocera') or '-'}")
-            st.write(f"- UTAX: {marken.get('utax') or '-'}")
+        # Modellbezeichnungen direkt sichtbar
+        st.write("**Modellbezeichnungen:**")
+        st.write(f"- Kyocera: {marken.get('kyocera') or '-'}")
+        st.write(f"- UTAX: {marken.get('utax') or '-'}")
 
-            st.write("**Technische Informationen:**")
+        # Ersatzteile als eigener aufklappbarer Bereich
+        with st.expander("Ersatzteile"):
+            ersatzteil_daten = finde_ersatzteile(eintrag, ersatzteile_db)
+            zeige_ersatzteile(ersatzteil_daten)
+
+        # Technische Informationen als eigener aufklappbarer Bereich
+        with st.expander("Technische Informationen"):
             st.write(f"- Produktname: {eintrag.get('produktname', '-')}")
             st.write(f"- Code: {eintrag.get('code', '-')}")
             st.write(f"- Beginn: {eintrag.get('beginn', '-')}")
