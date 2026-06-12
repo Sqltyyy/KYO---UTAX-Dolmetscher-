@@ -5,7 +5,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "5008ci",
-      "kyocera": "TASKalfa 5054ci",
+      "kyocera": "TASKalfa 5054ci"
     },
     "produktname": "Iris 2020 Color",
     "code": "2YM",
@@ -26,7 +26,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "6008ci",
-      "kyocera": "TASKalfa 6054ci",
+      "kyocera": "TASKalfa 6054ci"
     },
     "produktname": "Iris 2020 Color",
     "code": "2YL",
@@ -48,7 +48,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "5058i",
-      "kyocera": "TASKalfa 5004i",
+      "kyocera": "TASKalfa 5004i"
     },
     "produktname": "Iris 2020 mono",
     "code": "2YS",
@@ -71,7 +71,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-6034DN",
-      "kyocera": "PA6000x",
+      "kyocera": "PA6000x"
     },
     "produktname": "6th Gen. Next",
     "code": "C0T",

@@ -131,9 +131,7 @@ def markenname_schoen(marke):
     """
     namen = {
         "kyocera": "Kyocera",
-        "utax": "UTAX",
-        "triumph_adler": "Triumph-Adler",
-        "olivetti": "Olivetti"
+        "utax": "UTAX"
     }
 
     return namen.get(marke, marke)
@@ -227,8 +225,6 @@ for eintrag in treffer:
             st.write("**Modellbezeichnungen:**")
             st.write(f"- Kyocera: {marken.get('kyocera') or '-'}")
             st.write(f"- UTAX: {marken.get('utax') or '-'}")
-            st.write(f"- Triumph-Adler: {marken.get('triumph_adler') or '-'}")
-            st.write(f"- Olivetti: {marken.get('olivetti') or '-'}")
 
             st.write("**Technische Informationen:**")
             st.write(f"- Produktname: {eintrag.get('produktname', '-')}")
