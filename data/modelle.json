@@ -5282,7 +5282,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-3020MFP",
-      "kyocera": "M2030DN"
+      "kyocera": "ECOSYS M2030dn"
     },
     "produktname": "E-Discovery 2.5",
     "code": "2PK",
@@ -5296,7 +5296,12 @@
       "P3020MFP",
       "UTAXP3020MFP",
       "KyoceraM2030DN",
-      "EDiscovery2.5"
+      "EDiscovery2.5",
+      "M2030dn",
+      "ECOSYS M2030dn",
+      "Kyocera ECOSYS M2030dn",
+      "ECOSYSM2030dn",
+      "KyoceraECOSYSM2030dn"
     ],
     "bemerkung": ""
   },
@@ -5306,7 +5311,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-3520MFP",
-      "kyocera": "M2035DN"
+      "kyocera": "ECOSYS M2035dn"
     },
     "produktname": "E-Discovery 2.5",
     "code": "2PM",
@@ -5320,7 +5325,12 @@
       "P3520MFP",
       "UTAXP3520MFP",
       "KyoceraM2035DN",
-      "EDiscovery2.5"
+      "EDiscovery2.5",
+      "M2035dn",
+      "ECOSYS M2035dn",
+      "Kyocera ECOSYS M2035dn",
+      "ECOSYSM2035dn",
+      "KyoceraECOSYSM2035dn"
     ],
     "bemerkung": ""
   },
@@ -5330,7 +5340,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-4020MFP",
-      "kyocera": "M2040DN"
+      "kyocera": "ECOSYS M2040dn"
     },
     "produktname": "Libra MFP",
     "code": "2S3",
@@ -5344,7 +5354,12 @@
       "P4020MFP",
       "UTAXP4020MFP",
       "KyoceraM2040DN",
-      "LibraMFP"
+      "LibraMFP",
+      "M2040dn",
+      "ECOSYS M2040dn",
+      "Kyocera ECOSYS M2040dn",
+      "ECOSYSM2040dn",
+      "KyoceraECOSYSM2040dn"
     ],
     "bemerkung": ""
   },
@@ -5354,7 +5369,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-3521MFP",
-      "kyocera": "M2135DN"
+      "kyocera": "ECOSYS M2135dn"
     },
     "produktname": "Libra MFP",
     "code": "2S0",
@@ -5368,7 +5383,12 @@
       "P3521MFP",
       "UTAXP3521MFP",
       "KyoceraM2135DN",
-      "LibraMFP"
+      "LibraMFP",
+      "M2135dn",
+      "ECOSYS M2135dn",
+      "Kyocera ECOSYS M2135dn",
+      "ECOSYSM2135dn",
+      "KyoceraECOSYSM2135dn"
     ],
     "bemerkung": ""
   },
@@ -5378,7 +5398,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-3025MFP",
-      "kyocera": "M2530DN"
+      "kyocera": "ECOSYS M2530dn"
     },
     "produktname": "E-Discovery 2.5",
     "code": "2PL",
@@ -5392,7 +5412,12 @@
       "P3025MFP",
       "UTAXP3025MFP",
       "KyoceraM2530DN",
-      "EDiscovery2.5"
+      "EDiscovery2.5",
+      "M2530dn",
+      "ECOSYS M2530dn",
+      "Kyocera ECOSYS M2530dn",
+      "ECOSYSM2530dn",
+      "KyoceraECOSYSM2530dn"
     ],
     "bemerkung": ""
   },
@@ -5402,7 +5427,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-3525MFP",
-      "kyocera": "M2535DN"
+      "kyocera": "ECOSYS M2535dn"
     },
     "produktname": "Discovery 2.5",
     "code": "2PN",
@@ -5416,9 +5441,33 @@
       "P3525MFP",
       "UTAXP3525MFP",
       "KyoceraM2535DN",
-      "Discovery2.5"
+      "Discovery2.5",
+      "M2535dn",
+      "ECOSYS M2535dn",
+      "Kyocera ECOSYS M2535dn",
+      "ECOSYSM2535dn",
+      "KyoceraECOSYSM2535dn"
     ],
     "bemerkung": ""
+  },
+  {
+    "id": "m2540dn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS M2540dn"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "M2540dn",
+      "ECOSYS M2540dn",
+      "Kyocera ECOSYS M2540dn",
+      "ECOSYSM2540dn",
+      "KyoceraECOSYSM2540dn"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
   },
   {
     "id": "m2540dw",
@@ -5445,12 +5494,31 @@
     "bemerkung": ""
   },
   {
+    "id": "m2635dn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS M2635dn"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "M2635dn",
+      "ECOSYS M2635dn",
+      "Kyocera ECOSYS M2635dn",
+      "ECOSYSM2635dn",
+      "KyoceraECOSYSM2635dn"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
     "id": "m2640idw",
     "beginn": "01-2017",
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-4026iwMFP",
-      "kyocera": "M2640iDW"
+      "kyocera": "ECOSYS M2640idw"
     },
     "produktname": "Libra MFP TSI",
     "code": "2S5",
@@ -5464,7 +5532,12 @@
       "P4026iwMFP",
       "UTAXP4026iwMFP",
       "KyoceraM2640iDW",
-      "LibraMFPTSI"
+      "LibraMFPTSI",
+      "M2640idw",
+      "ECOSYS M2640idw",
+      "Kyocera ECOSYS M2640idw",
+      "ECOSYSM2640idw",
+      "KyoceraECOSYSM2640idw"
     ],
     "bemerkung": ""
   },
@@ -5474,7 +5547,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-3527wMFP",
-      "kyocera": "M2735DW"
+      "kyocera": "ECOSYS M2735dw"
     },
     "produktname": "Libra MFP",
     "code": "2SG",
@@ -5488,7 +5561,12 @@
       "P3527wMFP",
       "UTAXP3527wMFP",
       "KyoceraM2735DW",
-      "LibraMFP"
+      "LibraMFP",
+      "M2735dw",
+      "ECOSYS M2735dw",
+      "Kyocera ECOSYS M2735dw",
+      "ECOSYSM2735dw",
+      "KyoceraECOSYSM2735dw"
     ],
     "bemerkung": ""
   },
@@ -5498,7 +5576,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-4030MFP",
-      "kyocera": "M3040dn"
+      "kyocera": "ECOSYS M3040dn"
     },
     "produktname": "Polaris",
     "code": "2P0",
@@ -5511,7 +5589,11 @@
       "2P0",
       "P4030MFP",
       "UTAXP4030MFP",
-      "KyoceraM3040dn"
+      "KyoceraM3040dn",
+      "ECOSYS M3040dn",
+      "Kyocera ECOSYS M3040dn",
+      "ECOSYSM3040dn",
+      "KyoceraECOSYSM3040dn"
     ],
     "bemerkung": ""
   },
@@ -5521,7 +5603,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-4030iMFP",
-      "kyocera": "M3040idn"
+      "kyocera": "ECOSYS M3040idn"
     },
     "produktname": "Polaris",
     "code": "2NY",
@@ -5534,7 +5616,11 @@
       "2NY",
       "P4030iMFP",
       "UTAXP4030iMFP",
-      "KyoceraM3040idn"
+      "KyoceraM3040idn",
+      "ECOSYS M3040idn",
+      "Kyocera ECOSYS M3040idn",
+      "ECOSYSM3040idn",
+      "KyoceraECOSYSM3040idn"
     ],
     "bemerkung": ""
   },
@@ -5544,7 +5630,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-4531MFP",
-      "kyocera": "M3145dn"
+      "kyocera": "ECOSYS M3145dn"
     },
     "produktname": "Polaris E",
     "code": "2TF",
@@ -5558,7 +5644,11 @@
       "P4531MFP",
       "UTAXP4531MFP",
       "KyoceraM3145dn",
-      "PolarisE"
+      "PolarisE",
+      "ECOSYS M3145dn",
+      "Kyocera ECOSYS M3145dn",
+      "ECOSYSM3145dn",
+      "KyoceraECOSYSM3145dn"
     ],
     "bemerkung": ""
   },
@@ -5568,7 +5658,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-4531iMFP",
-      "kyocera": "M3145idn"
+      "kyocera": "ECOSYS M3145idn"
     },
     "produktname": "Polaris E",
     "code": "2V2",
@@ -5582,7 +5672,11 @@
       "P4531iMFP",
       "UTAXP4531iMFP",
       "KyoceraM3145idn",
-      "PolarisE"
+      "PolarisE",
+      "ECOSYS M3145idn",
+      "Kyocera ECOSYS M3145idn",
+      "ECOSYSM3145idn",
+      "KyoceraECOSYSM3145idn"
     ],
     "bemerkung": ""
   },
@@ -5592,7 +5686,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-4035MFP",
-      "kyocera": "M3540dn"
+      "kyocera": "ECOSYS M3540dn"
     },
     "produktname": "Polaris",
     "code": "2NZ",
@@ -5605,7 +5699,11 @@
       "2NZ",
       "P4035MFP",
       "UTAXP4035MFP",
-      "KyoceraM3540dn"
+      "KyoceraM3540dn",
+      "ECOSYS M3540dn",
+      "Kyocera ECOSYS M3540dn",
+      "ECOSYSM3540dn",
+      "KyoceraECOSYSM3540dn"
     ],
     "bemerkung": ""
   },
@@ -5615,7 +5713,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-4035iMFP",
-      "kyocera": "M3540idn"
+      "kyocera": "ECOSYS M3540idn"
     },
     "produktname": "Polaris",
     "code": "2NX",
@@ -5628,7 +5726,11 @@
       "2NX",
       "P4035iMFP",
       "UTAXP4035iMFP",
-      "KyoceraM3540idn"
+      "KyoceraM3540idn",
+      "ECOSYS M3540idn",
+      "Kyocera ECOSYS M3540idn",
+      "ECOSYSM3540idn",
+      "KyoceraECOSYSM3540idn"
     ],
     "bemerkung": ""
   },
@@ -5638,7 +5740,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-5035iMFP",
-      "kyocera": "M3550idn"
+      "kyocera": "ECOSYS M3550idn"
     },
     "produktname": "Polaris",
     "code": "2NM",
@@ -5651,7 +5753,11 @@
       "2NM",
       "P5035iMFP",
       "UTAXP5035iMFP",
-      "KyoceraM3550idn"
+      "KyoceraM3550idn",
+      "ECOSYS M3550idn",
+      "Kyocera ECOSYS M3550idn",
+      "ECOSYSM3550idn",
+      "KyoceraECOSYSM3550idn"
     ],
     "bemerkung": ""
   },
@@ -5661,7 +5767,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-6035iMFP",
-      "kyocera": "M3560idn"
+      "kyocera": "ECOSYS M3560idn"
     },
     "produktname": "Polaris",
     "code": "2P6",
@@ -5674,7 +5780,11 @@
       "2P6",
       "P6035iMFP",
       "UTAXP6035iMFP",
-      "KyoceraM3560idn"
+      "KyoceraM3560idn",
+      "ECOSYS M3560idn",
+      "Kyocera ECOSYS M3560idn",
+      "ECOSYSM3560idn",
+      "KyoceraECOSYSM3560idn"
     ],
     "bemerkung": ""
   },
@@ -5684,7 +5794,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-4536MFP",
-      "kyocera": "M3645dn"
+      "kyocera": "ECOSYS M3645dn"
     },
     "produktname": "Polaris E",
     "code": "2TG",
@@ -5698,7 +5808,11 @@
       "P4536MFP",
       "UTAXP4536MFP",
       "KyoceraM3645dn",
-      "PolarisE"
+      "PolarisE",
+      "ECOSYS M3645dn",
+      "Kyocera ECOSYS M3645dn",
+      "ECOSYSM3645dn",
+      "KyoceraECOSYSM3645dn"
     ],
     "bemerkung": ""
   },
@@ -5756,7 +5870,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-5536iMFP",
-      "kyocera": "M3655idn"
+      "kyocera": "ECOSYS M3655idn"
     },
     "produktname": "Polaris E",
     "code": "2TB",
@@ -5770,7 +5884,11 @@
       "P5536iMFP",
       "UTAXP5536iMFP",
       "KyoceraM3655idn",
-      "PolarisE"
+      "PolarisE",
+      "ECOSYS M3655idn",
+      "Kyocera ECOSYS M3655idn",
+      "ECOSYSM3655idn",
+      "KyoceraECOSYSM3655idn"
     ],
     "bemerkung": ""
   },
@@ -5780,7 +5898,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-6036iMFP",
-      "kyocera": "M3660idn"
+      "kyocera": "ECOSYS M3660idn"
     },
     "produktname": "Polaris E",
     "code": "2TA",
@@ -5794,7 +5912,11 @@
       "P6036iMFP",
       "UTAXP6036iMFP",
       "KyoceraM3660idn",
-      "PolarisE"
+      "PolarisE",
+      "ECOSYS M3660idn",
+      "Kyocera ECOSYS M3660idn",
+      "ECOSYSM3660idn",
+      "KyoceraECOSYSM3660idn"
     ],
     "bemerkung": ""
   },
@@ -5804,7 +5926,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-6038iMFP",
-      "kyocera": "M3860idn"
+      "kyocera": "ECOSYS M3860idn"
     },
     "produktname": "Polaris Eplus",
     "code": "2X9",
@@ -5818,7 +5940,11 @@
       "P6038iMFP",
       "UTAXP6038iMFP",
       "KyoceraM3860idn",
-      "PolarisEplus"
+      "PolarisEplus",
+      "ECOSYS M3860idn",
+      "Kyocera ECOSYS M3860idn",
+      "ECOSYSM3860idn",
+      "KyoceraECOSYSM3860idn"
     ],
     "bemerkung": ""
   },
@@ -5847,12 +5973,69 @@
     "bemerkung": ""
   },
   {
+    "id": "m4125idn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS M4125idn"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "M4125idn",
+      "ECOSYS M4125idn",
+      "Kyocera ECOSYS M4125idn",
+      "ECOSYSM4125idn",
+      "KyoceraECOSYSM4125idn"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
+    "id": "m4132idn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS M4132idn"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "M4132idn",
+      "ECOSYS M4132idn",
+      "Kyocera ECOSYS M4132idn",
+      "ECOSYSM4132idn",
+      "KyoceraECOSYSM4132idn"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
+    "id": "m5521cdn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS M5521cdn"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "M5521cdn",
+      "ECOSYS M5521cdn",
+      "Kyocera ECOSYS M5521cdn",
+      "ECOSYSM5521cdn",
+      "KyoceraECOSYSM5521cdn"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
     "id": "m5521cdw",
     "beginn": "01-2017",
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C2155wMFP",
-      "kyocera": "M5521cdw"
+      "kyocera": "ECOSYS M5521cdW"
     },
     "produktname": "Sirius MFP LCD",
     "code": "2R9",
@@ -5866,9 +6049,33 @@
       "PC2155wMFP",
       "UTAXPC2155wMFP",
       "KyoceraM5521cdw",
-      "SiriusMFPLCD"
+      "SiriusMFPLCD",
+      "M5521cdW",
+      "ECOSYS M5521cdW",
+      "Kyocera ECOSYS M5521cdW",
+      "ECOSYSM5521cdW",
+      "KyoceraECOSYSM5521cdW"
     ],
     "bemerkung": ""
+  },
+  {
+    "id": "m5526cdn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS M5526cdn"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "M5526cdn",
+      "ECOSYS M5526cdn",
+      "Kyocera ECOSYS M5526cdn",
+      "ECOSYSM5526cdn",
+      "KyoceraECOSYSM5526cdn"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
   },
   {
     "id": "m5526cdw",
@@ -5900,7 +6107,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C2660MFP",
-      "kyocera": "M6026cdn"
+      "kyocera": "ECOSYS M6026cdn"
     },
     "produktname": "E-Gemini L",
     "code": "2PV",
@@ -5914,7 +6121,11 @@
       "PC2660MFP",
       "UTAXPC2660MFP",
       "KyoceraM6026cdn",
-      "EGeminiL"
+      "EGeminiL",
+      "ECOSYS M6026cdn",
+      "Kyocera ECOSYS M6026cdn",
+      "ECOSYSM6026cdn",
+      "KyoceraECOSYSM6026cdn"
     ],
     "bemerkung": ""
   },
@@ -5948,7 +6159,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C3060MFP",
-      "kyocera": "M6030cdn"
+      "kyocera": "ECOSYS M6030cdn"
     },
     "produktname": "Mebius MFP",
     "code": "2NV",
@@ -5962,7 +6173,11 @@
       "PC3060MFP",
       "UTAXPC3060MFP",
       "KyoceraM6030cdn",
-      "MebiusMFP"
+      "MebiusMFP",
+      "ECOSYS M6030cdn",
+      "Kyocera ECOSYS M6030cdn",
+      "ECOSYSM6030cdn",
+      "KyoceraECOSYSM6030cdn"
     ],
     "bemerkung": ""
   },
@@ -5972,7 +6187,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C3560iMFP",
-      "kyocera": "M6035cidn"
+      "kyocera": "ECOSYS M6035cidn"
     },
     "produktname": "Mebius MFP",
     "code": "2PB",
@@ -5986,7 +6201,11 @@
       "PC3560iMFP",
       "UTAXPC3560iMFP",
       "KyoceraM6035cidn",
-      "MebiusMFP"
+      "MebiusMFP",
+      "ECOSYS M6035cidn",
+      "Kyocera ECOSYS M6035cidn",
+      "ECOSYSM6035cidn",
+      "KyoceraECOSYSM6035cidn"
     ],
     "bemerkung": ""
   },
@@ -5996,7 +6215,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C3062iMFP",
-      "kyocera": "M6230cidn"
+      "kyocera": "ECOSYS M6230cidn"
     },
     "produktname": "Mebius E MFP",
     "code": "2TY",
@@ -6010,7 +6229,11 @@
       "PC3062iMFP",
       "UTAXPC3062iMFP",
       "KyoceraM6230cidn",
-      "MebiusEMFP"
+      "MebiusEMFP",
+      "ECOSYS M6230cidn",
+      "Kyocera ECOSYS M6230cidn",
+      "ECOSYSM6230cidn",
+      "KyoceraECOSYSM6230cidn"
     ],
     "bemerkung": ""
   },
@@ -6020,7 +6243,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C3562iMFP",
-      "kyocera": "M6235cidn"
+      "kyocera": "ECOSYS M6235cidn"
     },
     "produktname": "Mebius E MFP",
     "code": "2V0",
@@ -6034,7 +6257,11 @@
       "PC3562iMFP",
       "UTAXPC3562iMFP",
       "KyoceraM6235cidn",
-      "MebiusEMFP"
+      "MebiusEMFP",
+      "ECOSYS M6235cidn",
+      "Kyocera ECOSYS M6235cidn",
+      "ECOSYSM6235cidn",
+      "KyoceraECOSYSM6235cidn"
     ],
     "bemerkung": ""
   },
@@ -6068,7 +6295,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C2665iMFP",
-      "kyocera": "M6526cidn"
+      "kyocera": "ECOSYS M6526cidn"
     },
     "produktname": "E-GeminiHyPAS",
     "code": "2PY",
@@ -6082,7 +6309,11 @@
       "PC2665iMFP",
       "UTAXPC2665iMFP",
       "KyoceraM6526cidn",
-      "EGeminiHyPAS"
+      "EGeminiHyPAS",
+      "ECOSYS M6526cidn",
+      "Kyocera ECOSYS M6526cidn",
+      "ECOSYSM6526cidn",
+      "KyoceraECOSYSM6526cidn"
     ],
     "bemerkung": ""
   },
@@ -6109,6 +6340,25 @@
       "MebiusMFP"
     ],
     "bemerkung": ""
+  },
+  {
+    "id": "m6530cidn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS M6530cidn"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "M6530cidn",
+      "ECOSYS M6530cidn",
+      "Kyocera ECOSYS M6530cidn",
+      "ECOSYSM6530cidn",
+      "KyoceraECOSYSM6530cidn"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
   },
   {
     "id": "m6535cidn",
@@ -6140,7 +6390,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C3066iMFP",
-      "kyocera": "M6630cidn"
+      "kyocera": "ECOSYS M6630cidn"
     },
     "produktname": "Mebius E MFP",
     "code": "2TZ",
@@ -6154,7 +6404,11 @@
       "PC3066iMFP",
       "UTAXPC3066iMFP",
       "KyoceraM6630cidn",
-      "MebiusEMFP"
+      "MebiusEMFP",
+      "ECOSYS M6630cidn",
+      "Kyocera ECOSYS M6630cidn",
+      "ECOSYSM6630cidn",
+      "KyoceraECOSYSM6630cidn"
     ],
     "bemerkung": ""
   },
@@ -6164,7 +6418,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C3566iMFP",
-      "kyocera": "M6635cidn"
+      "kyocera": "ECOSYS M6635cidn"
     },
     "produktname": "Mebius E MFP",
     "code": "2V1",
@@ -6178,9 +6432,108 @@
       "PC3566iMFP",
       "UTAXPC3566iMFP",
       "KyoceraM6635cidn",
-      "MebiusEMFP"
+      "MebiusEMFP",
+      "ECOSYS M6635cidn",
+      "Kyocera ECOSYS M6635cidn",
+      "ECOSYSM6635cidn",
+      "KyoceraECOSYSM6635cidn"
     ],
     "bemerkung": ""
+  },
+  {
+    "id": "m8124cidn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS M8124cidn"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "M8124cidn",
+      "ECOSYS M8124cidn",
+      "Kyocera ECOSYS M8124cidn",
+      "ECOSYSM8124cidn",
+      "KyoceraECOSYSM8124cidn"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
+    "id": "m8130cidn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS M8130cidn"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "M8130cidn",
+      "ECOSYS M8130cidn",
+      "Kyocera ECOSYS M8130cidn",
+      "ECOSYSM8130cidn",
+      "KyoceraECOSYSM8130cidn"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
+    "id": "ma2100cwfx",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS MA2100cwfx"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "MA2100cwfx",
+      "ECOSYS MA2100cwfx",
+      "Kyocera ECOSYS MA2100cwfx",
+      "ECOSYSMA2100cwfx",
+      "KyoceraECOSYSMA2100cwfx"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
+    "id": "ma2101cwfx",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS MA2101cwfx"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "MA2101cwfx",
+      "ECOSYS MA2101cwfx",
+      "Kyocera ECOSYS MA2101cwfx",
+      "ECOSYSMA2101cwfx",
+      "KyoceraECOSYSMA2101cwfx"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
+    "id": "ma2600cwfx",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS MA2600cwfx"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "MA2600cwfx",
+      "ECOSYS MA2600cwfx",
+      "Kyocera ECOSYS MA2600cwfx",
+      "ECOSYSMA2600cwfx",
+      "KyoceraECOSYSMA2600cwfx"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
   },
   {
     "id": "ma3500ci",
@@ -6213,7 +6566,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-C3567iMFP",
-      "kyocera": "MA3500cifx"
+      "kyocera": "ECOSYS MA3500cifx"
     },
     "produktname": "Virgo MFP",
     "code": "2Z3",
@@ -6227,7 +6580,11 @@
       "PC3567iMFP",
       "UTAXPC3567iMFP",
       "KyoceraMA3500cifx",
-      "VirgoMFP"
+      "VirgoMFP",
+      "ECOSYS MA3500cifx",
+      "Kyocera ECOSYS MA3500cifx",
+      "ECOSYSMA3500cifx",
+      "KyoceraECOSYSMA3500cifx"
     ],
     "bemerkung": ""
   },
@@ -6256,12 +6613,50 @@
     "bemerkung": ""
   },
   {
+    "id": "ma3500fx",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS MA3500fx"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "MA3500fx",
+      "ECOSYS MA3500fx",
+      "Kyocera ECOSYS MA3500fx",
+      "ECOSYSMA3500fx",
+      "KyoceraECOSYSMA3500fx"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
+    "id": "ma3501wfx",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS MA3501wfx"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "MA3501wfx",
+      "ECOSYS MA3501wfx",
+      "Kyocera ECOSYS MA3501wfx",
+      "ECOSYSMA3501wfx",
+      "KyoceraECOSYSMA3501wfx"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
     "id": "ma4000cifx",
     "beginn": "01-2024",
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-C4067iMFP",
-      "kyocera": "MA4000cifx"
+      "kyocera": "ECOSYS MA4000cifx"
     },
     "produktname": "Virgo MFP",
     "code": "2Z5",
@@ -6275,7 +6670,11 @@
       "PC4067iMFP",
       "UTAXPC4067iMFP",
       "KyoceraMA4000cifx",
-      "VirgoMFP"
+      "VirgoMFP",
+      "ECOSYS MA4000cifx",
+      "Kyocera ECOSYS MA4000cifx",
+      "ECOSYSMA4000cifx",
+      "KyoceraECOSYSMA4000cifx"
     ],
     "bemerkung": ""
   },
@@ -6333,7 +6732,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-4027iwMFP",
-      "kyocera": "MA4000wifx"
+      "kyocera": "ECOSYS MA4000wifx"
     },
     "produktname": "Libra MFP 2.0",
     "code": "C1D",
@@ -6347,7 +6746,11 @@
       "P4027iwMFP",
       "UTAXP4027iwMFP",
       "KyoceraMA4000wifx",
-      "LibraMFP2.0"
+      "LibraMFP2.0",
+      "ECOSYS MA4000wifx",
+      "Kyocera ECOSYS MA4000wifx",
+      "ECOSYSMA4000wifx",
+      "KyoceraECOSYSMA4000wifx"
     ],
     "bemerkung": ""
   },
@@ -6406,7 +6809,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-4539MFP",
-      "kyocera": "MA4500fx"
+      "kyocera": "ECOSYS MA4500fx"
     },
     "produktname": "Polaris Next",
     "code": "C12",
@@ -6420,7 +6823,11 @@
       "P4539MFP",
       "UTAXP4539MFP",
       "KyoceraMA4500fx",
-      "PolarisNext"
+      "PolarisNext",
+      "ECOSYS MA4500fx",
+      "Kyocera ECOSYS MA4500fx",
+      "ECOSYSMA4500fx",
+      "KyoceraECOSYSMA4500fx"
     ],
     "bemerkung": ""
   },
@@ -6430,7 +6837,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-4539iMFP",
-      "kyocera": "MA4500ifx"
+      "kyocera": "ECOSYS MA4500ifx"
     },
     "produktname": "Polaris Next",
     "code": "C10",
@@ -6444,7 +6851,11 @@
       "P4539iMFP",
       "UTAXP4539iMFP",
       "KyoceraMA4500ifx",
-      "PolarisNext"
+      "PolarisNext",
+      "ECOSYS MA4500ifx",
+      "Kyocera ECOSYS MA4500ifx",
+      "ECOSYSMA4500ifx",
+      "KyoceraECOSYSMA4500ifx"
     ],
     "bemerkung": ""
   },
@@ -6478,7 +6889,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-4532MFP",
-      "kyocera": "MA4500x"
+      "kyocera": "ECOSYS MA4500x"
     },
     "produktname": "Polaris Next",
     "code": "C13",
@@ -6492,7 +6903,11 @@
       "P4532MFP",
       "UTAXP4532MFP",
       "KyoceraMA4500x",
-      "PolarisNext"
+      "PolarisNext",
+      "ECOSYS MA4500x",
+      "Kyocera ECOSYS MA4500x",
+      "ECOSYSMA4500x",
+      "KyoceraECOSYSMA4500x"
     ],
     "bemerkung": ""
   },
@@ -6502,7 +6917,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-5539iMFP",
-      "kyocera": "MA5500ifx"
+      "kyocera": "ECOSYS MA5500ifx"
     },
     "produktname": "Polaris Next",
     "code": "C0Z",
@@ -6516,7 +6931,11 @@
       "P5539iMFP",
       "UTAXP5539iMFP",
       "KyoceraMA5500ifx",
-      "PolarisNext"
+      "PolarisNext",
+      "ECOSYS MA5500ifx",
+      "Kyocera ECOSYS MA5500ifx",
+      "ECOSYSMA5500ifx",
+      "KyoceraECOSYSMA5500ifx"
     ],
     "bemerkung": ""
   },
@@ -6526,7 +6945,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-6039iMFP",
-      "kyocera": "MA6000ifx"
+      "kyocera": "ECOSYS MA6000ifx"
     },
     "produktname": "Polaris Next",
     "code": "C0V",
@@ -6540,7 +6959,11 @@
       "P6039iMFP",
       "UTAXP6039iMFP",
       "KyoceraMA6000ifx",
-      "PolarisNext"
+      "PolarisNext",
+      "ECOSYS MA6000ifx",
+      "Kyocera ECOSYS MA6000ifx",
+      "ECOSYSMA6000ifx",
+      "KyoceraECOSYSMA6000ifx"
     ],
     "bemerkung": ""
   },
@@ -6593,6 +7016,25 @@
       "Tomcat4"
     ],
     "bemerkung": ""
+  },
+  {
+    "id": "mz3201ix",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS MZ3201ix"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "MZ3201ix",
+      "ECOSYS MZ3201ix",
+      "Kyocera ECOSYS MZ3201ix",
+      "ECOSYSMZ3201ix",
+      "KyoceraECOSYSMZ3201ix"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
   },
   {
     "id": "mz3501ci",
@@ -6825,7 +7267,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-3520D",
-      "kyocera": "P2035d"
+      "kyocera": "ECOSYS P2035d"
     },
     "produktname": "E-Dolphin",
     "code": "2PG",
@@ -6839,7 +7281,11 @@
       "P3520D",
       "UTAXP3520D",
       "KyoceraP2035d",
-      "EDolphin"
+      "EDolphin",
+      "ECOSYS P2035d",
+      "Kyocera ECOSYS P2035d",
+      "ECOSYSP2035d",
+      "KyoceraECOSYSP2035d"
     ],
     "bemerkung": ""
   },
@@ -6849,7 +7295,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-4020DN",
-      "kyocera": "P2040dn"
+      "kyocera": "ECOSYS P2040dn"
     },
     "produktname": "Libra Printer",
     "code": "2RX",
@@ -6863,7 +7309,11 @@
       "P4020DN",
       "UTAXP4020DN",
       "KyoceraP2040dn",
-      "LibraPrinter"
+      "LibraPrinter",
+      "ECOSYS P2040dn",
+      "Kyocera ECOSYS P2040dn",
+      "ECOSYSP2040dn",
+      "KyoceraECOSYSP2040dn"
     ],
     "bemerkung": ""
   },
@@ -6873,7 +7323,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-4020DW",
-      "kyocera": "P2040dw"
+      "kyocera": "ECOSYS P2040dw"
     },
     "produktname": "Libra Printer",
     "code": "2RY",
@@ -6887,7 +7337,11 @@
       "P4020DW",
       "UTAXP4020DW",
       "KyoceraP2040dw",
-      "LibraPrinter"
+      "LibraPrinter",
+      "ECOSYS P2040dw",
+      "Kyocera ECOSYS P2040dw",
+      "ECOSYSP2040dw",
+      "KyoceraECOSYSP2040dw"
     ],
     "bemerkung": ""
   },
@@ -6921,7 +7375,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-3521DN",
-      "kyocera": "P2135dn"
+      "kyocera": "ECOSYS P2135dn"
     },
     "produktname": "E-Dolphin Net",
     "code": "2LZ",
@@ -6935,9 +7389,32 @@
       "P3521DN",
       "UTAXP3521DN",
       "KyoceraP2135dn",
-      "EDolphinNet"
+      "EDolphinNet",
+      "ECOSYS P2135dn",
+      "Kyocera ECOSYS P2135dn",
+      "ECOSYSP2135dn",
+      "KyoceraECOSYSP2135dn"
     ],
     "bemerkung": ""
+  },
+  {
+    "id": "p2235dn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS P2235dn"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "P2235dn",
+      "ECOSYS P2235dn",
+      "Kyocera ECOSYS P2235dn",
+      "ECOSYSP2235dn",
+      "KyoceraECOSYSP2235dn"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
   },
   {
     "id": "p2235dw",
@@ -6945,7 +7422,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-3522DW",
-      "kyocera": "P2235dw"
+      "kyocera": "ECOSYS P2235dw"
     },
     "produktname": "Libra Printer",
     "code": "2RW",
@@ -6959,7 +7436,11 @@
       "P3522DW",
       "UTAXP3522DW",
       "KyoceraP2235dw",
-      "LibraPrinter"
+      "LibraPrinter",
+      "ECOSYS P2235dw",
+      "Kyocera ECOSYS P2235dw",
+      "ECOSYSP2235dw",
+      "KyoceraECOSYSP2235dw"
     ],
     "bemerkung": ""
   },
@@ -6969,7 +7450,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-4531DN",
-      "kyocera": "P3045dn"
+      "kyocera": "ECOSYS P3045dn"
     },
     "produktname": "6th Generation +",
     "code": "2T9",
@@ -6983,7 +7464,11 @@
       "P4531DN",
       "UTAXP4531DN",
       "KyoceraP3045dn",
-      "6thGeneration+"
+      "6thGeneration+",
+      "ECOSYS P3045dn",
+      "Kyocera ECOSYS P3045dn",
+      "ECOSYSP3045dn",
+      "KyoceraECOSYSP3045dn"
     ],
     "bemerkung": ""
   },
@@ -6993,7 +7478,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-5031DN",
-      "kyocera": "P3050dn"
+      "kyocera": "ECOSYS P3050dn"
     },
     "produktname": "6th Generation +",
     "code": "2T8",
@@ -7007,7 +7492,11 @@
       "P5031DN",
       "UTAXP5031DN",
       "KyoceraP3050dn",
-      "6thGeneration+"
+      "6thGeneration+",
+      "ECOSYS P3050dn",
+      "Kyocera ECOSYS P3050dn",
+      "ECOSYSP3050dn",
+      "KyoceraECOSYSP3050dn"
     ],
     "bemerkung": ""
   },
@@ -7017,7 +7506,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-5531DN",
-      "kyocera": "P3055dn"
+      "kyocera": "ECOSYS P3055dn"
     },
     "produktname": "6th Generation +",
     "code": "2T7",
@@ -7031,7 +7520,11 @@
       "P5531DN",
       "UTAXP5531DN",
       "KyoceraP3055dn",
-      "6thGeneration+"
+      "6thGeneration+",
+      "ECOSYS P3055dn",
+      "Kyocera ECOSYS P3055dn",
+      "ECOSYSP3055dn",
+      "KyoceraECOSYSP3055dn"
     ],
     "bemerkung": ""
   },
@@ -7041,7 +7534,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-6031DN",
-      "kyocera": "P3060dn"
+      "kyocera": "ECOSYS P3060dn"
     },
     "produktname": "6th Generation +",
     "code": "2T6",
@@ -7055,7 +7548,11 @@
       "P6031DN",
       "UTAXP6031DN",
       "KyoceraP3060dn",
-      "6thGeneration+"
+      "6thGeneration+",
+      "ECOSYS P3060dn",
+      "Kyocera ECOSYS P3060dn",
+      "ECOSYSP3060dn",
+      "KyoceraECOSYSP3060dn"
     ],
     "bemerkung": ""
   },
@@ -7065,7 +7562,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-4532DN",
-      "kyocera": "P3145dn"
+      "kyocera": "ECOSYS P3145DN"
     },
     "produktname": "6th Gen.+E",
     "code": "2TT",
@@ -7079,7 +7576,12 @@
       "P4532DN",
       "UTAXP4532DN",
       "KyoceraP3145dn",
-      "6thGen.+E"
+      "6thGen.+E",
+      "P3145DN",
+      "ECOSYS P3145DN",
+      "Kyocera ECOSYS P3145DN",
+      "ECOSYSP3145DN",
+      "KyoceraECOSYSP3145DN"
     ],
     "bemerkung": ""
   },
@@ -7089,7 +7591,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-5032DN",
-      "kyocera": "P3150dn"
+      "kyocera": "ECOSYS P3150dn"
     },
     "produktname": "6th Gen.+E",
     "code": "2TS",
@@ -7103,7 +7605,11 @@
       "P5032DN",
       "UTAXP5032DN",
       "KyoceraP3150dn",
-      "6thGen.+E"
+      "6thGen.+E",
+      "ECOSYS P3150dn",
+      "Kyocera ECOSYS P3150dn",
+      "ECOSYSP3150dn",
+      "KyoceraECOSYSP3150dn"
     ],
     "bemerkung": ""
   },
@@ -7113,7 +7619,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-5532DN",
-      "kyocera": "P3155dn"
+      "kyocera": "ECOSYS P3155dn"
     },
     "produktname": "6th Gen.+E",
     "code": "2TR",
@@ -7127,7 +7633,11 @@
       "P5532DN",
       "UTAXP5532DN",
       "KyoceraP3155dn",
-      "6thGen.+E"
+      "6thGen.+E",
+      "ECOSYS P3155dn",
+      "Kyocera ECOSYS P3155dn",
+      "ECOSYSP3155dn",
+      "KyoceraECOSYSP3155dn"
     ],
     "bemerkung": ""
   },
@@ -7137,7 +7647,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-6033DN",
-      "kyocera": "P3260dn"
+      "kyocera": "ECOSYS P3260dn"
     },
     "produktname": "6th Gen.+E",
     "code": "2WD",
@@ -7151,9 +7661,32 @@
       "P6033DN",
       "UTAXP6033DN",
       "KyoceraP3260dn",
-      "6thGen.+E"
+      "6thGen.+E",
+      "ECOSYS P3260dn",
+      "Kyocera ECOSYS P3260dn",
+      "ECOSYSP3260dn",
+      "KyoceraECOSYSP3260dn"
     ],
     "bemerkung": ""
+  },
+  {
+    "id": "p4040dn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS P4040DN"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "P4040DN",
+      "ECOSYS P4040DN",
+      "Kyocera ECOSYS P4040DN",
+      "ECOSYSP4040DN",
+      "KyoceraECOSYSP4040DN"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
   },
   {
     "id": "p4060dn",
@@ -7161,7 +7694,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-6040DN",
-      "kyocera": "P4060dn"
+      "kyocera": "ECOSYS P4060DN"
     },
     "produktname": "Iris Printer mono",
     "code": "2RS",
@@ -7175,9 +7708,90 @@
       "P6040DN",
       "UTAXP6040DN",
       "KyoceraP4060dn",
-      "IrisPrintermono"
+      "IrisPrintermono",
+      "P4060DN",
+      "ECOSYS P4060DN",
+      "Kyocera ECOSYS P4060DN",
+      "ECOSYSP4060DN",
+      "KyoceraECOSYSP4060DN"
     ],
     "bemerkung": ""
+  },
+  {
+    "id": "p4140dn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS P4140dn"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "P4140dn",
+      "ECOSYS P4140dn",
+      "Kyocera ECOSYS P4140dn",
+      "ECOSYSP4140dn",
+      "KyoceraECOSYSP4140dn"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
+    "id": "p5021cdn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS P5021cdn"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "P5021cdn",
+      "ECOSYS P5021cdn",
+      "Kyocera ECOSYS P5021cdn",
+      "ECOSYSP5021cdn",
+      "KyoceraECOSYSP5021cdn"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
+    "id": "p5021cdw",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS P5021cdw"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "P5021cdw",
+      "ECOSYS P5021cdw",
+      "Kyocera ECOSYS P5021cdw",
+      "ECOSYSP5021cdw",
+      "KyoceraECOSYSP5021cdw"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
+    "id": "p5026cdn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS P5026cdn"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "P5026cdn",
+      "ECOSYS P5026cdn",
+      "Kyocera ECOSYS P5026cdn",
+      "ECOSYSP5026cdn",
+      "KyoceraECOSYSP5026cdn"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
   },
   {
     "id": "p5026cdw",
@@ -7185,7 +7799,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-C2650DW",
-      "kyocera": "P5026cdw"
+      "kyocera": "ECOSYS P5026cdw"
     },
     "produktname": "Sirius Printer",
     "code": "2RB",
@@ -7199,7 +7813,11 @@
       "PC2650DW",
       "UTAXPC2650DW",
       "KyoceraP5026cdw",
-      "SiriusPrinter"
+      "SiriusPrinter",
+      "ECOSYS P5026cdw",
+      "Kyocera ECOSYS P5026cdw",
+      "ECOSYSP5026cdw",
+      "KyoceraECOSYSP5026cdw"
     ],
     "bemerkung": ""
   },
@@ -7209,7 +7827,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C2160DN",
-      "kyocera": "P6021cdn"
+      "kyocera": "ECOSYS P6021cdn"
     },
     "produktname": "E-Gemini 1.5 Prt",
     "code": "2PS",
@@ -7223,7 +7841,11 @@
       "PC2160DN",
       "UTAXPC2160DN",
       "KyoceraP6021cdn",
-      "EGemini1.5Prt"
+      "EGemini1.5Prt",
+      "ECOSYS P6021cdn",
+      "Kyocera ECOSYS P6021cdn",
+      "ECOSYSP6021cdn",
+      "KyoceraECOSYSP6021cdn"
     ],
     "bemerkung": ""
   },
@@ -7233,7 +7855,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C2660DN",
-      "kyocera": "P6026cdn"
+      "kyocera": "ECOSYS P6026cdn"
     },
     "produktname": "E-Gemini 1.5 Prt",
     "code": "2PT",
@@ -7247,7 +7869,11 @@
       "PC2660DN",
       "UTAXPC2660DN",
       "KyoceraP6026cdn",
-      "EGemini1.5Prt"
+      "EGemini1.5Prt",
+      "ECOSYS P6026cdn",
+      "Kyocera ECOSYS P6026cdn",
+      "ECOSYSP6026cdn",
+      "KyoceraECOSYSP6026cdn"
     ],
     "bemerkung": ""
   },
@@ -7257,7 +7883,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C3060DN",
-      "kyocera": "P6030cdn"
+      "kyocera": "ECOSYS P6030cdn"
     },
     "produktname": "E-Cassiopeia 30",
     "code": "2PP",
@@ -7271,7 +7897,11 @@
       "PC3060DN",
       "UTAXPC3060DN",
       "KyoceraP6030cdn",
-      "ECassiopeia30"
+      "ECassiopeia30",
+      "ECOSYS P6030cdn",
+      "Kyocera ECOSYS P6030cdn",
+      "ECOSYSP6030cdn",
+      "KyoceraECOSYSP6030cdn"
     ],
     "bemerkung": ""
   },
@@ -7281,7 +7911,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C3560DN",
-      "kyocera": "P6035cdn"
+      "kyocera": "ECOSYS P6035CDN"
     },
     "produktname": "Mebius Printer",
     "code": "2NS",
@@ -7295,7 +7925,12 @@
       "PC3560DN",
       "UTAXPC3560DN",
       "KyoceraP6035cdn",
-      "MebiusPrinter"
+      "MebiusPrinter",
+      "P6035CDN",
+      "ECOSYS P6035CDN",
+      "Kyocera ECOSYS P6035CDN",
+      "ECOSYSP6035CDN",
+      "KyoceraECOSYSP6035CDN"
     ],
     "bemerkung": ""
   },
@@ -7305,7 +7940,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C3061DN",
-      "kyocera": "P6130cdn"
+      "kyocera": "ECOSYS P6130CDN"
     },
     "produktname": "Mebius Printer",
     "code": "2NR",
@@ -7319,7 +7954,12 @@
       "PC3061DN",
       "UTAXPC3061DN",
       "KyoceraP6130cdn",
-      "MebiusPrinter"
+      "MebiusPrinter",
+      "P6130CDN",
+      "ECOSYS P6130CDN",
+      "Kyocera ECOSYS P6130CDN",
+      "ECOSYSP6130CDN",
+      "KyoceraECOSYSP6130CDN"
     ],
     "bemerkung": ""
   },
@@ -7329,7 +7969,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C3062DN",
-      "kyocera": "P6230cdn"
+      "kyocera": "ECOSYS P6230cdn"
     },
     "produktname": "Mebius E Printer",
     "code": "2TV",
@@ -7343,7 +7983,11 @@
       "PC3062DN",
       "UTAXPC3062DN",
       "KyoceraP6230cdn",
-      "MebiusEPrinter"
+      "MebiusEPrinter",
+      "ECOSYS P6230cdn",
+      "Kyocera ECOSYS P6230cdn",
+      "ECOSYSP6230cdn",
+      "KyoceraECOSYSP6230cdn"
     ],
     "bemerkung": ""
   },
@@ -7353,7 +7997,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-C3562DN",
-      "kyocera": "P6235cdn"
+      "kyocera": "ECOSYS P6235cdn"
     },
     "produktname": "Mebius E Printer",
     "code": "2TW",
@@ -7367,7 +8011,11 @@
       "PC3562DN",
       "UTAXPC3562DN",
       "KyoceraP6235cdn",
-      "MebiusEPrinter"
+      "MebiusEPrinter",
+      "ECOSYS P6235cdn",
+      "Kyocera ECOSYS P6235cdn",
+      "ECOSYSP6235cdn",
+      "KyoceraECOSYSP6235cdn"
     ],
     "bemerkung": ""
   },
@@ -7401,7 +8049,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C4070DN",
-      "kyocera": "P7040cdn"
+      "kyocera": "ECOSYS P7040cdn"
     },
     "produktname": "Mebius Printer",
     "code": "2NT",
@@ -7415,7 +8063,11 @@
       "PC4070DN",
       "UTAXPC4070DN",
       "KyoceraP7040cdn",
-      "MebiusPrinter"
+      "MebiusPrinter",
+      "ECOSYS P7040cdn",
+      "Kyocera ECOSYS P7040cdn",
+      "ECOSYSP7040cdn",
+      "KyoceraECOSYSP7040cdn"
     ],
     "bemerkung": ""
   },
@@ -7425,7 +8077,7 @@
     "vertrieb_eingestellt": true,
     "marken": {
       "utax": "P-C4072DN",
-      "kyocera": "P7240cdn"
+      "kyocera": "ECOSYS P7240cdn"
     },
     "produktname": "Mebius E Printer",
     "code": "2TX",
@@ -7439,9 +8091,89 @@
       "PC4072DN",
       "UTAXPC4072DN",
       "KyoceraP7240cdn",
-      "MebiusEPrinter"
+      "MebiusEPrinter",
+      "ECOSYS P7240cdn",
+      "Kyocera ECOSYS P7240cdn",
+      "ECOSYSP7240cdn",
+      "KyoceraECOSYSP7240cdn"
     ],
     "bemerkung": ""
+  },
+  {
+    "id": "p8060cdn",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS P8060cdn"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "P8060cdn",
+      "ECOSYS P8060cdn",
+      "Kyocera ECOSYS P8060cdn",
+      "ECOSYSP8060cdn",
+      "KyoceraECOSYSP8060cdn"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
+    "id": "pa2100cwx",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS PA2100cwx"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "PA2100cwx",
+      "ECOSYS PA2100cwx",
+      "Kyocera ECOSYS PA2100cwx",
+      "ECOSYSPA2100cwx",
+      "KyoceraECOSYSPA2100cwx"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
+    "id": "pa2101cwx",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS PA2101cwx"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "PA2101cwx",
+      "ECOSYS PA2101cwx",
+      "Kyocera ECOSYS PA2101cwx",
+      "ECOSYSPA2101cwx",
+      "KyoceraECOSYSPA2101cwx"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
+    "id": "pa2600cwx",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS PA2600cwx"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "PA2600cwx",
+      "ECOSYS PA2600cwx",
+      "Kyocera ECOSYS PA2600cwx",
+      "ECOSYSPA2600cwx",
+      "KyoceraECOSYSPA2600cwx"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
   },
   {
     "id": "pa3500cx",
@@ -7449,7 +8181,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-C3563DN",
-      "kyocera": "PA3500cx"
+      "kyocera": "ECOSYS PA3500cx"
     },
     "produktname": "Virgo Printer",
     "code": "2YJ",
@@ -7463,9 +8195,32 @@
       "PC3563DN",
       "UTAXPC3563DN",
       "KyoceraPA3500cx",
-      "VirgoPrinter"
+      "VirgoPrinter",
+      "ECOSYS PA3500cx",
+      "Kyocera ECOSYS PA3500cx",
+      "ECOSYSPA3500cx",
+      "KyoceraECOSYSPA3500cx"
     ],
     "bemerkung": ""
+  },
+  {
+    "id": "pa3500wx",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS PA3500wx"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "PA3500wx",
+      "ECOSYS PA3500wx",
+      "Kyocera ECOSYS PA3500wx",
+      "ECOSYSPA3500wx",
+      "KyoceraECOSYSPA3500wx"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
   },
   {
     "id": "pa4000cx",
@@ -7473,7 +8228,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-C4063DN",
-      "kyocera": "PA4000cx"
+      "kyocera": "ECOSYS PA4000cx"
     },
     "produktname": "Virgo Printer",
     "code": "2Z0",
@@ -7487,7 +8242,11 @@
       "PC4063DN",
       "UTAXPC4063DN",
       "KyoceraPA4000cx",
-      "VirgoPrinter"
+      "VirgoPrinter",
+      "ECOSYS PA4000cx",
+      "Kyocera ECOSYS PA4000cx",
+      "ECOSYSPA4000cx",
+      "KyoceraECOSYSPA4000cx"
     ],
     "bemerkung": ""
   },
@@ -7497,7 +8256,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-4021DW",
-      "kyocera": "PA4000wx"
+      "kyocera": "ECOSYS PA4000wx"
     },
     "produktname": "Libra Prt. 2.0",
     "code": "C1F",
@@ -7511,7 +8270,11 @@
       "P4021DW",
       "UTAXP4021DW",
       "KyoceraPA4000wx",
-      "LibraPrt.2.0"
+      "LibraPrt.2.0",
+      "ECOSYS PA4000wx",
+      "Kyocera ECOSYS PA4000wx",
+      "ECOSYSPA4000wx",
+      "KyoceraECOSYSPA4000wx"
     ],
     "bemerkung": ""
   },
@@ -7563,12 +8326,31 @@
     "bemerkung": ""
   },
   {
+    "id": "pa4500cx",
+    "beginn": "",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": null,
+      "kyocera": "ECOSYS PA4500cx"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "PA4500cx",
+      "ECOSYS PA4500cx",
+      "Kyocera ECOSYS PA4500cx",
+      "ECOSYSPA4500cx",
+      "KyoceraECOSYSPA4500cx"
+    ],
+    "bemerkung": "Aus A4Partsmodel.md ergänzt; keine UTAX-Zuordnung in der vorhandenen modelle.json gefunden."
+  },
+  {
     "id": "pa4500x",
     "beginn": "10-2023",
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-4534DN",
-      "kyocera": "PA4500x"
+      "kyocera": "ECOSYS PA4500x"
     },
     "produktname": "6th Gen. Next",
     "code": "C0Y",
@@ -7582,7 +8364,11 @@
       "P4534DN",
       "UTAXP4534DN",
       "KyoceraPA4500x",
-      "6thGen.Next"
+      "6thGen.Next",
+      "ECOSYS PA4500x",
+      "Kyocera ECOSYS PA4500x",
+      "ECOSYSPA4500x",
+      "KyoceraECOSYSPA4500x"
     ],
     "bemerkung": ""
   },
@@ -7592,7 +8378,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-5034DN",
-      "kyocera": "PA5000x"
+      "kyocera": "ECOSYS PA5000x"
     },
     "produktname": "6th Gen. Next",
     "code": "C0X",
@@ -7606,7 +8392,11 @@
       "P5034DN",
       "UTAXP5034DN",
       "KyoceraPA5000x",
-      "6thGen.Next"
+      "6thGen.Next",
+      "ECOSYS PA5000x",
+      "Kyocera ECOSYS PA5000x",
+      "ECOSYSPA5000x",
+      "KyoceraECOSYSPA5000x"
     ],
     "bemerkung": ""
   },
@@ -7616,7 +8406,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-5534DN",
-      "kyocera": "PA5500x"
+      "kyocera": "ECOSYS PA5500x"
     },
     "produktname": "6th Gen. Next",
     "code": "C0W",
@@ -7630,7 +8420,11 @@
       "P5534DN",
       "UTAXP5534DN",
       "KyoceraPA5500x",
-      "6thGen.Next"
+      "6thGen.Next",
+      "ECOSYS PA5500x",
+      "Kyocera ECOSYS PA5500x",
+      "ECOSYSPA5500x",
+      "KyoceraECOSYSPA5500x"
     ],
     "bemerkung": ""
   },
@@ -7640,7 +8434,7 @@
     "vertrieb_eingestellt": false,
     "marken": {
       "utax": "P-6034DN",
-      "kyocera": "PA6000x"
+      "kyocera": "ECOSYS PA6000x"
     },
     "produktname": "6th Gen. Next",
     "code": "C0T",
@@ -7654,7 +8448,11 @@
       "P6034DN",
       "UTAXP6034DN",
       "KyoceraPA6000x",
-      "6thGen.Next"
+      "6thGen.Next",
+      "ECOSYS PA6000x",
+      "Kyocera ECOSYS PA6000x",
+      "ECOSYSPA6000x",
+      "KyoceraECOSYSPA6000x"
     ],
     "bemerkung": ""
   },
