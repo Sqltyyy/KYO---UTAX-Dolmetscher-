@@ -1,0 +1,7778 @@
+[
+  {
+    "id": "180",
+    "beginn": "10-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1118",
+      "kyocera": "TASKalfa 180"
+    },
+    "produktname": "Orion GDI",
+    "code": "2KK",
+    "aliases": [
+      "CD 1118",
+      "UTAX CD 1118",
+      "DC 2118",
+      "TASKalfa 180",
+      "Kyocera TASKalfa 180",
+      "180",
+      "Orion GDI",
+      "2KK",
+      "CD1118",
+      "UTAXCD1118",
+      "DC2118",
+      "TASKalfa180",
+      "KyoceraTASKalfa180",
+      "OrionGDI"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "1800",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "1855x",
+      "kyocera": "TASKalfa 1800"
+    },
+    "produktname": "Kizuna Basic",
+    "code": "2NF",
+    "aliases": [
+      "1855x",
+      "UTAX 1855x",
+      "TASKalfa 1800",
+      "Kyocera TASKalfa 1800",
+      "1800",
+      "Kizuna Basic",
+      "2NF",
+      "UTAX1855x",
+      "TASKalfa1800",
+      "KyoceraTASKalfa1800",
+      "KizunaBasic"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "181",
+    "beginn": "10-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1218",
+      "kyocera": "TASKalfa 181"
+    },
+    "produktname": "Orion",
+    "code": "2KJ",
+    "aliases": [
+      "CD 1218",
+      "UTAX CD 1218",
+      "DC 2218",
+      "TASKalfa 181",
+      "Kyocera TASKalfa 181",
+      "181",
+      "Orion",
+      "2KJ",
+      "CD1218",
+      "UTAXCD1218",
+      "DC2218",
+      "TASKalfa181",
+      "KyoceraTASKalfa181"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "2201",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "2256x",
+      "kyocera": "TASKalfa 2201"
+    },
+    "produktname": "Kizuna Adv.",
+    "code": "2NG",
+    "aliases": [
+      "2256x",
+      "UTAX 2256x",
+      "TASKalfa 2201",
+      "Kyocera TASKalfa 2201",
+      "2201",
+      "Kizuna Adv.",
+      "2NG",
+      "UTAX2256x",
+      "TASKalfa2201",
+      "KyoceraTASKalfa2201",
+      "KizunaAdv."
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "221",
+    "beginn": "11-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1222",
+      "kyocera": "TASKalfa 221"
+    },
+    "produktname": "Orion",
+    "code": "2KH",
+    "aliases": [
+      "CD 1222",
+      "UTAX CD 1222",
+      "DC 2222",
+      "TASKalfa 221",
+      "Kyocera TASKalfa 221",
+      "221",
+      "Orion",
+      "2KH",
+      "CD1222",
+      "UTAXCD1222",
+      "DC2222",
+      "TASKalfa221",
+      "KyoceraTASKalfa221"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "2420w",
+    "beginn": "07-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "XC 9124",
+      "kyocera": "TASKalfa 2420w"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "XC 9124",
+      "UTAX XC 9124",
+      "CX 8124",
+      "TASKalfa 2420w",
+      "Kyocera TASKalfa 2420w",
+      "2420w",
+      "XC9124",
+      "UTAXXC9124",
+      "CX8124",
+      "TASKalfa2420w",
+      "KyoceraTASKalfa2420w"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "250ci",
+    "beginn": "01-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1725",
+      "kyocera": "TASKalfa 250ci"
+    },
+    "produktname": "Saturn",
+    "code": "2JZ",
+    "aliases": [
+      "CDC 1725",
+      "UTAX CDC 1725",
+      "DCC 2725",
+      "TASKalfa 250ci",
+      "Kyocera TASKalfa 250ci",
+      "250ci",
+      "Saturn",
+      "2JZ",
+      "CDC1725",
+      "UTAXCDC1725",
+      "DCC2725",
+      "TASKalfa250ci",
+      "KyoceraTASKalfa250ci"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "2550ci",
+    "beginn": "05-2012",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "2550ci",
+      "kyocera": "TASKalfa 2550ci"
+    },
+    "produktname": "Jupiter",
+    "code": "2MV",
+    "aliases": [
+      "2550ci",
+      "UTAX 2550ci",
+      "TASKalfa 2550ci",
+      "Kyocera TASKalfa 2550ci",
+      "Jupiter",
+      "2MV",
+      "UTAX2550ci",
+      "TASKalfa2550ci",
+      "KyoceraTASKalfa2550ci"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "2551ci",
+    "beginn": "02-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "2500ci",
+      "kyocera": "TASKalfa 2551ci"
+    },
+    "produktname": "Jupiter 2",
+    "code": "2NP",
+    "aliases": [
+      "2500ci",
+      "UTAX 2500ci",
+      "TASKalfa 2551ci",
+      "Kyocera TASKalfa 2551ci",
+      "2551ci",
+      "Jupiter 2",
+      "2NP",
+      "UTAX2500ci",
+      "TASKalfa2551ci",
+      "KyoceraTASKalfa2551ci",
+      "Jupiter2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "2552ci",
+    "beginn": "09-2016",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "2506ci",
+      "kyocera": "TASKalfa 2552ci"
+    },
+    "produktname": "Iris Color",
+    "code": "2L7",
+    "aliases": [
+      "2506ci",
+      "UTAX 2506ci",
+      "TASKalfa 2552ci",
+      "Kyocera TASKalfa 2552ci",
+      "2552ci",
+      "Iris Color",
+      "2L7",
+      "UTAX2506ci",
+      "TASKalfa2552ci",
+      "KyoceraTASKalfa2552ci",
+      "IrisColor"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "2553ci",
+    "beginn": "04-2019",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "2507ci",
+      "kyocera": "TASKalfa 2553ci"
+    },
+    "produktname": "Iris 2 Color",
+    "code": "2VH",
+    "aliases": [
+      "2507ci",
+      "UTAX 2507ci",
+      "TASKalfa 2553ci",
+      "Kyocera TASKalfa 2553ci",
+      "2553ci",
+      "Iris 2 Color",
+      "2VH",
+      "UTAX2507ci",
+      "TASKalfa2553ci",
+      "KyoceraTASKalfa2553ci",
+      "Iris2Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "2554ci",
+    "beginn": "03-2021",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "2508ci",
+      "kyocera": "TASKalfa 2554ci"
+    },
+    "produktname": "Iris 2020 Color",
+    "code": "2YP",
+    "aliases": [
+      "2508ci",
+      "UTAX 2508ci",
+      "TASKalfa 2554ci",
+      "Kyocera TASKalfa 2554ci",
+      "2554ci",
+      "Iris 2020 Color",
+      "2YP",
+      "UTAX2508ci",
+      "TASKalfa2554ci",
+      "KyoceraTASKalfa2554ci",
+      "Iris2020Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "265ci",
+    "beginn": "07-2013",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "260ci",
+      "kyocera": "TASKalfa 265ci"
+    },
+    "produktname": "Gemini Black",
+    "code": "2PA",
+    "aliases": [
+      "260ci",
+      "UTAX 260ci",
+      "TASKalfa 265ci",
+      "Kyocera TASKalfa 265ci",
+      "265ci",
+      "Gemini Black",
+      "2PA",
+      "UTAX260ci",
+      "TASKalfa265ci",
+      "KyoceraTASKalfa265ci",
+      "GeminiBlack"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "266ci",
+    "beginn": "02-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "261ci",
+      "kyocera": "TASKalfa 266ci"
+    },
+    "produktname": "E-Gemini Black",
+    "code": "2PZ",
+    "aliases": [
+      "261ci",
+      "UTAX 261ci",
+      "TASKalfa 266ci",
+      "Kyocera TASKalfa 266ci",
+      "266ci",
+      "E-Gemini Black",
+      "2PZ",
+      "UTAX261ci",
+      "TASKalfa266ci",
+      "KyoceraTASKalfa266ci",
+      "EGeminiBlack"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "300ci",
+    "beginn": "01-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1730",
+      "kyocera": "TASKalfa 300ci"
+    },
+    "produktname": "Saturn",
+    "code": "2JX",
+    "aliases": [
+      "CDC 1730",
+      "UTAX CDC 1730",
+      "DCC 2730",
+      "TASKalfa 300ci",
+      "Kyocera TASKalfa 300ci",
+      "300ci",
+      "Saturn",
+      "2JX",
+      "CDC1730",
+      "UTAXCDC1730",
+      "DCC2730",
+      "TASKalfa300ci",
+      "KyoceraTASKalfa300ci"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "300i",
+    "beginn": "02-2010",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1430",
+      "kyocera": "TASKalfa 300i"
+    },
+    "produktname": "Stratos 2",
+    "code": "2K5",
+    "aliases": [
+      "CD 1430",
+      "UTAX CD 1430",
+      "DC 2430",
+      "TASKalfa 300i",
+      "Kyocera TASKalfa 300i",
+      "300i",
+      "Stratos 2",
+      "2K5",
+      "CD1430",
+      "UTAXCD1430",
+      "DC2430",
+      "TASKalfa300i",
+      "KyoceraTASKalfa300i",
+      "Stratos2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "3010i",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "3060i",
+      "kyocera": "TASKalfa 3010i"
+    },
+    "produktname": "Tomcat",
+    "code": "2P8",
+    "aliases": [
+      "3060i",
+      "UTAX 3060i",
+      "TASKalfa 3010i",
+      "Kyocera TASKalfa 3010i",
+      "3010i",
+      "Tomcat",
+      "2P8",
+      "UTAX3060i",
+      "TASKalfa3010i",
+      "KyoceraTASKalfa3010i"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "3011i",
+    "beginn": "10-2016",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "3061i",
+      "kyocera": "TASKalfa 3011i"
+    },
+    "produktname": "Tomcat 2",
+    "code": "2RG",
+    "aliases": [
+      "3061i",
+      "UTAX 3061i",
+      "TASKalfa 3011i",
+      "Kyocera TASKalfa 3011i",
+      "3011i",
+      "Tomcat 2",
+      "2RG",
+      "UTAX3061i",
+      "TASKalfa3011i",
+      "KyoceraTASKalfa3011i",
+      "Tomcat2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "3050ci",
+    "beginn": "04-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1930",
+      "kyocera": "TASKalfa 3050ci"
+    },
+    "produktname": "Venus",
+    "code": "2LK",
+    "aliases": [
+      "CDC 1930",
+      "UTAX CDC 1930",
+      "DCC 2930",
+      "TASKalfa 3050ci",
+      "Kyocera TASKalfa 3050ci",
+      "3050ci",
+      "Venus",
+      "2LK",
+      "CDC1930",
+      "UTAXCDC1930",
+      "DCC2930",
+      "TASKalfa3050ci",
+      "KyoceraTASKalfa3050ci"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "3051ci",
+    "beginn": "07-2013",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "3005ci",
+      "kyocera": "TASKalfa 3051ci"
+    },
+    "produktname": "Venus 2",
+    "code": "2L6",
+    "aliases": [
+      "3005ci",
+      "UTAX 3005ci",
+      "TASKalfa 3051ci",
+      "Kyocera TASKalfa 3051ci",
+      "3051ci",
+      "Venus 2",
+      "2L6",
+      "UTAX3005ci",
+      "TASKalfa3051ci",
+      "KyoceraTASKalfa3051ci",
+      "Venus2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "306ci",
+    "beginn": "03-2016",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "300ci",
+      "kyocera": "TASKalfa 306ci"
+    },
+    "produktname": "Perseus (Prius)",
+    "code": "2R4",
+    "aliases": [
+      "300ci",
+      "UTAX 300ci",
+      "TASKalfa 306ci",
+      "Kyocera TASKalfa 306ci",
+      "306ci",
+      "Perseus (Prius)",
+      "2R4",
+      "UTAX300ci",
+      "TASKalfa306ci",
+      "KyoceraTASKalfa306ci",
+      "Perseus(Prius)"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "307ci",
+    "beginn": "06-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "301ci",
+      "kyocera": "TASKalfa 307ci"
+    },
+    "produktname": "Perseus 2",
+    "code": "2SZ",
+    "aliases": [
+      "301ci",
+      "UTAX 301ci",
+      "TASKalfa 307ci",
+      "Kyocera TASKalfa 307ci",
+      "307ci",
+      "Perseus 2",
+      "2SZ",
+      "UTAX301ci",
+      "TASKalfa307ci",
+      "KyoceraTASKalfa307ci",
+      "Perseus2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "308ci",
+    "beginn": "01-2020",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "302ci",
+      "kyocera": "TASKalfa 308ci"
+    },
+    "produktname": "Perseus 2-30S",
+    "code": "2WL",
+    "aliases": [
+      "302ci",
+      "UTAX 302ci",
+      "TASKalfa 308ci",
+      "Kyocera TASKalfa 308ci",
+      "308ci",
+      "Perseus 2-30S",
+      "2WL",
+      "UTAX302ci",
+      "TASKalfa308ci",
+      "KyoceraTASKalfa308ci",
+      "Perseus230S"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "3212i",
+    "beginn": "01-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "3262i",
+      "kyocera": "TASKalfa 3212i"
+    },
+    "produktname": "Tomcat 3",
+    "code": "2V7",
+    "aliases": [
+      "3262i",
+      "UTAX 3262i",
+      "TASKalfa 3212i",
+      "Kyocera TASKalfa 3212i",
+      "3212i",
+      "Tomcat 3",
+      "2V7",
+      "UTAX3262i",
+      "TASKalfa3212i",
+      "KyoceraTASKalfa3212i",
+      "Tomcat3"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "3252ci",
+    "beginn": "09-2016",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "3206ci",
+      "kyocera": "TASKalfa 3252ci"
+    },
+    "produktname": "Iris Color",
+    "code": "2RL",
+    "aliases": [
+      "3206ci",
+      "UTAX 3206ci",
+      "TASKalfa 3252ci",
+      "Kyocera TASKalfa 3252ci",
+      "3252ci",
+      "Iris Color",
+      "2RL",
+      "UTAX3206ci",
+      "TASKalfa3252ci",
+      "KyoceraTASKalfa3252ci",
+      "IrisColor"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "3253ci",
+    "beginn": "04-2019",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "3207ci",
+      "kyocera": "TASKalfa 3253ci"
+    },
+    "produktname": "Iris 2 Color",
+    "code": "2VG",
+    "aliases": [
+      "3207ci",
+      "UTAX 3207ci",
+      "TASKalfa 3253ci",
+      "Kyocera TASKalfa 3253ci",
+      "3253ci",
+      "Iris 2 Color",
+      "2VG",
+      "UTAX3207ci",
+      "TASKalfa3253ci",
+      "KyoceraTASKalfa3253ci",
+      "Iris2Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "3500i",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1435",
+      "kyocera": "TASKalfa 3500i"
+    },
+    "produktname": "Gaia",
+    "code": "2LL",
+    "aliases": [
+      "CD 1435",
+      "UTAX CD 1435",
+      "DC 2435",
+      "TASKalfa 3500i",
+      "Kyocera TASKalfa 3500i",
+      "3500i",
+      "Gaia",
+      "2LL",
+      "CD1435",
+      "UTAXCD1435",
+      "DC2435",
+      "TASKalfa3500i",
+      "KyoceraTASKalfa3500i"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "3501i",
+    "beginn": "07-2013",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "3555i",
+      "kyocera": "TASKalfa 3501i"
+    },
+    "produktname": "Gaia 2",
+    "code": "2NB",
+    "aliases": [
+      "3555i",
+      "UTAX 3555i",
+      "TASKalfa 3501i",
+      "Kyocera TASKalfa 3501i",
+      "3501i",
+      "Gaia 2",
+      "2NB",
+      "UTAX3555i",
+      "TASKalfa3501i",
+      "KyoceraTASKalfa3501i",
+      "Gaia2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "350ci",
+    "beginn": "09-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "355ci",
+      "kyocera": "TASKalfa 350ci"
+    },
+    "produktname": "Mebius b.MFP",
+    "code": "2VM",
+    "aliases": [
+      "355ci",
+      "UTAX 355ci",
+      "TASKalfa 350ci",
+      "Kyocera TASKalfa 350ci",
+      "350ci",
+      "Mebius b.MFP",
+      "2VM",
+      "UTAX355ci",
+      "TASKalfa350ci",
+      "KyoceraTASKalfa350ci",
+      "Mebiusb.MFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "3510i",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "3560i",
+      "kyocera": "TASKalfa 3510i"
+    },
+    "produktname": "Tomcat",
+    "code": "2NL",
+    "aliases": [
+      "3560i",
+      "UTAX 3560i",
+      "TASKalfa 3510i",
+      "Kyocera TASKalfa 3510i",
+      "3510i",
+      "Tomcat",
+      "2NL",
+      "UTAX3560i",
+      "TASKalfa3510i",
+      "KyoceraTASKalfa3510i"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "3511i",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "3561i",
+      "kyocera": "TASKalfa 3511i"
+    },
+    "produktname": "Tomcat 2",
+    "code": "2RH",
+    "aliases": [
+      "3561i",
+      "UTAX 3561i",
+      "TASKalfa 3511i",
+      "Kyocera TASKalfa 3511i",
+      "3511i",
+      "Tomcat 2",
+      "2RH",
+      "UTAX3561i",
+      "TASKalfa3511i",
+      "KyoceraTASKalfa3511i",
+      "Tomcat2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "351ci",
+    "beginn": "01-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "356ci",
+      "kyocera": "TASKalfa 351ci"
+    },
+    "produktname": "Mebius E b.MFP",
+    "code": "2VW",
+    "aliases": [
+      "356ci",
+      "UTAX 356ci",
+      "TASKalfa 351ci",
+      "Kyocera TASKalfa 351ci",
+      "351ci",
+      "Mebius E b.MFP",
+      "2VW",
+      "UTAX356ci",
+      "TASKalfa351ci",
+      "KyoceraTASKalfa351ci",
+      "MebiusEb.MFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "352ci",
+    "beginn": "01-2020",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "357ci",
+      "kyocera": "TASKalfa 352ci"
+    },
+    "produktname": "Mebius E b.MFP",
+    "code": "2ZL",
+    "aliases": [
+      "357ci",
+      "UTAX 357ci",
+      "TASKalfa 352ci",
+      "Kyocera TASKalfa 352ci",
+      "352ci",
+      "Mebius E b.MFP",
+      "2ZL",
+      "UTAX357ci",
+      "TASKalfa352ci",
+      "KyoceraTASKalfa352ci",
+      "MebiusEb.MFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "3550ci",
+    "beginn": "04-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1935",
+      "kyocera": "TASKalfa 3550ci"
+    },
+    "produktname": "Venus",
+    "code": "2LN",
+    "aliases": [
+      "CDC 1935",
+      "UTAX CDC 1935",
+      "DCC 2935",
+      "TASKalfa 3550ci",
+      "Kyocera TASKalfa 3550ci",
+      "3550ci",
+      "Venus",
+      "2LN",
+      "CDC1935",
+      "UTAXCDC1935",
+      "DCC2935",
+      "TASKalfa3550ci",
+      "KyoceraTASKalfa3550ci"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "3551ci",
+    "beginn": "07-2013",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "3505ci",
+      "kyocera": "TASKalfa 3551ci"
+    },
+    "produktname": "Venus 2",
+    "code": "2N6",
+    "aliases": [
+      "3505ci",
+      "UTAX 3505ci",
+      "TASKalfa 3551ci",
+      "Kyocera TASKalfa 3551ci",
+      "3551ci",
+      "Venus 2",
+      "2N6",
+      "UTAX3505ci",
+      "TASKalfa3551ci",
+      "KyoceraTASKalfa3551ci",
+      "Venus2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "3554ci",
+    "beginn": "10-2021",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "3508ci",
+      "kyocera": "TASKalfa 3554ci"
+    },
+    "produktname": "Iris 2020 Color",
+    "code": "2XD",
+    "aliases": [
+      "3508ci",
+      "UTAX 3508ci",
+      "TASKalfa 3554ci",
+      "Kyocera TASKalfa 3554ci",
+      "3554ci",
+      "Iris 2020 Color",
+      "2XD",
+      "UTAX3508ci",
+      "TASKalfa3554ci",
+      "KyoceraTASKalfa3554ci",
+      "Iris2020Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "356ci",
+    "beginn": "03-2016",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "350ci",
+      "kyocera": "TASKalfa 356ci"
+    },
+    "produktname": "Perseus (Prius)",
+    "code": "2R5",
+    "aliases": [
+      "350ci",
+      "UTAX 350ci",
+      "TASKalfa 356ci",
+      "Kyocera TASKalfa 356ci",
+      "356ci",
+      "Perseus (Prius)",
+      "2R5",
+      "UTAX350ci",
+      "TASKalfa356ci",
+      "KyoceraTASKalfa356ci",
+      "Perseus(Prius)"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "358ci",
+    "beginn": "01-2020",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "352ci",
+      "kyocera": "TASKalfa 358ci"
+    },
+    "produktname": "Perseus 2-35",
+    "code": "2V4",
+    "aliases": [
+      "352ci",
+      "UTAX 352ci",
+      "TASKalfa 358ci",
+      "Kyocera TASKalfa 358ci",
+      "358ci",
+      "Perseus 2-35",
+      "2V4",
+      "UTAX352ci",
+      "TASKalfa358ci",
+      "KyoceraTASKalfa358ci",
+      "Perseus235"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "4002i",
+    "beginn": "10-2016",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "4056i",
+      "kyocera": "TASKalfa 4002i"
+    },
+    "produktname": "Iris mono",
+    "code": "2SA",
+    "aliases": [
+      "4056i",
+      "UTAX 4056i",
+      "TASKalfa 4002i",
+      "Kyocera TASKalfa 4002i",
+      "4002i",
+      "Iris mono",
+      "2SA",
+      "UTAX4056i",
+      "TASKalfa4002i",
+      "KyoceraTASKalfa4002i",
+      "Irismono"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "400ci",
+    "beginn": "01-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1740",
+      "kyocera": "TASKalfa 400ci"
+    },
+    "produktname": "Saturn",
+    "code": "2JV",
+    "aliases": [
+      "CDC 1740",
+      "UTAX CDC 1740",
+      "DCC 2740",
+      "TASKalfa 400ci",
+      "Kyocera TASKalfa 400ci",
+      "400ci",
+      "Saturn",
+      "2JV",
+      "CDC1740",
+      "UTAXCDC1740",
+      "DCC2740",
+      "TASKalfa400ci",
+      "KyoceraTASKalfa400ci"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "4012i",
+    "beginn": "01-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "4062i",
+      "kyocera": "TASKalfa 4012i"
+    },
+    "produktname": "Tomcat 3",
+    "code": "2V6",
+    "aliases": [
+      "4062i",
+      "UTAX 4062i",
+      "TASKalfa 4012i",
+      "Kyocera TASKalfa 4012i",
+      "4012i",
+      "Tomcat 3",
+      "2V6",
+      "UTAX4062i",
+      "TASKalfa4012i",
+      "KyoceraTASKalfa4012i",
+      "Tomcat3"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "4052ci",
+    "beginn": "10-2016",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "4006ci",
+      "kyocera": "TASKalfa 4052ci"
+    },
+    "produktname": "Iris Color",
+    "code": "2RM",
+    "aliases": [
+      "4006ci",
+      "UTAX 4006ci",
+      "TASKalfa 4052ci",
+      "Kyocera TASKalfa 4052ci",
+      "4052ci",
+      "Iris Color",
+      "2RM",
+      "UTAX4006ci",
+      "TASKalfa4052ci",
+      "KyoceraTASKalfa4052ci",
+      "IrisColor"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "4053ci",
+    "beginn": "04-2019",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "4007ci",
+      "kyocera": "TASKalfa 4053ci"
+    },
+    "produktname": "Iris 2 Color",
+    "code": "2VF",
+    "aliases": [
+      "4007ci",
+      "UTAX 4007ci",
+      "TASKalfa 4053ci",
+      "Kyocera TASKalfa 4053ci",
+      "4053ci",
+      "Iris 2 Color",
+      "2VF",
+      "UTAX4007ci",
+      "TASKalfa4053ci",
+      "KyoceraTASKalfa4053ci",
+      "Iris2Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "4054ci",
+    "beginn": "10-2021",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "4008ci",
+      "kyocera": "TASKalfa 4054ci"
+    },
+    "produktname": "Iris 2020 Color",
+    "code": "2YN",
+    "aliases": [
+      "4008ci",
+      "UTAX 4008ci",
+      "TASKalfa 4054ci",
+      "Kyocera TASKalfa 4054ci",
+      "4054ci",
+      "Iris 2020 Color",
+      "2YN",
+      "UTAX4008ci",
+      "TASKalfa4054ci",
+      "KyoceraTASKalfa4054ci",
+      "Iris2020Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "406ci",
+    "beginn": "03-2016",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "400ci",
+      "kyocera": "TASKalfa 406ci"
+    },
+    "produktname": "Perseus (Prius)",
+    "code": "2R6",
+    "aliases": [
+      "400ci",
+      "UTAX 400ci",
+      "TASKalfa 406ci",
+      "Kyocera TASKalfa 406ci",
+      "406ci",
+      "Perseus (Prius)",
+      "2R6",
+      "UTAX400ci",
+      "TASKalfa406ci",
+      "KyoceraTASKalfa406ci",
+      "Perseus(Prius)"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "408ci",
+    "beginn": "01-2020",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "402ci",
+      "kyocera": "TASKalfa 408ci"
+    },
+    "produktname": "Perseus 2-40",
+    "code": "2V5",
+    "aliases": [
+      "402ci",
+      "UTAX 402ci",
+      "TASKalfa 408ci",
+      "Kyocera TASKalfa 408ci",
+      "408ci",
+      "Perseus 2-40",
+      "2V5",
+      "UTAX402ci",
+      "TASKalfa408ci",
+      "KyoceraTASKalfa408ci",
+      "Perseus240"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "420i",
+    "beginn": "12-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1242",
+      "kyocera": "TASKalfa 420i"
+    },
+    "produktname": "Falcon 4",
+    "code": "2KR",
+    "aliases": [
+      "CD 1242",
+      "UTAX CD 1242",
+      "DC 2242",
+      "TASKalfa 420i",
+      "Kyocera TASKalfa 420i",
+      "420i",
+      "Falcon 4",
+      "2KR",
+      "CD1242",
+      "UTAXCD1242",
+      "DC2242",
+      "TASKalfa420i",
+      "KyoceraTASKalfa420i",
+      "Falcon4"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "4500i",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1445",
+      "kyocera": "TASKalfa 4500i"
+    },
+    "produktname": "Gaia",
+    "code": "2LJ",
+    "aliases": [
+      "CD 1445",
+      "UTAX CD 1445",
+      "DC 2445",
+      "TASKalfa 4500i",
+      "Kyocera TASKalfa 4500i",
+      "4500i",
+      "Gaia",
+      "2LJ",
+      "CD1445",
+      "UTAXCD1445",
+      "DC2445",
+      "TASKalfa4500i",
+      "KyoceraTASKalfa4500i"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "4501i",
+    "beginn": "07-2013",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "4555i",
+      "kyocera": "TASKalfa 4501i"
+    },
+    "produktname": "Gaia 2",
+    "code": "2NA",
+    "aliases": [
+      "4555i",
+      "UTAX 4555i",
+      "TASKalfa 4501i",
+      "Kyocera TASKalfa 4501i",
+      "4501i",
+      "Gaia 2",
+      "2NA",
+      "UTAX4555i",
+      "TASKalfa4501i",
+      "KyoceraTASKalfa4501i",
+      "Gaia2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "4550ci",
+    "beginn": "04-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1945",
+      "kyocera": "TASKalfa 4550ci"
+    },
+    "produktname": "Venus",
+    "code": "2LM",
+    "aliases": [
+      "CDC 1945",
+      "UTAX CDC 1945",
+      "DCC 2945",
+      "TASKalfa 4550ci",
+      "Kyocera TASKalfa 4550ci",
+      "4550ci",
+      "Venus",
+      "2LM",
+      "CDC1945",
+      "UTAXCDC1945",
+      "DCC2945",
+      "TASKalfa4550ci",
+      "KyoceraTASKalfa4550ci"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "4551ci",
+    "beginn": "07-2013",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "4505ci",
+      "kyocera": "TASKalfa 4551ci"
+    },
+    "produktname": "Venus 2",
+    "code": "2N5",
+    "aliases": [
+      "4505ci",
+      "UTAX 4505ci",
+      "TASKalfa 4551ci",
+      "Kyocera TASKalfa 4551ci",
+      "4551ci",
+      "Venus 2",
+      "2N5",
+      "UTAX4505ci",
+      "TASKalfa4551ci",
+      "KyoceraTASKalfa4551ci",
+      "Venus2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "4820w",
+    "beginn": "03-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "XC 9148",
+      "kyocera": "TASKalfa 4820w"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "XC 9148",
+      "UTAX XC 9148",
+      "CX 8148",
+      "TASKalfa 4820w",
+      "Kyocera TASKalfa 4820w",
+      "4820w",
+      "XC9148",
+      "UTAXXC9148",
+      "CX8148",
+      "TASKalfa4820w",
+      "KyoceraTASKalfa4820w"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "5002i",
+    "beginn": "10-2016",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "5056i",
+      "kyocera": "TASKalfa 5002i"
+    },
+    "produktname": "Iris mono",
+    "code": "2RJ",
+    "aliases": [
+      "5056i",
+      "UTAX 5056i",
+      "TASKalfa 5002i",
+      "Kyocera TASKalfa 5002i",
+      "5002i",
+      "Iris mono",
+      "2RJ",
+      "UTAX5056i",
+      "TASKalfa5002i",
+      "KyoceraTASKalfa5002i",
+      "Irismono"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "5003i",
+    "beginn": "04-2019",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "5057i",
+      "kyocera": "TASKalfa 5003i"
+    },
+    "produktname": "Iris 2 mono",
+    "code": "2VL",
+    "aliases": [
+      "5057i",
+      "UTAX 5057i",
+      "TASKalfa 5003i",
+      "Kyocera TASKalfa 5003i",
+      "5003i",
+      "Iris 2 mono",
+      "2VL",
+      "UTAX5057i",
+      "TASKalfa5003i",
+      "KyoceraTASKalfa5003i",
+      "Iris2mono"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "5004i",
+    "beginn": "10-2021",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "5058i",
+      "kyocera": "TASKalfa 5004i"
+    },
+    "produktname": "Iris 2020 mono",
+    "code": "2YS",
+    "aliases": [
+      "5058i",
+      "UTAX 5058i",
+      "TASKalfa 5004i",
+      "Kyocera TASKalfa 5004i",
+      "5004i",
+      "Iris 2020 mono",
+      "2YS",
+      "UTAX5058i",
+      "TASKalfa5004i",
+      "KyoceraTASKalfa5004i",
+      "Iris2020mono"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "500ci",
+    "beginn": "01-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1840",
+      "kyocera": "TASKalfa 500ci"
+    },
+    "produktname": "Saturn",
+    "code": "2H7",
+    "aliases": [
+      "CDC 1840",
+      "UTAX CDC 1840",
+      "DCC 2840",
+      "TASKalfa 500ci",
+      "Kyocera TASKalfa 500ci",
+      "500ci",
+      "Saturn",
+      "2H7",
+      "CDC1840",
+      "UTAXCDC1840",
+      "DCC2840",
+      "TASKalfa500ci",
+      "KyoceraTASKalfa500ci"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "5052ci",
+    "beginn": "10-2016",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "5006ci",
+      "kyocera": "TASKalfa 5052ci"
+    },
+    "produktname": "Iris Color",
+    "code": "2RN",
+    "aliases": [
+      "5006ci",
+      "UTAX 5006ci",
+      "TASKalfa 5052ci",
+      "Kyocera TASKalfa 5052ci",
+      "5052ci",
+      "Iris Color",
+      "2RN",
+      "UTAX5006ci",
+      "TASKalfa5052ci",
+      "KyoceraTASKalfa5052ci",
+      "IrisColor"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "5053ci",
+    "beginn": "04-2019",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "5007ci",
+      "kyocera": "TASKalfa 5053ci"
+    },
+    "produktname": "Iris 2 Color",
+    "code": "2VD",
+    "aliases": [
+      "5007ci",
+      "UTAX 5007ci",
+      "TASKalfa 5053ci",
+      "Kyocera TASKalfa 5053ci",
+      "5053ci",
+      "Iris 2 Color",
+      "2VD",
+      "UTAX5007ci",
+      "TASKalfa5053ci",
+      "KyoceraTASKalfa5053ci",
+      "Iris2Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "5054ci",
+    "beginn": "10-2021",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "5008ci",
+      "kyocera": "TASKalfa 5054ci"
+    },
+    "produktname": "Iris 2020 Color",
+    "code": "2YM",
+    "aliases": [
+      "5008ci",
+      "UTAX 5008ci",
+      "TASKalfa 5054ci",
+      "Kyocera TASKalfa 5054ci",
+      "5054ci",
+      "Iris 2020 Color",
+      "2YM",
+      "UTAX5008ci",
+      "TASKalfa5054ci",
+      "KyoceraTASKalfa5054ci",
+      "Iris2020Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "508ci",
+    "beginn": "01-2020",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "502ci",
+      "kyocera": "TASKalfa 508ci"
+    },
+    "produktname": "Perseus 2-50",
+    "code": "2WH",
+    "aliases": [
+      "502ci",
+      "UTAX 502ci",
+      "TASKalfa 508ci",
+      "Kyocera TASKalfa 508ci",
+      "508ci",
+      "Perseus 2-50",
+      "2WH",
+      "UTAX502ci",
+      "TASKalfa508ci",
+      "KyoceraTASKalfa508ci",
+      "Perseus250"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "520i",
+    "beginn": "12-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1252",
+      "kyocera": "TASKalfa 520i"
+    },
+    "produktname": "Falcon 4",
+    "code": "2KS",
+    "aliases": [
+      "CD 1252",
+      "UTAX CD 1252",
+      "DC 2252",
+      "TASKalfa 520i",
+      "Kyocera TASKalfa 520i",
+      "520i",
+      "Falcon 4",
+      "2KS",
+      "CD1252",
+      "UTAXCD1252",
+      "DC2252",
+      "TASKalfa520i",
+      "KyoceraTASKalfa520i",
+      "Falcon4"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "5500i",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1455",
+      "kyocera": "TASKalfa 5500i"
+    },
+    "produktname": "Gaia",
+    "code": "2LH",
+    "aliases": [
+      "CD 1455",
+      "UTAX CD 1455",
+      "DC 2455",
+      "TASKalfa 5500i",
+      "Kyocera TASKalfa 5500i",
+      "5500i",
+      "Gaia",
+      "2LH",
+      "CD1455",
+      "UTAXCD1455",
+      "DC2455",
+      "TASKalfa5500i",
+      "KyoceraTASKalfa5500i"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "5501i",
+    "beginn": "07-2013",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "5555i",
+      "kyocera": "TASKalfa 5501i"
+    },
+    "produktname": "Gaia 2",
+    "code": "2N9",
+    "aliases": [
+      "5555i",
+      "UTAX 5555i",
+      "TASKalfa 5501i",
+      "Kyocera TASKalfa 5501i",
+      "5501i",
+      "Gaia 2",
+      "2N9",
+      "UTAX5555i",
+      "TASKalfa5501i",
+      "KyoceraTASKalfa5501i",
+      "Gaia2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "552ci",
+    "beginn": "05-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1850",
+      "kyocera": "TASKalfa 552ci"
+    },
+    "produktname": "Saturn 1.5",
+    "code": "2KY",
+    "aliases": [
+      "CDC 1850",
+      "UTAX CDC 1850",
+      "DCC 2850",
+      "TASKalfa 552ci",
+      "Kyocera TASKalfa 552ci",
+      "552ci",
+      "Saturn 1.5",
+      "2KY",
+      "CDC1850",
+      "UTAXCDC1850",
+      "DCC2850",
+      "TASKalfa552ci",
+      "KyoceraTASKalfa552ci",
+      "Saturn1.5"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "5550ci",
+    "beginn": "04-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1950",
+      "kyocera": "TASKalfa 5550ci"
+    },
+    "produktname": "Venus",
+    "code": "2LC",
+    "aliases": [
+      "CDC 1950",
+      "UTAX CDC 1950",
+      "DCC 2950",
+      "TASKalfa 5550ci",
+      "Kyocera TASKalfa 5550ci",
+      "5550ci",
+      "Venus",
+      "2LC",
+      "CDC1950",
+      "UTAXCDC1950",
+      "DCC2950",
+      "TASKalfa5550ci",
+      "KyoceraTASKalfa5550ci"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "5551ci",
+    "beginn": "07-2013",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "5505ci",
+      "kyocera": "TASKalfa 5551ci"
+    },
+    "produktname": "Venus 2",
+    "code": "2N4",
+    "aliases": [
+      "5505ci",
+      "UTAX 5505ci",
+      "TASKalfa 5551ci",
+      "Kyocera TASKalfa 5551ci",
+      "5551ci",
+      "Venus 2",
+      "2N4",
+      "UTAX5505ci",
+      "TASKalfa5551ci",
+      "KyoceraTASKalfa5551ci",
+      "Venus2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "6002i",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "6056i",
+      "kyocera": "TASKalfa 6002i"
+    },
+    "produktname": "Iris mono",
+    "code": "2NK",
+    "aliases": [
+      "6056i",
+      "UTAX 6056i",
+      "TASKalfa 6002i",
+      "Kyocera TASKalfa 6002i",
+      "6002i",
+      "Iris mono",
+      "2NK",
+      "UTAX6056i",
+      "TASKalfa6002i",
+      "KyoceraTASKalfa6002i",
+      "Irismono"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "6003i",
+    "beginn": "04-2019",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "6057i",
+      "kyocera": "TASKalfa 6003i"
+    },
+    "produktname": "Iris 2 mono",
+    "code": "2VK",
+    "aliases": [
+      "6057i",
+      "UTAX 6057i",
+      "TASKalfa 6003i",
+      "Kyocera TASKalfa 6003i",
+      "6003i",
+      "Iris 2 mono",
+      "2VK",
+      "UTAX6057i",
+      "TASKalfa6003i",
+      "KyoceraTASKalfa6003i",
+      "Iris2mono"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "6004i",
+    "beginn": "10-2021",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "6058i",
+      "kyocera": "TASKalfa 6004i"
+    },
+    "produktname": "Iris 2020 mono",
+    "code": "2YR",
+    "aliases": [
+      "6058i",
+      "UTAX 6058i",
+      "TASKalfa 6004i",
+      "Kyocera TASKalfa 6004i",
+      "6004i",
+      "Iris 2020 mono",
+      "2YR",
+      "UTAX6058i",
+      "TASKalfa6004i",
+      "KyoceraTASKalfa6004i",
+      "Iris2020mono"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "6052ci",
+    "beginn": "10-2016",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "6006ci",
+      "kyocera": "TASKalfa 6052ci"
+    },
+    "produktname": "Iris Color",
+    "code": "2ND",
+    "aliases": [
+      "6006ci",
+      "UTAX 6006ci",
+      "TASKalfa 6052ci",
+      "Kyocera TASKalfa 6052ci",
+      "6052ci",
+      "Iris Color",
+      "2ND",
+      "UTAX6006ci",
+      "TASKalfa6052ci",
+      "KyoceraTASKalfa6052ci",
+      "IrisColor"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "6053ci",
+    "beginn": "04-2019",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "6007ci",
+      "kyocera": "TASKalfa 6053ci"
+    },
+    "produktname": "Iris 2 Color",
+    "code": "2V8",
+    "aliases": [
+      "6007ci",
+      "UTAX 6007ci",
+      "TASKalfa 6053ci",
+      "Kyocera TASKalfa 6053ci",
+      "6053ci",
+      "Iris 2 Color",
+      "2V8",
+      "UTAX6007ci",
+      "TASKalfa6053ci",
+      "KyoceraTASKalfa6053ci",
+      "Iris2Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "6054ci",
+    "beginn": "10-2021",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "6008ci",
+      "kyocera": "TASKalfa 6054ci"
+    },
+    "produktname": "Iris 2020 Color",
+    "code": "2YL",
+    "aliases": [
+      "6008ci",
+      "UTAX 6008ci",
+      "TASKalfa 6054ci",
+      "Kyocera TASKalfa 6054ci",
+      "6054ci",
+      "Iris 2020 Color",
+      "2YL",
+      "UTAX6008ci",
+      "TASKalfa6054ci",
+      "KyoceraTASKalfa6054ci",
+      "Iris2020Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "620",
+    "beginn": "10-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1162",
+      "kyocera": "TASKalfa 620"
+    },
+    "produktname": "Harrier 1.5",
+    "code": "2KN",
+    "aliases": [
+      "CD 1162",
+      "UTAX CD 1162",
+      "DC 2162",
+      "TASKalfa 620",
+      "Kyocera TASKalfa 620",
+      "620",
+      "Harrier 1.5",
+      "2KN",
+      "CD1162",
+      "UTAXCD1162",
+      "DC2162",
+      "TASKalfa620",
+      "KyoceraTASKalfa620",
+      "Harrier1.5"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "6500i",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1465",
+      "kyocera": "TASKalfa 6500i"
+    },
+    "produktname": "Zeus",
+    "code": "2LG",
+    "aliases": [
+      "CD 1465",
+      "UTAX CD 1465",
+      "DC 2465",
+      "TASKalfa 6500i",
+      "Kyocera TASKalfa 6500i",
+      "6500i",
+      "Zeus",
+      "2LG",
+      "CD1465",
+      "UTAXCD1465",
+      "DC2465",
+      "TASKalfa6500i",
+      "KyoceraTASKalfa6500i"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "6501i",
+    "beginn": "02-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "6555i",
+      "kyocera": "TASKalfa 6501i"
+    },
+    "produktname": "Zeus 2",
+    "code": "2N8",
+    "aliases": [
+      "6555i",
+      "UTAX 6555i",
+      "TASKalfa 6501i",
+      "Kyocera TASKalfa 6501i",
+      "6501i",
+      "Zeus 2",
+      "2N8",
+      "UTAX6555i",
+      "TASKalfa6501i",
+      "KyoceraTASKalfa6501i",
+      "Zeus2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "650c",
+    "beginn": "10-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1765",
+      "kyocera": "TASKalfa 650c"
+    },
+    "produktname": "Broad Peak",
+    "code": "5JN",
+    "aliases": [
+      "CDC 1765",
+      "UTAX CDC 1765",
+      "DCC 2765",
+      "TASKalfa 650c",
+      "Kyocera TASKalfa 650c",
+      "650c",
+      "Broad Peak",
+      "5JN",
+      "CDC1765",
+      "UTAXCDC1765",
+      "DCC2765",
+      "TASKalfa650c",
+      "KyoceraTASKalfa650c",
+      "BroadPeak"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "6550ci",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1965",
+      "kyocera": "TASKalfa 6550ci"
+    },
+    "produktname": "Mercury",
+    "code": "2LB",
+    "aliases": [
+      "CDC 1965",
+      "UTAX CDC 1965",
+      "DCC 2965",
+      "TASKalfa 6550ci",
+      "Kyocera TASKalfa 6550ci",
+      "6550ci",
+      "Mercury",
+      "2LB",
+      "CDC1965",
+      "UTAXCDC1965",
+      "DCC2965",
+      "TASKalfa6550ci",
+      "KyoceraTASKalfa6550ci"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "6551ci",
+    "beginn": "03-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "6505ci",
+      "kyocera": "TASKalfa 6551ci"
+    },
+    "produktname": "Mercury 2",
+    "code": "2N3",
+    "aliases": [
+      "6505ci",
+      "UTAX 6505ci",
+      "TASKalfa 6551ci",
+      "Kyocera TASKalfa 6551ci",
+      "6551ci",
+      "Mercury 2",
+      "2N3",
+      "UTAX6505ci",
+      "TASKalfa6551ci",
+      "KyoceraTASKalfa6551ci",
+      "Mercury2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "7002i",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "7056i",
+      "kyocera": "TASKalfa 7002i"
+    },
+    "produktname": "Zeus 3",
+    "code": "2RK",
+    "aliases": [
+      "7056i",
+      "UTAX 7056i",
+      "TASKalfa 7002i",
+      "Kyocera TASKalfa 7002i",
+      "7002i",
+      "Zeus 3",
+      "2RK",
+      "UTAX7056i",
+      "TASKalfa7002i",
+      "KyoceraTASKalfa7002i",
+      "Zeus3"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "7003i",
+    "beginn": "01-2020",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "7057i",
+      "kyocera": "TASKalfa 7003i"
+    },
+    "produktname": "Zeus 4",
+    "code": "2XW",
+    "aliases": [
+      "7057i",
+      "UTAX 7057i",
+      "TASKalfa 7003i",
+      "Kyocera TASKalfa 7003i",
+      "7003i",
+      "Zeus 4",
+      "2XW",
+      "UTAX7057i",
+      "TASKalfa7003i",
+      "KyoceraTASKalfa7003i",
+      "Zeus4"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "7004i",
+    "beginn": "10-2021",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "7058i",
+      "kyocera": "TASKalfa 7004i"
+    },
+    "produktname": "Iris 2020 mono",
+    "code": "2XF",
+    "aliases": [
+      "7058i",
+      "UTAX 7058i",
+      "TASKalfa 7004i",
+      "Kyocera TASKalfa 7004i",
+      "7004i",
+      "Iris 2020 mono",
+      "2XF",
+      "UTAX7058i",
+      "TASKalfa7004i",
+      "KyoceraTASKalfa7004i",
+      "Iris2020mono"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "7052ci",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "7006ci",
+      "kyocera": "TASKalfa 7052ci"
+    },
+    "produktname": "Mercury 3",
+    "code": "2NH",
+    "aliases": [
+      "7006ci",
+      "UTAX 7006ci",
+      "TASKalfa 7052ci",
+      "Kyocera TASKalfa 7052ci",
+      "7052ci",
+      "Mercury 3",
+      "2NH",
+      "UTAX7006ci",
+      "TASKalfa7052ci",
+      "KyoceraTASKalfa7052ci",
+      "Mercury3"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "7054ci",
+    "beginn": "10-2021",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "7008ci",
+      "kyocera": "TASKalfa 7054ci"
+    },
+    "produktname": "Iris 2020 Color",
+    "code": "2XC",
+    "aliases": [
+      "7008ci",
+      "UTAX 7008ci",
+      "TASKalfa 7054ci",
+      "Kyocera TASKalfa 7054ci",
+      "7054ci",
+      "Iris 2020 Color",
+      "2XC",
+      "UTAX7008ci",
+      "TASKalfa7054ci",
+      "KyoceraTASKalfa7054ci",
+      "Iris2020Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "7353ci",
+    "beginn": "01-2020",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "7307ci",
+      "kyocera": "TASKalfa 7353ci"
+    },
+    "produktname": "Mercury 4",
+    "code": "2XP",
+    "aliases": [
+      "7307ci",
+      "UTAX 7307ci",
+      "TASKalfa 7353ci",
+      "Kyocera TASKalfa 7353ci",
+      "7353ci",
+      "Mercury 4",
+      "2XP",
+      "UTAX7307ci",
+      "TASKalfa7353ci",
+      "KyoceraTASKalfa7353ci",
+      "Mercury4"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "750c",
+    "beginn": "10-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1865",
+      "kyocera": "TASKalfa 750c"
+    },
+    "produktname": "Broad Peak",
+    "code": "5JN",
+    "aliases": [
+      "CDC 1865",
+      "UTAX CDC 1865",
+      "DCC 2865",
+      "TASKalfa 750c",
+      "Kyocera TASKalfa 750c",
+      "750c",
+      "Broad Peak",
+      "5JN",
+      "CDC1865",
+      "UTAXCDC1865",
+      "DCC2865",
+      "TASKalfa750c",
+      "KyoceraTASKalfa750c",
+      "BroadPeak"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "7550ci",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1970",
+      "kyocera": "TASKalfa 7550ci"
+    },
+    "produktname": "Mercury",
+    "code": "2K9",
+    "aliases": [
+      "CDC 1970",
+      "UTAX CDC 1970",
+      "DCC 2970",
+      "TASKalfa 7550ci",
+      "Kyocera TASKalfa 7550ci",
+      "7550ci",
+      "Mercury",
+      "2K9",
+      "CDC1970",
+      "UTAXCDC1970",
+      "DCC2970",
+      "TASKalfa7550ci",
+      "KyoceraTASKalfa7550ci"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "7551ci",
+    "beginn": "03-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "7505ci",
+      "kyocera": "TASKalfa 7551ci"
+    },
+    "produktname": "Mercury 2",
+    "code": "2N2",
+    "aliases": [
+      "7505ci",
+      "UTAX 7505ci",
+      "TASKalfa 7551ci",
+      "Kyocera TASKalfa 7551ci",
+      "7551ci",
+      "Mercury 2",
+      "2N2",
+      "UTAX7505ci",
+      "TASKalfa7551ci",
+      "KyoceraTASKalfa7551ci",
+      "Mercury2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "8000i",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1480",
+      "kyocera": "TASKalfa 8000i"
+    },
+    "produktname": "Zeus",
+    "code": "2LF",
+    "aliases": [
+      "CD 1480",
+      "UTAX CD 1480",
+      "DC 2480",
+      "TASKalfa 8000i",
+      "Kyocera TASKalfa 8000i",
+      "8000i",
+      "Zeus",
+      "2LF",
+      "CD1480",
+      "UTAXCD1480",
+      "DC2480",
+      "TASKalfa8000i",
+      "KyoceraTASKalfa8000i"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "8001i",
+    "beginn": "02-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "8055i",
+      "kyocera": "TASKalfa 8001i"
+    },
+    "produktname": "Zeus 2",
+    "code": "2N7",
+    "aliases": [
+      "8055i",
+      "UTAX 8055i",
+      "TASKalfa 8001i",
+      "Kyocera TASKalfa 8001i",
+      "8001i",
+      "Zeus 2",
+      "2N7",
+      "UTAX8055i",
+      "TASKalfa8001i",
+      "KyoceraTASKalfa8001i",
+      "Zeus2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "8002i",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "8056i",
+      "kyocera": "TASKalfa 8002i"
+    },
+    "produktname": "Zeus 3",
+    "code": "2NJ",
+    "aliases": [
+      "8056i",
+      "UTAX 8056i",
+      "TASKalfa 8002i",
+      "Kyocera TASKalfa 8002i",
+      "8002i",
+      "Zeus 3",
+      "2NJ",
+      "UTAX8056i",
+      "TASKalfa8002i",
+      "KyoceraTASKalfa8002i",
+      "Zeus3"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "8003i",
+    "beginn": "01-2020",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "8057i",
+      "kyocera": "TASKalfa 8003i"
+    },
+    "produktname": "Zeus 4",
+    "code": "2XV",
+    "aliases": [
+      "8057i",
+      "UTAX 8057i",
+      "TASKalfa 8003i",
+      "Kyocera TASKalfa 8003i",
+      "8003i",
+      "Zeus 4",
+      "2XV",
+      "UTAX8057i",
+      "TASKalfa8003i",
+      "KyoceraTASKalfa8003i",
+      "Zeus4"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "8052ci",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "8006ci",
+      "kyocera": "TASKalfa 8052ci"
+    },
+    "produktname": "Mercury 3",
+    "code": "2RP",
+    "aliases": [
+      "8006ci",
+      "UTAX 8006ci",
+      "TASKalfa 8052ci",
+      "Kyocera TASKalfa 8052ci",
+      "8052ci",
+      "Mercury 3",
+      "2RP",
+      "UTAX8006ci",
+      "TASKalfa8052ci",
+      "KyoceraTASKalfa8052ci",
+      "Mercury3"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "820",
+    "beginn": "11-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1182",
+      "kyocera": "TASKalfa 820"
+    },
+    "produktname": "Harrier 1.5",
+    "code": "2KP",
+    "aliases": [
+      "CD 1182",
+      "UTAX CD 1182",
+      "DC 2182",
+      "TASKalfa 820",
+      "Kyocera TASKalfa 820",
+      "820",
+      "Harrier 1.5",
+      "2KP",
+      "CD1182",
+      "UTAXCD1182",
+      "DC2182",
+      "TASKalfa820",
+      "KyoceraTASKalfa820",
+      "Harrier1.5"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "8353ci",
+    "beginn": "01-2020",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "8307ci",
+      "kyocera": "TASKalfa 8353ci"
+    },
+    "produktname": "Mercury 4",
+    "code": "2XN",
+    "aliases": [
+      "8307ci",
+      "UTAX 8307ci",
+      "TASKalfa 8353ci",
+      "Kyocera TASKalfa 8353ci",
+      "8353ci",
+      "Mercury 4",
+      "2XN",
+      "UTAX8307ci",
+      "TASKalfa8353ci",
+      "KyoceraTASKalfa8353ci",
+      "Mercury4"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "dc2050",
+    "beginn": "01-2000",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "C 219",
+      "kyocera": "DC-2050"
+    },
+    "produktname": "",
+    "code": "2025Z",
+    "aliases": [
+      "C 219",
+      "UTAX C 219",
+      "DC-2050",
+      "Kyocera DC-2050",
+      "dc2050",
+      "2025Z",
+      "C219",
+      "UTAXC219",
+      "KyoceraDC2050"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "dc2560",
+    "beginn": "01-2000",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "C 259",
+      "kyocera": "DC-2560"
+    },
+    "produktname": "",
+    "code": "2530Z",
+    "aliases": [
+      "C 259",
+      "UTAX C 259",
+      "DC-2560",
+      "Kyocera DC-2560",
+      "dc2560",
+      "2530Z",
+      "C259",
+      "UTAXC259",
+      "KyoceraDC2560"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1010",
+    "beginn": "06-2003",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3014",
+      "kyocera": "FS-1010"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "LP 3014",
+      "UTAX LP 3014",
+      "LP 4014",
+      "FS-1010",
+      "Kyocera FS-1010",
+      "fs1010",
+      "LP3014",
+      "UTAXLP3014",
+      "LP4014",
+      "KyoceraFS1010"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1028mfp",
+    "beginn": "07-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1028",
+      "kyocera": "FS-1028MFP"
+    },
+    "produktname": "Discovery 2",
+    "code": "2H9",
+    "aliases": [
+      "CD 1028",
+      "UTAX CD 1028",
+      "DC 2028",
+      "FS-1028MFP",
+      "Kyocera FS-1028MFP",
+      "fs1028mfp",
+      "Discovery 2",
+      "2H9",
+      "CD1028",
+      "UTAXCD1028",
+      "DC2028",
+      "KyoceraFS1028MFP",
+      "Discovery2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1028mfpta",
+    "beginn": "10-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "DC 2228",
+      "kyocera": "FS-1028MFP/TA"
+    },
+    "produktname": "Discovery 2",
+    "code": "2H9",
+    "aliases": [
+      "DC 2228",
+      "UTAX DC 2228",
+      "FS-1028MFP/TA",
+      "Kyocera FS-1028MFP/TA",
+      "fs1028mfpta",
+      "Discovery 2",
+      "2H9",
+      "DC2228",
+      "UTAXDC2228",
+      "FS1028MFP/TA",
+      "KyoceraFS1028MFP/TA",
+      "Discovery2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1030d",
+    "beginn": "03-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3022",
+      "kyocera": "FS-1030D"
+    },
+    "produktname": "",
+    "code": "2G6",
+    "aliases": [
+      "LP 3022",
+      "UTAX LP 3022",
+      "LP 4022",
+      "FS-1030D",
+      "Kyocera FS-1030D",
+      "fs1030d",
+      "2G6",
+      "LP3022",
+      "UTAXLP3022",
+      "LP4022",
+      "KyoceraFS1030D"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1030mfp",
+    "beginn": "11-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 5130P",
+      "kyocera": "FS-1030MFP"
+    },
+    "produktname": "Discovery 30",
+    "code": "2MH",
+    "aliases": [
+      "CD 5130P",
+      "UTAX CD 5130P",
+      "DC 6130P",
+      "FS-1030MFP",
+      "Kyocera FS-1030MFP",
+      "fs1030mfp",
+      "Discovery 30",
+      "2MH",
+      "CD5130P",
+      "UTAXCD5130P",
+      "DC6130P",
+      "KyoceraFS1030MFP",
+      "Discovery30"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1030mfpdp",
+    "beginn": "11-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 5130",
+      "kyocera": "FS-1030MFP DP"
+    },
+    "produktname": "Discovery 30",
+    "code": "2MH",
+    "aliases": [
+      "CD 5130",
+      "UTAX CD 5130",
+      "DC 6130",
+      "FS-1030MFP DP",
+      "Kyocera FS-1030MFP DP",
+      "fs1030mfpdp",
+      "Discovery 30",
+      "2MH",
+      "CD5130",
+      "UTAXCD5130",
+      "DC6130",
+      "KyoceraFS1030MFPDP",
+      "Discovery30"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1035mfp",
+    "beginn": "11-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 5135",
+      "kyocera": "FS-1035MFP"
+    },
+    "produktname": "Discovery 35",
+    "code": "2MJ",
+    "aliases": [
+      "CD 5135",
+      "UTAX CD 5135",
+      "DC 6135",
+      "FS-1035MFP",
+      "Kyocera FS-1035MFP",
+      "fs1035mfp",
+      "Discovery 35",
+      "2MJ",
+      "CD5135",
+      "UTAXCD5135",
+      "DC6135",
+      "KyoceraFS1035MFP",
+      "Discovery35"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1100",
+    "beginn": "02-2008",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3128",
+      "kyocera": "FS-1100"
+    },
+    "produktname": "Dolphin",
+    "code": "2H5",
+    "aliases": [
+      "LP 3128",
+      "UTAX LP 3128",
+      "LP 4128",
+      "FS-1100",
+      "Kyocera FS-1100",
+      "fs1100",
+      "Dolphin",
+      "2H5",
+      "LP3128",
+      "UTAXLP3128",
+      "LP4128",
+      "KyoceraFS1100"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1116mfp",
+    "beginn": "10-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1316",
+      "kyocera": "FS-1116MFP"
+    },
+    "produktname": "Dragon",
+    "code": "2G5",
+    "aliases": [
+      "CD 1316",
+      "UTAX CD 1316",
+      "DC 2316",
+      "FS-1116MFP",
+      "Kyocera FS-1116MFP",
+      "fs1116mfp",
+      "Dragon",
+      "2G5",
+      "CD1316",
+      "UTAXCD1316",
+      "DC2316",
+      "KyoceraFS1116MFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1120d",
+    "beginn": "06-2010",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3130",
+      "kyocera": "FS-1120D"
+    },
+    "produktname": "Dolphin +",
+    "code": "2LY",
+    "aliases": [
+      "LP 3130",
+      "UTAX LP 3130",
+      "LP 4130",
+      "FS-1120D",
+      "Kyocera FS-1120D",
+      "fs1120d",
+      "Dolphin +",
+      "2LY",
+      "LP3130",
+      "UTAXLP3130",
+      "LP4130",
+      "KyoceraFS1120D",
+      "Dolphin+"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1128mfp",
+    "beginn": "07-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1128",
+      "kyocera": "FS-1128MFP"
+    },
+    "produktname": "Discovery 2",
+    "code": "2JN",
+    "aliases": [
+      "CD 1128",
+      "UTAX CD 1128",
+      "DC 2128",
+      "FS-1128MFP",
+      "Kyocera FS-1128MFP",
+      "fs1128mfp",
+      "Discovery 2",
+      "2JN",
+      "CD1128",
+      "UTAXCD1128",
+      "DC2128",
+      "KyoceraFS1128MFP",
+      "Discovery2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1128mfpta",
+    "beginn": "10-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "DC 2328",
+      "kyocera": "FS-1128MFP/TA"
+    },
+    "produktname": "Discovery 2",
+    "code": "2JN",
+    "aliases": [
+      "DC 2328",
+      "UTAX DC 2328",
+      "FS-1128MFP/TA",
+      "Kyocera FS-1128MFP/TA",
+      "fs1128mfpta",
+      "Discovery 2",
+      "2JN",
+      "DC2328",
+      "UTAXDC2328",
+      "FS1128MFP/TA",
+      "KyoceraFS1128MFP/TA",
+      "Discovery2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1130mfp",
+    "beginn": "11-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 5230",
+      "kyocera": "FS-1130MFP"
+    },
+    "produktname": "Discovery 30",
+    "code": "2MK",
+    "aliases": [
+      "CD 5230",
+      "UTAX CD 5230",
+      "DC 6230",
+      "FS-1130MFP",
+      "Kyocera FS-1130MFP",
+      "fs1130mfp",
+      "Discovery 30",
+      "2MK",
+      "CD5230",
+      "UTAXCD5230",
+      "DC6230",
+      "KyoceraFS1130MFP",
+      "Discovery30"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1135mfp",
+    "beginn": "11-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 5235",
+      "kyocera": "FS-1135MFP"
+    },
+    "produktname": "Discovery 35",
+    "code": "2ML",
+    "aliases": [
+      "CD 5235",
+      "UTAX CD 5235",
+      "DC 6235",
+      "FS-1135MFP",
+      "Kyocera FS-1135MFP",
+      "fs1135mfp",
+      "Discovery 35",
+      "2ML",
+      "CD5235",
+      "UTAXCD5235",
+      "DC6235",
+      "KyoceraFS1135MFP",
+      "Discovery35"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1300d",
+    "beginn": "02-2008",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3228",
+      "kyocera": "FS-1300D"
+    },
+    "produktname": "Dolphin",
+    "code": "2HS",
+    "aliases": [
+      "LP 3228",
+      "UTAX LP 3228",
+      "LP 4228",
+      "FS-1300D",
+      "Kyocera FS-1300D",
+      "fs1300d",
+      "Dolphin",
+      "2HS",
+      "LP3228",
+      "UTAXLP3228",
+      "LP4228",
+      "KyoceraFS1300D"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1320d",
+    "beginn": "06-2010",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3135",
+      "kyocera": "FS-1320D"
+    },
+    "produktname": "Dolphin +",
+    "code": "2LZ",
+    "aliases": [
+      "LP 3135",
+      "UTAX LP 3135",
+      "LP 4135",
+      "FS-1320D",
+      "Kyocera FS-1320D",
+      "fs1320d",
+      "Dolphin +",
+      "2LZ",
+      "LP3135",
+      "UTAXLP3135",
+      "LP4135",
+      "KyoceraFS1320D",
+      "Dolphin+"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1350d",
+    "beginn": "01-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3230",
+      "kyocera": "FS-1350D"
+    },
+    "produktname": "Dolphin Net",
+    "code": "2H4",
+    "aliases": [
+      "LP 3230",
+      "UTAX LP 3230",
+      "LP 4230",
+      "FS-1350D",
+      "Kyocera FS-1350D",
+      "fs1350d",
+      "Dolphin Net",
+      "2H4",
+      "LP3230",
+      "UTAXLP3230",
+      "LP4230",
+      "KyoceraFS1350D",
+      "DolphinNet"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1370dn",
+    "beginn": "08-2010",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3335",
+      "kyocera": "FS-1370DN"
+    },
+    "produktname": "Dolphin Net+",
+    "code": "2MH",
+    "aliases": [
+      "LP 3335",
+      "UTAX LP 3335",
+      "LP 4335",
+      "FS-1370DN",
+      "Kyocera FS-1370DN",
+      "fs1370dn",
+      "Dolphin Net+",
+      "2MH",
+      "LP3335",
+      "UTAXLP3335",
+      "LP4335",
+      "KyoceraFS1370DN",
+      "DolphinNet+"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs1900",
+    "beginn": "06-2003",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3018",
+      "kyocera": "FS-1900"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "LP 3018",
+      "UTAX LP 3018",
+      "LP 4018",
+      "FS-1900",
+      "Kyocera FS-1900",
+      "fs1900",
+      "LP3018",
+      "UTAXLP3018",
+      "LP4018",
+      "KyoceraFS1900"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs2000d",
+    "beginn": "04-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3030",
+      "kyocera": "FS-2000D"
+    },
+    "produktname": "5th Generation",
+    "code": "2F8",
+    "aliases": [
+      "LP 3030",
+      "UTAX LP 3030",
+      "LP 4030",
+      "FS-2000D",
+      "Kyocera FS-2000D",
+      "fs2000d",
+      "5th Generation",
+      "2F8",
+      "LP3030",
+      "UTAXLP3030",
+      "LP4030",
+      "KyoceraFS2000D",
+      "5thGeneration"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs2020d",
+    "beginn": "01-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3235",
+      "kyocera": "FS-2020D"
+    },
+    "produktname": "5th Gen. +",
+    "code": "2J0",
+    "aliases": [
+      "LP 3235",
+      "UTAX LP 3235",
+      "LP 4235",
+      "FS-2020D",
+      "Kyocera FS-2020D",
+      "fs2020d",
+      "5th Gen. +",
+      "2J0",
+      "LP3235",
+      "UTAXLP3235",
+      "LP4235",
+      "KyoceraFS2020D",
+      "5thGen.+"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs2100d",
+    "beginn": "10-2012",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4030D",
+      "kyocera": "FS-2100d"
+    },
+    "produktname": "6th Generation",
+    "code": "2L2",
+    "aliases": [
+      "P-4030D",
+      "UTAX P-4030D",
+      "FS-2100d",
+      "Kyocera FS-2100d",
+      "fs2100d",
+      "6th Generation",
+      "2L2",
+      "P4030D",
+      "UTAXP4030D",
+      "KyoceraFS2100d",
+      "6thGeneration"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs2100dn",
+    "beginn": "10-2012",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4030DN",
+      "kyocera": "FS-2100dn"
+    },
+    "produktname": "6th Generation",
+    "code": "2MS",
+    "aliases": [
+      "P-4030DN",
+      "UTAX P-4030DN",
+      "FS-2100dn",
+      "Kyocera FS-2100dn",
+      "fs2100dn",
+      "6th Generation",
+      "2MS",
+      "P4030DN",
+      "UTAXP4030DN",
+      "KyoceraFS2100dn",
+      "6thGeneration"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs3040mfp",
+    "beginn": "06-2010",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1340",
+      "kyocera": "FS-3040MFP"
+    },
+    "produktname": "Cygnus MFP",
+    "code": "2LW",
+    "aliases": [
+      "CD 1340",
+      "UTAX CD 1340",
+      "DC 2340",
+      "FS-3040MFP",
+      "Kyocera FS-3040MFP",
+      "fs3040mfp",
+      "Cygnus MFP",
+      "2LW",
+      "CD1340",
+      "UTAXCD1340",
+      "DC2340",
+      "KyoceraFS3040MFP",
+      "CygnusMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs3040mfp+",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 5140L",
+      "kyocera": "FS-3040MFP+"
+    },
+    "produktname": "Cygnus L",
+    "code": "2MF",
+    "aliases": [
+      "CD 5140L",
+      "UTAX CD 5140L",
+      "DC 6140L",
+      "FS-3040MFP+",
+      "Kyocera FS-3040MFP+",
+      "fs3040mfp+",
+      "Cygnus L",
+      "2MF",
+      "CD5140L",
+      "UTAXCD5140L",
+      "DC6140L",
+      "KyoceraFS3040MFP+",
+      "CygnusL"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs3140mfp",
+    "beginn": "06-2010",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1440",
+      "kyocera": "FS-3140MFP"
+    },
+    "produktname": "Cygnus MFP",
+    "code": "2LX",
+    "aliases": [
+      "CD 1440",
+      "UTAX CD 1440",
+      "DC 2440",
+      "FS-3140MFP",
+      "Kyocera FS-3140MFP",
+      "fs3140mfp",
+      "Cygnus MFP",
+      "2LX",
+      "CD1440",
+      "UTAXCD1440",
+      "DC2440",
+      "KyoceraFS3140MFP",
+      "CygnusMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs3140mfp+",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 5240L",
+      "kyocera": "FS-3140MFP+"
+    },
+    "produktname": "Cygnus L",
+    "code": "2MG",
+    "aliases": [
+      "CD 5240L",
+      "UTAX CD 5240L",
+      "DC 6240L",
+      "FS-3140MFP+",
+      "Kyocera FS-3140MFP+",
+      "fs3140mfp+",
+      "Cygnus L",
+      "2MG",
+      "CD5240L",
+      "UTAXCD5240L",
+      "DC6240L",
+      "KyoceraFS3140MFP+",
+      "CygnusL"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs3540mfp",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 5140",
+      "kyocera": "FS-3540MFP"
+    },
+    "produktname": "Cygnus H",
+    "code": "2MC",
+    "aliases": [
+      "CD 5140",
+      "UTAX CD 5140",
+      "DC 6140",
+      "FS-3540MFP",
+      "Kyocera FS-3540MFP",
+      "fs3540mfp",
+      "Cygnus H",
+      "2MC",
+      "CD5140",
+      "UTAXCD5140",
+      "DC6140",
+      "KyoceraFS3540MFP",
+      "CygnusH"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs3640mfp",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 5240",
+      "kyocera": "FS-3640MFP"
+    },
+    "produktname": "Cygnus H",
+    "code": "2MD",
+    "aliases": [
+      "CD 5240",
+      "UTAX CD 5240",
+      "DC 6240",
+      "FS-3640MFP",
+      "Kyocera FS-3640MFP",
+      "fs3640mfp",
+      "Cygnus H",
+      "2MD",
+      "CD5240",
+      "UTAXCD5240",
+      "DC6240",
+      "KyoceraFS3640MFP",
+      "CygnusH"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs3800",
+    "beginn": "06-2003",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3024",
+      "kyocera": "FS-3800"
+    },
+    "produktname": "Waverly",
+    "code": "",
+    "aliases": [
+      "LP 3024",
+      "UTAX LP 3024",
+      "LP 4024",
+      "FS-3800",
+      "Kyocera FS-3800",
+      "fs3800",
+      "Waverly",
+      "LP3024",
+      "UTAXLP3024",
+      "LP4024",
+      "KyoceraFS3800"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs3820n",
+    "beginn": "03-2004",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3028",
+      "kyocera": "FS-3820N"
+    },
+    "produktname": "Endeavour",
+    "code": "2FP",
+    "aliases": [
+      "LP 3028",
+      "UTAX LP 3028",
+      "LP 4028",
+      "FS-3820N",
+      "Kyocera FS-3820N",
+      "fs3820n",
+      "Endeavour",
+      "2FP",
+      "LP3028",
+      "UTAXLP3028",
+      "LP4028",
+      "KyoceraFS3820N"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs3830n",
+    "beginn": "03-2004",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3033",
+      "kyocera": "FS-3830N"
+    },
+    "produktname": "Endeavour",
+    "code": "2FY",
+    "aliases": [
+      "LP 3033",
+      "UTAX LP 3033",
+      "LP 4033",
+      "FS-3830N",
+      "Kyocera FS-3830N",
+      "fs3830n",
+      "Endeavour",
+      "2FY",
+      "LP3033",
+      "UTAXLP3033",
+      "LP4033",
+      "KyoceraFS3830N"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs3900dn",
+    "beginn": "04-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3035",
+      "kyocera": "FS-3900DN"
+    },
+    "produktname": "5th Generation",
+    "code": "2F9",
+    "aliases": [
+      "LP 3035",
+      "UTAX LP 3035",
+      "LP 4035",
+      "FS-3900DN",
+      "Kyocera FS-3900DN",
+      "fs3900dn",
+      "5th Generation",
+      "2F9",
+      "LP3035",
+      "UTAXLP3035",
+      "LP4035",
+      "KyoceraFS3900DN",
+      "5thGeneration"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs3920dn",
+    "beginn": "01-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3240",
+      "kyocera": "FS-3920DN"
+    },
+    "produktname": "5th Gen. +",
+    "code": "2J1",
+    "aliases": [
+      "LP 3240",
+      "UTAX LP 3240",
+      "LP 4240",
+      "FS-3920DN",
+      "Kyocera FS-3920DN",
+      "fs3920dn",
+      "5th Gen. +",
+      "2J1",
+      "LP3240",
+      "UTAXLP3240",
+      "LP4240",
+      "KyoceraFS3920DN",
+      "5thGen.+"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs4000dn",
+    "beginn": "04-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3045",
+      "kyocera": "FS-4000DN"
+    },
+    "produktname": "5th Generation",
+    "code": "2GA",
+    "aliases": [
+      "LP 3045",
+      "UTAX LP 3045",
+      "LP 4045",
+      "FS-4000DN",
+      "Kyocera FS-4000DN",
+      "fs4000dn",
+      "5th Generation",
+      "2GA",
+      "LP3045",
+      "UTAXLP3045",
+      "LP4045",
+      "KyoceraFS4000DN",
+      "5thGeneration"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs4020dn",
+    "beginn": "01-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3245",
+      "kyocera": "FS-4020DN"
+    },
+    "produktname": "5th Gen. +",
+    "code": "2J2",
+    "aliases": [
+      "LP 3245",
+      "UTAX LP 3245",
+      "LP 4245",
+      "FS-4020DN",
+      "Kyocera FS-4020DN",
+      "fs4020dn",
+      "5th Gen. +",
+      "2J2",
+      "LP3245",
+      "UTAXLP3245",
+      "LP4245",
+      "KyoceraFS4020DN",
+      "5thGen.+"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs4100dn",
+    "beginn": "10-2012",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4530DN",
+      "kyocera": "FS-4100dn"
+    },
+    "produktname": "6th Generation",
+    "code": "2MT",
+    "aliases": [
+      "P-4530DN",
+      "UTAX P-4530DN",
+      "FS-4100dn",
+      "Kyocera FS-4100dn",
+      "fs4100dn",
+      "6th Generation",
+      "2MT",
+      "P4530DN",
+      "UTAXP4530DN",
+      "KyoceraFS4100dn",
+      "6thGeneration"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs4200dn",
+    "beginn": "10-2012",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-5030DN",
+      "kyocera": "FS-4200dn"
+    },
+    "produktname": "6th Generation",
+    "code": "2L1",
+    "aliases": [
+      "P-5030DN",
+      "UTAX P-5030DN",
+      "FS-4200dn",
+      "Kyocera FS-4200dn",
+      "fs4200dn",
+      "6th Generation",
+      "2L1",
+      "P5030DN",
+      "UTAXP5030DN",
+      "KyoceraFS4200dn",
+      "6thGeneration"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs4300dn",
+    "beginn": "10-2012",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-6030DN",
+      "kyocera": "FS-4300dn"
+    },
+    "produktname": "6th Generation",
+    "code": "2LV",
+    "aliases": [
+      "P-6030DN",
+      "UTAX P-6030DN",
+      "FS-4300dn",
+      "Kyocera FS-4300dn",
+      "fs4300dn",
+      "6th Generation",
+      "2LV",
+      "P6030DN",
+      "UTAXP6030DN",
+      "KyoceraFS4300dn",
+      "6thGeneration"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs9120dn",
+    "beginn": "05-2005",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3036",
+      "kyocera": "FS-9120DN"
+    },
+    "produktname": "Hornet 2",
+    "code": "2FJ",
+    "aliases": [
+      "LP 3036",
+      "UTAX LP 3036",
+      "LP 4036",
+      "FS-9120DN",
+      "Kyocera FS-9120DN",
+      "fs9120dn",
+      "Hornet 2",
+      "2FJ",
+      "LP3036",
+      "UTAXLP3036",
+      "LP4036",
+      "KyoceraFS9120DN",
+      "Hornet2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs9130dn",
+    "beginn": "08-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3140",
+      "kyocera": "FS-9130DN"
+    },
+    "produktname": "Hornet 3",
+    "code": "2GZ",
+    "aliases": [
+      "LP 3140",
+      "UTAX LP 3140",
+      "LP 4140",
+      "FS-9130DN",
+      "Kyocera FS-9130DN",
+      "fs9130dn",
+      "Hornet 3",
+      "2GZ",
+      "LP3140",
+      "UTAXLP3140",
+      "LP4140",
+      "KyoceraFS9130DN",
+      "Hornet3"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs920",
+    "beginn": "03-2005",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3118",
+      "kyocera": "FS-920"
+    },
+    "produktname": "Tornado",
+    "code": "2FV",
+    "aliases": [
+      "LP 3118",
+      "UTAX LP 3118",
+      "LP 4118",
+      "FS-920",
+      "Kyocera FS-920",
+      "fs920",
+      "Tornado",
+      "2FV",
+      "LP3118",
+      "UTAXLP3118",
+      "LP4118",
+      "KyoceraFS920"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs9520dn",
+    "beginn": "05-2005",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3051",
+      "kyocera": "FS-9520DN"
+    },
+    "produktname": "Hornet 2",
+    "code": "2FH",
+    "aliases": [
+      "LP 3051",
+      "UTAX LP 3051",
+      "LP 4051",
+      "FS-9520DN",
+      "Kyocera FS-9520DN",
+      "fs9520dn",
+      "Hornet 2",
+      "2FH",
+      "LP3051",
+      "UTAXLP3051",
+      "LP4051",
+      "KyoceraFS9520DN",
+      "Hornet2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fs9530dn",
+    "beginn": "08-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LP 3151",
+      "kyocera": "FS-9530DN"
+    },
+    "produktname": "Hornet 3",
+    "code": "2G1",
+    "aliases": [
+      "LP 3151",
+      "UTAX LP 3151",
+      "LP 4151",
+      "FS-9530DN",
+      "Kyocera FS-9530DN",
+      "fs9530dn",
+      "Hornet 3",
+      "2G1",
+      "LP3151",
+      "UTAXLP3151",
+      "LP4151",
+      "KyoceraFS9530DN",
+      "Hornet3"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc1020mfp",
+    "beginn": "06-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1620",
+      "kyocera": "FS-C1020MFP"
+    },
+    "produktname": "Pluto",
+    "code": "5JK",
+    "aliases": [
+      "CDC 1620",
+      "UTAX CDC 1620",
+      "DCC 2620",
+      "FS-C1020MFP",
+      "Kyocera FS-C1020MFP",
+      "fsc1020mfp",
+      "Pluto",
+      "5JK",
+      "CDC1620",
+      "UTAXCDC1620",
+      "DCC2620",
+      "KyoceraFSC1020MFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc2026mfp",
+    "beginn": "09-2010",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1626",
+      "kyocera": "FS-C2026MFP"
+    },
+    "produktname": "Gemini MFP",
+    "code": "2KW",
+    "aliases": [
+      "CDC 1626",
+      "UTAX CDC 1626",
+      "DCC 2626",
+      "FS-C2026MFP",
+      "Kyocera FS-C2026MFP",
+      "fsc2026mfp",
+      "Gemini MFP",
+      "2KW",
+      "CDC1626",
+      "UTAXCDC1626",
+      "DCC2626",
+      "KyoceraFSC2026MFP",
+      "GeminiMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc2026mfp+",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 5526L",
+      "kyocera": "FS-C2026MFP+"
+    },
+    "produktname": "Gemini L",
+    "code": "2MA",
+    "aliases": [
+      "CDC 5526L",
+      "UTAX CDC 5526L",
+      "DCC 6526L",
+      "FS-C2026MFP+",
+      "Kyocera FS-C2026MFP+",
+      "fsc2026mfp+",
+      "Gemini L",
+      "2MA",
+      "CDC5526L",
+      "UTAXCDC5526L",
+      "DCC6526L",
+      "KyoceraFSC2026MFP+",
+      "GeminiL"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc2126mfp",
+    "beginn": "09-2010",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1726",
+      "kyocera": "FS-C2126MFP"
+    },
+    "produktname": "Gemini MFP",
+    "code": "2KX",
+    "aliases": [
+      "CDC 1726",
+      "UTAX CDC 1726",
+      "DCC 2726",
+      "FS-C2126MFP",
+      "Kyocera FS-C2126MFP",
+      "fsc2126mfp",
+      "Gemini MFP",
+      "2KX",
+      "CDC1726",
+      "UTAXCDC1726",
+      "DCC2726",
+      "KyoceraFSC2126MFP",
+      "GeminiMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc2126mfp+",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 5626L",
+      "kyocera": "FS-C2126MFP+"
+    },
+    "produktname": "Gemini L",
+    "code": "2MB",
+    "aliases": [
+      "CDC 5626L",
+      "UTAX CDC 5626L",
+      "DCC 6626L",
+      "FS-C2126MFP+",
+      "Kyocera FS-C2126MFP+",
+      "fsc2126mfp+",
+      "Gemini L",
+      "2MB",
+      "CDC5626L",
+      "UTAXCDC5626L",
+      "DCC6626L",
+      "KyoceraFSC2126MFP+",
+      "GeminiL"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc2526mfp",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 5526",
+      "kyocera": "FS-C2526MFP"
+    },
+    "produktname": "Gemini H",
+    "code": "2M8",
+    "aliases": [
+      "CDC 5526",
+      "UTAX CDC 5526",
+      "DCC 6526",
+      "FS-C2526MFP",
+      "Kyocera FS-C2526MFP",
+      "fsc2526mfp",
+      "Gemini H",
+      "2M8",
+      "CDC5526",
+      "UTAXCDC5526",
+      "DCC6526",
+      "KyoceraFSC2526MFP",
+      "GeminiH"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc2626mfp",
+    "beginn": "06-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 5626",
+      "kyocera": "FS-C2626MFP"
+    },
+    "produktname": "Gemini H",
+    "code": "2M9",
+    "aliases": [
+      "CDC 5626",
+      "UTAX CDC 5626",
+      "DCC 6626",
+      "FS-C2626MFP",
+      "Kyocera FS-C2626MFP",
+      "fsc2626mfp",
+      "Gemini H",
+      "2M9",
+      "CDC5626",
+      "UTAXCDC5626",
+      "DCC6626",
+      "KyoceraFSC2626MFP",
+      "GeminiH"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc5015n",
+    "beginn": "10-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3316",
+      "kyocera": "FS-C5015N"
+    },
+    "produktname": "A10_A19",
+    "code": "",
+    "aliases": [
+      "CLP 3316",
+      "UTAX CLP 3316",
+      "CLP 4316",
+      "FS-C5015N",
+      "Kyocera FS-C5015N",
+      "fsc5015n",
+      "A10_A19",
+      "CLP3316",
+      "UTAXCLP3316",
+      "CLP4316",
+      "KyoceraFSC5015N"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc5016n",
+    "beginn": "03-2004",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3516",
+      "kyocera": "FS-C5016N"
+    },
+    "produktname": "A80",
+    "code": "",
+    "aliases": [
+      "CLP 3516",
+      "UTAX CLP 3516",
+      "CLP 4516",
+      "FS-C5016N",
+      "Kyocera FS-C5016N",
+      "fsc5016n",
+      "A80",
+      "CLP3516",
+      "UTAXCLP3516",
+      "CLP4516",
+      "KyoceraFSC5016N"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc5020n",
+    "beginn": "03-2005",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3416",
+      "kyocera": "FS-C5020N"
+    },
+    "produktname": "B26",
+    "code": "",
+    "aliases": [
+      "CLP 3416",
+      "UTAX CLP 3416",
+      "CLP 4416",
+      "FS-C5020N",
+      "Kyocera FS-C5020N",
+      "fsc5020n",
+      "B26",
+      "CLP3416",
+      "UTAXCLP3416",
+      "CLP4416",
+      "KyoceraFSC5020N"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc5025n",
+    "beginn": "10-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3520",
+      "kyocera": "FS-C5025N"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "CLP 3520",
+      "UTAX CLP 3520",
+      "CLP 4520",
+      "FS-C5025N",
+      "Kyocera FS-C5025N",
+      "fsc5025n",
+      "CLP3520",
+      "UTAXCLP3520",
+      "CLP4520",
+      "KyoceraFSC5025N"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc5030n",
+    "beginn": "03-2005",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3524",
+      "kyocera": "FS-C5030N"
+    },
+    "produktname": "B27",
+    "code": "",
+    "aliases": [
+      "CLP 3524",
+      "UTAX CLP 3524",
+      "CLP 4524",
+      "FS-C5030N",
+      "Kyocera FS-C5030N",
+      "fsc5030n",
+      "B27",
+      "CLP3524",
+      "UTAXCLP3524",
+      "CLP4524",
+      "KyoceraFSC5030N"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc5100n",
+    "beginn": "11-2008",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3521",
+      "kyocera": "FS-C5100N"
+    },
+    "produktname": "Cassiopeia",
+    "code": "2HL",
+    "aliases": [
+      "CLP 3521",
+      "UTAX CLP 3521",
+      "CLP 4521",
+      "FS-C5100N",
+      "Kyocera FS-C5100N",
+      "fsc5100n",
+      "Cassiopeia",
+      "2HL",
+      "CLP3521",
+      "UTAXCLP3521",
+      "CLP4521",
+      "KyoceraFSC5100N"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc5150dn",
+    "beginn": "01-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3721",
+      "kyocera": "FS-C5150DN"
+    },
+    "produktname": "Gemini Printer",
+    "code": "2KT",
+    "aliases": [
+      "CLP 3721",
+      "UTAX CLP 3721",
+      "CLP 4721",
+      "FS-C5150DN",
+      "Kyocera FS-C5150DN",
+      "fsc5150dn",
+      "Gemini Printer",
+      "2KT",
+      "CLP3721",
+      "UTAXCLP3721",
+      "CLP4721",
+      "KyoceraFSC5150DN",
+      "GeminiPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc5200n",
+    "beginn": "02-2010",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3621",
+      "kyocera": "FS-C5200N"
+    },
+    "produktname": "Cassiopeia",
+    "code": "2HM",
+    "aliases": [
+      "CLP 3621",
+      "UTAX CLP 3621",
+      "CLP 4621",
+      "FS-C5200N",
+      "Kyocera FS-C5200N",
+      "fsc5200n",
+      "Cassiopeia",
+      "2HM",
+      "CLP3621",
+      "UTAXCLP3621",
+      "CLP4621",
+      "KyoceraFSC5200N"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc5250dn",
+    "beginn": "01-2011",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3726",
+      "kyocera": "FS-C5250DN"
+    },
+    "produktname": "Gemini Printer",
+    "code": "2KV",
+    "aliases": [
+      "CLP 3726",
+      "UTAX CLP 3726",
+      "CLP 4726",
+      "FS-C5250DN",
+      "Kyocera FS-C5250DN",
+      "fsc5250dn",
+      "Gemini Printer",
+      "2KV",
+      "CLP3726",
+      "UTAXCLP3726",
+      "CLP4726",
+      "KyoceraFSC5250DN",
+      "GeminiPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc5300n",
+    "beginn": "11-2008",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3626",
+      "kyocera": "FS-C5300N"
+    },
+    "produktname": "Cassiopeia",
+    "code": "2HN",
+    "aliases": [
+      "CLP 3626",
+      "UTAX CLP 3626",
+      "CLP 4626",
+      "FS-C5300N",
+      "Kyocera FS-C5300N",
+      "fsc5300n",
+      "Cassiopeia",
+      "2HN",
+      "CLP3626",
+      "UTAXCLP3626",
+      "CLP4626",
+      "KyoceraFSC5300N"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc5350dn",
+    "beginn": "02-2010",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3630",
+      "kyocera": "FS-C5350DN"
+    },
+    "produktname": "Cassiopeia 30",
+    "code": "2K8",
+    "aliases": [
+      "CLP 3630",
+      "UTAX CLP 3630",
+      "CLP 4630",
+      "FS-C5350DN",
+      "Kyocera FS-C5350DN",
+      "fsc5350dn",
+      "Cassiopeia 30",
+      "2K8",
+      "CLP3630",
+      "UTAXCLP3630",
+      "CLP4630",
+      "KyoceraFSC5350DN",
+      "Cassiopeia30"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc5400dn",
+    "beginn": "07-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3635",
+      "kyocera": "FS-C5400DN"
+    },
+    "produktname": "Treasure",
+    "code": "2HG",
+    "aliases": [
+      "CLP 3635",
+      "UTAX CLP 3635",
+      "CLP 4635",
+      "FS-C5400DN",
+      "Kyocera FS-C5400DN",
+      "fsc5400dn",
+      "Treasure",
+      "2HG",
+      "CLP3635",
+      "UTAXCLP3635",
+      "CLP4635",
+      "KyoceraFSC5400DN"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc8026",
+    "beginn": "03-2005",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3526",
+      "kyocera": "FS-C8026"
+    },
+    "produktname": "Magic",
+    "code": "2BF",
+    "aliases": [
+      "CLP 3526",
+      "UTAX CLP 3526",
+      "CLP 4526",
+      "FS-C8026",
+      "Kyocera FS-C8026",
+      "fsc8026",
+      "Magic",
+      "2BF",
+      "CLP3526",
+      "UTAXCLP3526",
+      "CLP4526",
+      "KyoceraFSC8026"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc8100dn",
+    "beginn": "01-2007",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3532",
+      "kyocera": "FS-C8100DN"
+    },
+    "produktname": "Voyager Printer",
+    "code": "",
+    "aliases": [
+      "CLP 3532",
+      "UTAX CLP 3532",
+      "CLP 4532",
+      "FS-C8100DN",
+      "Kyocera FS-C8100DN",
+      "fsc8100dn",
+      "Voyager Printer",
+      "CLP3532",
+      "UTAXCLP3532",
+      "CLP4532",
+      "KyoceraFSC8100DN",
+      "VoyagerPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc8100dn+",
+    "beginn": "01-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3532",
+      "kyocera": "FS-C8100DN+"
+    },
+    "produktname": "Voyager Printer",
+    "code": "",
+    "aliases": [
+      "CLP 3532",
+      "UTAX CLP 3532",
+      "CLP 4532",
+      "FS-C8100DN+",
+      "Kyocera FS-C8100DN+",
+      "fsc8100dn+",
+      "Voyager Printer",
+      "CLP3532",
+      "UTAXCLP3532",
+      "CLP4532",
+      "KyoceraFSC8100DN+",
+      "VoyagerPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc8500dn",
+    "beginn": "02-2010",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CLP 3550",
+      "kyocera": "FS-C8500DN"
+    },
+    "produktname": "Saturn Printer",
+    "code": "2KA",
+    "aliases": [
+      "CLP 3550",
+      "UTAX CLP 3550",
+      "CLP 4550",
+      "FS-C8500DN",
+      "Kyocera FS-C8500DN",
+      "fsc8500dn",
+      "Saturn Printer",
+      "2KA",
+      "CLP3550",
+      "UTAXCLP3550",
+      "CLP4550",
+      "KyoceraFSC8500DN",
+      "SaturnPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc8600dn",
+    "beginn": "07-2013",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C4580DN",
+      "kyocera": "FS-C8600dn"
+    },
+    "produktname": "Venus Printer",
+    "code": "2N1",
+    "aliases": [
+      "P-C4580DN",
+      "UTAX P-C4580DN",
+      "FS-C8600dn",
+      "Kyocera FS-C8600dn",
+      "fsc8600dn",
+      "Venus Printer",
+      "2N1",
+      "PC4580DN",
+      "UTAXPC4580DN",
+      "KyoceraFSC8600dn",
+      "VenusPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "fsc8650dn",
+    "beginn": "07-2013",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C5580DN",
+      "kyocera": "FS-C8650dn"
+    },
+    "produktname": "Venus Printer",
+    "code": "2MN",
+    "aliases": [
+      "P-C5580DN",
+      "UTAX P-C5580DN",
+      "FS-C8650dn",
+      "Kyocera FS-C8650dn",
+      "fsc8650dn",
+      "Venus Printer",
+      "2MN",
+      "PC5580DN",
+      "UTAXPC5580DN",
+      "KyoceraFSC8650dn",
+      "VenusPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km1118mfp",
+    "beginn": "03-2005",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1018",
+      "kyocera": "KM-1118MFP"
+    },
+    "produktname": "Discovery MFP",
+    "code": "",
+    "aliases": [
+      "CD 1018",
+      "UTAX CD 1018",
+      "DC 2018",
+      "KM-1118MFP",
+      "Kyocera KM-1118MFP",
+      "km1118mfp",
+      "Discovery MFP",
+      "CD1018",
+      "UTAXCD1018",
+      "DC2018",
+      "KyoceraKM1118MFP",
+      "DiscoveryMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km1500",
+    "beginn": "07-2003",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1315",
+      "kyocera": "KM-1500"
+    },
+    "produktname": "",
+    "code": "2DC",
+    "aliases": [
+      "CD 1315",
+      "UTAX CD 1315",
+      "DC 2315",
+      "KM-1500",
+      "Kyocera KM-1500",
+      "km1500",
+      "2DC",
+      "CD1315",
+      "UTAXCD1315",
+      "DC2315",
+      "KyoceraKM1500"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km1505",
+    "beginn": "06-2001",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1115",
+      "kyocera": "KM-1505"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "CD 1115",
+      "UTAX CD 1115",
+      "DC 2115",
+      "KM-1505",
+      "Kyocera KM-1505",
+      "km1505",
+      "CD1115",
+      "UTAXCD1115",
+      "DC2115",
+      "KyoceraKM1505"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km1510",
+    "beginn": "06-2001",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1215",
+      "kyocera": "KM-1510"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "CD 1215",
+      "UTAX CD 1215",
+      "DC 2215",
+      "KM-1510",
+      "Kyocera KM-1510",
+      "km1510",
+      "CD1215",
+      "UTAXCD1215",
+      "DC2215",
+      "KyoceraKM1510"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km1530",
+    "beginn": "02-2001",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1015",
+      "kyocera": "KM-1530"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "CD 1015",
+      "UTAX CD 1015",
+      "DC 2015",
+      "KM-1530",
+      "Kyocera KM-1530",
+      "km1530",
+      "CD1015",
+      "UTAXCD1015",
+      "DC2015",
+      "KyoceraKM1530"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km1620",
+    "beginn": "10-2003",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1016",
+      "kyocera": "KM-1620"
+    },
+    "produktname": "Atlantis Copier",
+    "code": "",
+    "aliases": [
+      "CD 1016",
+      "UTAX CD 1016",
+      "DC 2016",
+      "KM-1620",
+      "Kyocera KM-1620",
+      "km1620",
+      "Atlantis Copier",
+      "CD1016",
+      "UTAXCD1016",
+      "DC2016",
+      "KyoceraKM1620",
+      "AtlantisCopier"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km1635",
+    "beginn": "02-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1216",
+      "kyocera": "KM-1635"
+    },
+    "produktname": "Atlantis GDI",
+    "code": "",
+    "aliases": [
+      "CD 1216",
+      "UTAX CD 1216",
+      "DC 2216",
+      "KM-1635",
+      "Kyocera KM-1635",
+      "km1635",
+      "Atlantis GDI",
+      "CD1216",
+      "UTAXCD1216",
+      "DC2216",
+      "KyoceraKM1635",
+      "AtlantisGDI"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km1650",
+    "beginn": "10-2004",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1116",
+      "kyocera": "KM-1650"
+    },
+    "produktname": "Atlantis MFP",
+    "code": "",
+    "aliases": [
+      "CD 1116",
+      "UTAX CD 1116",
+      "DC 2116",
+      "KM-1650",
+      "Kyocera KM-1650",
+      "km1650",
+      "Atlantis MFP",
+      "CD1116",
+      "UTAXCD1116",
+      "DC2116",
+      "KyoceraKM1650",
+      "AtlantisMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km2030",
+    "beginn": "02-2001",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1020",
+      "kyocera": "KM-2030"
+    },
+    "produktname": "Atlantis MFP",
+    "code": "",
+    "aliases": [
+      "CD 1020",
+      "UTAX CD 1020",
+      "DC 2020",
+      "KM-2030",
+      "Kyocera KM-2030",
+      "km2030",
+      "Atlantis MFP",
+      "CD1020",
+      "UTAXCD1020",
+      "DC2020",
+      "KyoceraKM2030",
+      "AtlantisMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km2050",
+    "beginn": "10-2004",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1120",
+      "kyocera": "KM-2050"
+    },
+    "produktname": "Atlantis MFP",
+    "code": "",
+    "aliases": [
+      "CD 1120",
+      "UTAX CD 1120",
+      "DC 2120",
+      "KM-2050",
+      "Kyocera KM-2050",
+      "km2050",
+      "Atlantis MFP",
+      "CD1120",
+      "UTAXCD1120",
+      "DC2120",
+      "KyoceraKM2050",
+      "AtlantisMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km2530",
+    "beginn": "01-2002",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1025",
+      "kyocera": "KM-2530"
+    },
+    "produktname": "Falcon 1",
+    "code": "",
+    "aliases": [
+      "CD 1025",
+      "UTAX CD 1025",
+      "DC 2025",
+      "KM-2530",
+      "Kyocera KM-2530",
+      "km2530",
+      "Falcon 1",
+      "CD1025",
+      "UTAXCD1025",
+      "DC2025",
+      "KyoceraKM2530",
+      "Falcon1"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km2550",
+    "beginn": "10-2004",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1125",
+      "kyocera": "KM-2550"
+    },
+    "produktname": "Atlantis MFP",
+    "code": "2FT",
+    "aliases": [
+      "CD 1125",
+      "UTAX CD 1125",
+      "DC 2125",
+      "KM-2550",
+      "Kyocera KM-2550",
+      "km2550",
+      "Atlantis MFP",
+      "2FT",
+      "CD1125",
+      "UTAXCD1125",
+      "DC2125",
+      "KyoceraKM2550",
+      "AtlantisMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km2560",
+    "beginn": "10-2007",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1325",
+      "kyocera": "KM-2560"
+    },
+    "produktname": "Stratos",
+    "code": "2H0",
+    "aliases": [
+      "CD 1325",
+      "UTAX CD 1325",
+      "DC 2325",
+      "KM-2560",
+      "Kyocera KM-2560",
+      "km2560",
+      "Stratos",
+      "2H0",
+      "CD1325",
+      "UTAXCD1325",
+      "DC2325",
+      "KyoceraKM2560"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km3035",
+    "beginn": "11-2003",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1030",
+      "kyocera": "KM-3035"
+    },
+    "produktname": "Falcon 2",
+    "code": "",
+    "aliases": [
+      "CD 1030",
+      "UTAX CD 1030",
+      "DC 2130",
+      "KM-3035",
+      "Kyocera KM-3035",
+      "km3035",
+      "Falcon 2",
+      "CD1030",
+      "UTAXCD1030",
+      "DC2130",
+      "KyoceraKM3035",
+      "Falcon2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km3050",
+    "beginn": "07-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1230",
+      "kyocera": "KM-3050"
+    },
+    "produktname": "Falcon 3",
+    "code": "2GN",
+    "aliases": [
+      "CD 1230",
+      "UTAX CD 1230",
+      "DC 2230",
+      "KM-3050",
+      "Kyocera KM-3050",
+      "km3050",
+      "Falcon 3",
+      "2GN",
+      "CD1230",
+      "UTAXCD1230",
+      "DC2230",
+      "KyoceraKM3050",
+      "Falcon3"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km3060",
+    "beginn": "10-2008",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1330",
+      "kyocera": "KM-3060"
+    },
+    "produktname": "Stratos",
+    "code": "2HZ",
+    "aliases": [
+      "CD 1330",
+      "UTAX CD 1330",
+      "DC 2330",
+      "KM-3060",
+      "Kyocera KM-3060",
+      "km3060",
+      "Stratos",
+      "2HZ",
+      "CD1330",
+      "UTAXCD1330",
+      "DC2330",
+      "KyoceraKM3060"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km3530",
+    "beginn": "01-2002",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1035",
+      "kyocera": "KM-3530"
+    },
+    "produktname": "Falcon 1",
+    "code": "",
+    "aliases": [
+      "CD 1035",
+      "UTAX CD 1035",
+      "DC 2035",
+      "KM-3530",
+      "Kyocera KM-3530",
+      "km3530",
+      "Falcon 1",
+      "CD1035",
+      "UTAXCD1035",
+      "DC2035",
+      "KyoceraKM3530",
+      "Falcon1"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km4035",
+    "beginn": "11-2003",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1040",
+      "kyocera": "KM-4035"
+    },
+    "produktname": "Falcon 2",
+    "code": "",
+    "aliases": [
+      "CD 1040",
+      "UTAX CD 1040",
+      "DC 2140",
+      "KM-4035",
+      "Kyocera KM-4035",
+      "km4035",
+      "Falcon 2",
+      "CD1040",
+      "UTAXCD1040",
+      "DC2140",
+      "KyoceraKM4035",
+      "Falcon2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km4050",
+    "beginn": "07-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1240",
+      "kyocera": "KM-4050"
+    },
+    "produktname": "Falcon 3",
+    "code": "2GP",
+    "aliases": [
+      "CD 1240",
+      "UTAX CD 1240",
+      "DC 2240",
+      "KM-4050",
+      "Kyocera KM-4050",
+      "km4050",
+      "Falcon 3",
+      "2GP",
+      "CD1240",
+      "UTAXCD1240",
+      "DC2240",
+      "KyoceraKM4050",
+      "Falcon3"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km4230",
+    "beginn": "11-2000",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1042",
+      "kyocera": "KM-4230"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "CD 1042",
+      "UTAX CD 1042",
+      "DC 2042",
+      "KM-4230",
+      "Kyocera KM-4230",
+      "km4230",
+      "CD1042",
+      "UTAXCD1042",
+      "DC2042",
+      "KyoceraKM4230"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km4530",
+    "beginn": "04-2002",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1045",
+      "kyocera": "KM-4530"
+    },
+    "produktname": "Eagle",
+    "code": "",
+    "aliases": [
+      "CD 1045",
+      "UTAX CD 1045",
+      "DC 2045",
+      "KM-4530",
+      "Kyocera KM-4530",
+      "km4530",
+      "Eagle",
+      "CD1045",
+      "UTAXCD1045",
+      "DC2045",
+      "KyoceraKM4530"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km4850w",
+    "beginn": "04-2002",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "XC 9682",
+      "kyocera": "KM-4850w"
+    },
+    "produktname": "",
+    "code": "A0Dplus",
+    "aliases": [
+      "XC 9682",
+      "UTAX XC 9682",
+      "CX 8682",
+      "KM-4850w",
+      "Kyocera KM-4850w",
+      "km4850w",
+      "A0Dplus",
+      "XC9682",
+      "UTAXXC9682",
+      "CX8682",
+      "KyoceraKM4850w"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km5035",
+    "beginn": "11-2003",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1050",
+      "kyocera": "KM-5035"
+    },
+    "produktname": "Falcon 2",
+    "code": "",
+    "aliases": [
+      "CD 1050",
+      "UTAX CD 1050",
+      "DC 2150",
+      "KM-5035",
+      "Kyocera KM-5035",
+      "km5035",
+      "Falcon 2",
+      "CD1050",
+      "UTAXCD1050",
+      "DC2150",
+      "KyoceraKM5035",
+      "Falcon2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km5050",
+    "beginn": "07-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1250",
+      "kyocera": "KM-5050"
+    },
+    "produktname": "Falcon 3",
+    "code": "2GR",
+    "aliases": [
+      "CD 1250",
+      "UTAX CD 1250",
+      "DC 2250",
+      "KM-5050",
+      "Kyocera KM-5050",
+      "km5050",
+      "Falcon 3",
+      "2GR",
+      "CD1250",
+      "UTAXCD1250",
+      "DC2250",
+      "KyoceraKM5050",
+      "Falcon3"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km5230",
+    "beginn": "10-2000",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1052",
+      "kyocera": "KM-5230"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "CD 1052",
+      "UTAX CD 1052",
+      "DC 2052",
+      "KM-5230",
+      "Kyocera KM-5230",
+      "km5230",
+      "CD1052",
+      "UTAXCD1052",
+      "DC2052",
+      "KyoceraKM5230"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km5530",
+    "beginn": "04-2002",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1055",
+      "kyocera": "KM-5530"
+    },
+    "produktname": "Eagle",
+    "code": "",
+    "aliases": [
+      "CD 1055",
+      "UTAX CD 1055",
+      "DC 2055",
+      "KM-5530",
+      "Kyocera KM-5530",
+      "km5530",
+      "Eagle",
+      "CD1055",
+      "UTAXCD1055",
+      "DC2055",
+      "KyoceraKM5530"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km6030",
+    "beginn": "07-2005",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1060",
+      "kyocera": "KM-6030"
+    },
+    "produktname": "Harrier",
+    "code": "2FC",
+    "aliases": [
+      "CD 1060",
+      "UTAX CD 1060",
+      "DC 2060",
+      "KM-6030",
+      "Kyocera KM-6030",
+      "km6030",
+      "Harrier",
+      "2FC",
+      "CD1060",
+      "UTAXCD1060",
+      "DC2060",
+      "KyoceraKM6030"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km6230",
+    "beginn": "11-2000",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1062",
+      "kyocera": "KM-6230"
+    },
+    "produktname": "Pegasus 1",
+    "code": "",
+    "aliases": [
+      "CD 1062",
+      "UTAX CD 1062",
+      "DC 2062",
+      "KM-6230",
+      "Kyocera KM-6230",
+      "km6230",
+      "Pegasus 1",
+      "CD1062",
+      "UTAXCD1062",
+      "DC2062",
+      "KyoceraKM6230",
+      "Pegasus1"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km6330",
+    "beginn": "01-2003",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1063",
+      "kyocera": "KM-6330"
+    },
+    "produktname": "Pegasus 2",
+    "code": "2CJ",
+    "aliases": [
+      "CD 1063",
+      "UTAX CD 1063",
+      "DC 2063",
+      "KM-6330",
+      "Kyocera KM-6330",
+      "km6330",
+      "Pegasus 2",
+      "2CJ",
+      "CD1063",
+      "UTAXCD1063",
+      "DC2063",
+      "KyoceraKM6330",
+      "Pegasus2"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km7530",
+    "beginn": "07-2003",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1075",
+      "kyocera": "KM-7530"
+    },
+    "produktname": "Pegasus 3",
+    "code": "2FA",
+    "aliases": [
+      "CD 1075",
+      "UTAX CD 1075",
+      "DC 2075",
+      "KM-7530",
+      "Kyocera KM-7530",
+      "km7530",
+      "Pegasus 3",
+      "2FA",
+      "CD1075",
+      "UTAXCD1075",
+      "DC2075",
+      "KyoceraKM7530",
+      "Pegasus3"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "km8030",
+    "beginn": "07-2005",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 1080",
+      "kyocera": "KM-8030"
+    },
+    "produktname": "Harrier",
+    "code": "2FB",
+    "aliases": [
+      "CD 1080",
+      "UTAX CD 1080",
+      "DC 2080",
+      "KM-8030",
+      "Kyocera KM-8030",
+      "km8030",
+      "Harrier",
+      "2FB",
+      "CD1080",
+      "UTAXCD1080",
+      "DC2080",
+      "KyoceraKM8030"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "kmc2520",
+    "beginn": "07-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1520",
+      "kyocera": "KM-C2520"
+    },
+    "produktname": "Voyager 1.0",
+    "code": "2FZ",
+    "aliases": [
+      "CDC 1520",
+      "UTAX CDC 1520",
+      "DCC 2520",
+      "KM-C2520",
+      "Kyocera KM-C2520",
+      "kmc2520",
+      "Voyager 1.0",
+      "2FZ",
+      "CDC1520",
+      "UTAXCDC1520",
+      "DCC2520",
+      "KyoceraKMC2520",
+      "Voyager1.0"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "kmc2525e",
+    "beginn": "05-2007",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1625",
+      "kyocera": "KM-C2525E"
+    },
+    "produktname": "Voyager 1.5",
+    "code": "2JL",
+    "aliases": [
+      "CDC 1625",
+      "UTAX CDC 1625",
+      "DCC 2625",
+      "KM-C2525E",
+      "Kyocera KM-C2525E",
+      "kmc2525e",
+      "Voyager 1.5",
+      "2JL",
+      "CDC1625",
+      "UTAXCDC1625",
+      "DCC2625",
+      "KyoceraKMC2525E",
+      "Voyager1.5"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "kmc2630",
+    "beginn": "06-2004",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1526",
+      "kyocera": "KM-C2630"
+    },
+    "produktname": "Mirage",
+    "code": "2BG",
+    "aliases": [
+      "CDC 1526",
+      "UTAX CDC 1526",
+      "DCC 2526",
+      "KM-C2630",
+      "Kyocera KM-C2630",
+      "kmc2630",
+      "Mirage",
+      "2BG",
+      "CDC1526",
+      "UTAXCDC1526",
+      "DCC2526",
+      "KyoceraKMC2630"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "kmc2630d",
+    "beginn": "06-2004",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1526D",
+      "kyocera": "KM-C2630D"
+    },
+    "produktname": "Mirage",
+    "code": "2BG",
+    "aliases": [
+      "CDC 1526D",
+      "UTAX CDC 1526D",
+      "DCC 2526D",
+      "KM-C2630D",
+      "Kyocera KM-C2630D",
+      "kmc2630d",
+      "Mirage",
+      "2BG",
+      "CDC1526D",
+      "UTAXCDC1526D",
+      "DCC2526D",
+      "KyoceraKMC2630D"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "kmc3225",
+    "beginn": "07-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1525",
+      "kyocera": "KM-C3225"
+    },
+    "produktname": "Voyager 1.0",
+    "code": "2F0",
+    "aliases": [
+      "CDC 1525",
+      "UTAX CDC 1525",
+      "DCC 2525",
+      "KM-C3225",
+      "Kyocera KM-C3225",
+      "kmc3225",
+      "Voyager 1.0",
+      "2F0",
+      "CDC1525",
+      "UTAXCDC1525",
+      "DCC2525",
+      "KyoceraKMC3225",
+      "Voyager1.0"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "kmc3232",
+    "beginn": "07-2006",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1532",
+      "kyocera": "KM-C3232"
+    },
+    "produktname": "Voyager 1.0",
+    "code": "2HC",
+    "aliases": [
+      "CDC 1532",
+      "UTAX CDC 1532",
+      "DCC 2532",
+      "KM-C3232",
+      "Kyocera KM-C3232",
+      "kmc3232",
+      "Voyager 1.0",
+      "2HC",
+      "CDC1532",
+      "UTAXCDC1532",
+      "DCC2532",
+      "KyoceraKMC3232",
+      "Voyager1.0"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "kmc3232e",
+    "beginn": "05-2007",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1632",
+      "kyocera": "KM-C3232E"
+    },
+    "produktname": "Voyager 1.5",
+    "code": "2JG",
+    "aliases": [
+      "CDC 1632",
+      "UTAX CDC 1632",
+      "DCC 2632",
+      "KM-C3232E",
+      "Kyocera KM-C3232E",
+      "kmc3232e",
+      "Voyager 1.5",
+      "2JG",
+      "CDC1632",
+      "UTAXCDC1632",
+      "DCC2632",
+      "KyoceraKMC3232E",
+      "Voyager1.5"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "kmc4035e",
+    "beginn": "06-2007",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1635",
+      "kyocera": "KM-C4035E"
+    },
+    "produktname": "Voyager 1.5",
+    "code": "2JD",
+    "aliases": [
+      "CDC 1635",
+      "UTAX CDC 1635",
+      "DCC 2635",
+      "KM-C4035E",
+      "Kyocera KM-C4035E",
+      "kmc4035e",
+      "Voyager 1.5",
+      "2JD",
+      "CDC1635",
+      "UTAXCDC1635",
+      "DCC2635",
+      "KyoceraKMC4035E",
+      "Voyager1.5"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m2030dn",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-3020MFP",
+      "kyocera": "M2030DN"
+    },
+    "produktname": "E-Discovery 2.5",
+    "code": "2PK",
+    "aliases": [
+      "P-3020MFP",
+      "UTAX P-3020MFP",
+      "M2030DN",
+      "Kyocera M2030DN",
+      "E-Discovery 2.5",
+      "2PK",
+      "P3020MFP",
+      "UTAXP3020MFP",
+      "KyoceraM2030DN",
+      "EDiscovery2.5"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m2035dn",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-3520MFP",
+      "kyocera": "M2035DN"
+    },
+    "produktname": "E-Discovery 2.5",
+    "code": "2PM",
+    "aliases": [
+      "P-3520MFP",
+      "UTAX P-3520MFP",
+      "M2035DN",
+      "Kyocera M2035DN",
+      "E-Discovery 2.5",
+      "2PM",
+      "P3520MFP",
+      "UTAXP3520MFP",
+      "KyoceraM2035DN",
+      "EDiscovery2.5"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m2040dn",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4020MFP",
+      "kyocera": "M2040DN"
+    },
+    "produktname": "Libra MFP",
+    "code": "2S3",
+    "aliases": [
+      "P-4020MFP",
+      "UTAX P-4020MFP",
+      "M2040DN",
+      "Kyocera M2040DN",
+      "Libra MFP",
+      "2S3",
+      "P4020MFP",
+      "UTAXP4020MFP",
+      "KyoceraM2040DN",
+      "LibraMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m2135dn",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-3521MFP",
+      "kyocera": "M2135DN"
+    },
+    "produktname": "Libra MFP",
+    "code": "2S0",
+    "aliases": [
+      "P-3521MFP",
+      "UTAX P-3521MFP",
+      "M2135DN",
+      "Kyocera M2135DN",
+      "Libra MFP",
+      "2S0",
+      "P3521MFP",
+      "UTAXP3521MFP",
+      "KyoceraM2135DN",
+      "LibraMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m2530dn",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-3025MFP",
+      "kyocera": "M2530DN"
+    },
+    "produktname": "E-Discovery 2.5",
+    "code": "2PL",
+    "aliases": [
+      "P-3025MFP",
+      "UTAX P-3025MFP",
+      "M2530DN",
+      "Kyocera M2530DN",
+      "E-Discovery 2.5",
+      "2PL",
+      "P3025MFP",
+      "UTAXP3025MFP",
+      "KyoceraM2530DN",
+      "EDiscovery2.5"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m2535dn",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-3525MFP",
+      "kyocera": "M2535DN"
+    },
+    "produktname": "Discovery 2.5",
+    "code": "2PN",
+    "aliases": [
+      "P-3525MFP",
+      "UTAX P-3525MFP",
+      "M2535DN",
+      "Kyocera M2535DN",
+      "Discovery 2.5",
+      "2PN",
+      "P3525MFP",
+      "UTAXP3525MFP",
+      "KyoceraM2535DN",
+      "Discovery2.5"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m2540dw",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4025wMFP",
+      "kyocera": "M2540DW"
+    },
+    "produktname": "Libra MFP",
+    "code": "2S4",
+    "aliases": [
+      "P-4025wMFP",
+      "UTAX P-4025wMFP",
+      "M2540DW",
+      "Kyocera M2540DW",
+      "Libra MFP",
+      "2S4",
+      "P4025wMFP",
+      "UTAXP4025wMFP",
+      "KyoceraM2540DW",
+      "LibraMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m2640idw",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4026iwMFP",
+      "kyocera": "M2640iDW"
+    },
+    "produktname": "Libra MFP TSI",
+    "code": "2S5",
+    "aliases": [
+      "P-4026iwMFP",
+      "UTAX P-4026iwMFP",
+      "M2640iDW",
+      "Kyocera M2640iDW",
+      "Libra MFP TSI",
+      "2S5",
+      "P4026iwMFP",
+      "UTAXP4026iwMFP",
+      "KyoceraM2640iDW",
+      "LibraMFPTSI"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m2735dw",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-3527wMFP",
+      "kyocera": "M2735DW"
+    },
+    "produktname": "Libra MFP",
+    "code": "2SG",
+    "aliases": [
+      "P-3527wMFP",
+      "UTAX P-3527wMFP",
+      "M2735DW",
+      "Kyocera M2735DW",
+      "Libra MFP",
+      "2SG",
+      "P3527wMFP",
+      "UTAXP3527wMFP",
+      "KyoceraM2735DW",
+      "LibraMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3040dn",
+    "beginn": "03-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4030MFP",
+      "kyocera": "M3040dn"
+    },
+    "produktname": "Polaris",
+    "code": "2P0",
+    "aliases": [
+      "P-4030MFP",
+      "UTAX P-4030MFP",
+      "M3040dn",
+      "Kyocera M3040dn",
+      "Polaris",
+      "2P0",
+      "P4030MFP",
+      "UTAXP4030MFP",
+      "KyoceraM3040dn"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3040idn",
+    "beginn": "03-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4030iMFP",
+      "kyocera": "M3040idn"
+    },
+    "produktname": "Polaris",
+    "code": "2NY",
+    "aliases": [
+      "P-4030iMFP",
+      "UTAX P-4030iMFP",
+      "M3040idn",
+      "Kyocera M3040idn",
+      "Polaris",
+      "2NY",
+      "P4030iMFP",
+      "UTAXP4030iMFP",
+      "KyoceraM3040idn"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3145dn",
+    "beginn": "06-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4531MFP",
+      "kyocera": "M3145dn"
+    },
+    "produktname": "Polaris E",
+    "code": "2TF",
+    "aliases": [
+      "P-4531MFP",
+      "UTAX P-4531MFP",
+      "M3145dn",
+      "Kyocera M3145dn",
+      "Polaris E",
+      "2TF",
+      "P4531MFP",
+      "UTAXP4531MFP",
+      "KyoceraM3145dn",
+      "PolarisE"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3145idn",
+    "beginn": "06-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4531iMFP",
+      "kyocera": "M3145idn"
+    },
+    "produktname": "Polaris E",
+    "code": "2V2",
+    "aliases": [
+      "P-4531iMFP",
+      "UTAX P-4531iMFP",
+      "M3145idn",
+      "Kyocera M3145idn",
+      "Polaris E",
+      "2V2",
+      "P4531iMFP",
+      "UTAXP4531iMFP",
+      "KyoceraM3145idn",
+      "PolarisE"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3540dn",
+    "beginn": "03-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4035MFP",
+      "kyocera": "M3540dn"
+    },
+    "produktname": "Polaris",
+    "code": "2NZ",
+    "aliases": [
+      "P-4035MFP",
+      "UTAX P-4035MFP",
+      "M3540dn",
+      "Kyocera M3540dn",
+      "Polaris",
+      "2NZ",
+      "P4035MFP",
+      "UTAXP4035MFP",
+      "KyoceraM3540dn"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3540idn",
+    "beginn": "03-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4035iMFP",
+      "kyocera": "M3540idn"
+    },
+    "produktname": "Polaris",
+    "code": "2NX",
+    "aliases": [
+      "P-4035iMFP",
+      "UTAX P-4035iMFP",
+      "M3540idn",
+      "Kyocera M3540idn",
+      "Polaris",
+      "2NX",
+      "P4035iMFP",
+      "UTAXP4035iMFP",
+      "KyoceraM3540idn"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3550idn",
+    "beginn": "03-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-5035iMFP",
+      "kyocera": "M3550idn"
+    },
+    "produktname": "Polaris",
+    "code": "2NM",
+    "aliases": [
+      "P-5035iMFP",
+      "UTAX P-5035iMFP",
+      "M3550idn",
+      "Kyocera M3550idn",
+      "Polaris",
+      "2NM",
+      "P5035iMFP",
+      "UTAXP5035iMFP",
+      "KyoceraM3550idn"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3560idn",
+    "beginn": "03-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-6035iMFP",
+      "kyocera": "M3560idn"
+    },
+    "produktname": "Polaris",
+    "code": "2P6",
+    "aliases": [
+      "P-6035iMFP",
+      "UTAX P-6035iMFP",
+      "M3560idn",
+      "Kyocera M3560idn",
+      "Polaris",
+      "2P6",
+      "P6035iMFP",
+      "UTAXP6035iMFP",
+      "KyoceraM3560idn"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3645dn",
+    "beginn": "06-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4536MFP",
+      "kyocera": "M3645dn"
+    },
+    "produktname": "Polaris E",
+    "code": "2TG",
+    "aliases": [
+      "P-4536MFP",
+      "UTAX P-4536MFP",
+      "M3645dn",
+      "Kyocera M3645dn",
+      "Polaris E",
+      "2TG",
+      "P4536MFP",
+      "UTAXP4536MFP",
+      "KyoceraM3645dn",
+      "PolarisE"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3645idn",
+    "beginn": "06-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4536iMFP",
+      "kyocera": "M3645idn"
+    },
+    "produktname": "Polaris E",
+    "code": "2V3",
+    "aliases": [
+      "P-4536iMFP",
+      "UTAX P-4536iMFP",
+      "M3645idn",
+      "Kyocera M3645idn",
+      "Polaris E",
+      "2V3",
+      "P4536iMFP",
+      "UTAXP4536iMFP",
+      "KyoceraM3645idn",
+      "PolarisE"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3655iadn",
+    "beginn": "01-2022",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-5536i/AMFP",
+      "kyocera": "M3655iadn"
+    },
+    "produktname": "Polaris E",
+    "code": "2TB",
+    "aliases": [
+      "P-5536i/AMFP",
+      "UTAX P-5536i/AMFP",
+      "M3655iadn",
+      "Kyocera M3655iadn",
+      "Polaris E",
+      "2TB",
+      "P5536i/AMFP",
+      "UTAXP5536i/AMFP",
+      "KyoceraM3655iadn",
+      "PolarisE"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3655idn",
+    "beginn": "06-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-5536iMFP",
+      "kyocera": "M3655idn"
+    },
+    "produktname": "Polaris E",
+    "code": "2TB",
+    "aliases": [
+      "P-5536iMFP",
+      "UTAX P-5536iMFP",
+      "M3655idn",
+      "Kyocera M3655idn",
+      "Polaris E",
+      "2TB",
+      "P5536iMFP",
+      "UTAXP5536iMFP",
+      "KyoceraM3655idn",
+      "PolarisE"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3660idn",
+    "beginn": "06-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-6036iMFP",
+      "kyocera": "M3660idn"
+    },
+    "produktname": "Polaris E",
+    "code": "2TA",
+    "aliases": [
+      "P-6036iMFP",
+      "UTAX P-6036iMFP",
+      "M3660idn",
+      "Kyocera M3660idn",
+      "Polaris E",
+      "2TA",
+      "P6036iMFP",
+      "UTAXP6036iMFP",
+      "KyoceraM3660idn",
+      "PolarisE"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3860idn",
+    "beginn": "06-2020",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-6038iMFP",
+      "kyocera": "M3860idn"
+    },
+    "produktname": "Polaris Eplus",
+    "code": "2X9",
+    "aliases": [
+      "P-6038iMFP",
+      "UTAX P-6038iMFP",
+      "M3860idn",
+      "Kyocera M3860idn",
+      "Polaris Eplus",
+      "2X9",
+      "P6038iMFP",
+      "UTAXP6038iMFP",
+      "KyoceraM3860idn",
+      "PolarisEplus"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m3860idnf",
+    "beginn": "06-2020",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-6038ifMFP",
+      "kyocera": "M3860idnf"
+    },
+    "produktname": "Polaris Eplus",
+    "code": "2WF",
+    "aliases": [
+      "P-6038ifMFP",
+      "UTAX P-6038ifMFP",
+      "M3860idnf",
+      "Kyocera M3860idnf",
+      "Polaris Eplus",
+      "2WF",
+      "P6038ifMFP",
+      "UTAXP6038ifMFP",
+      "KyoceraM3860idnf",
+      "PolarisEplus"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m5521cdw",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C2155wMFP",
+      "kyocera": "M5521cdw"
+    },
+    "produktname": "Sirius MFP LCD",
+    "code": "2R9",
+    "aliases": [
+      "P-C2155wMFP",
+      "UTAX P-C2155wMFP",
+      "M5521cdw",
+      "Kyocera M5521cdw",
+      "Sirius MFP LCD",
+      "2R9",
+      "PC2155wMFP",
+      "UTAXPC2155wMFP",
+      "KyoceraM5521cdw",
+      "SiriusMFPLCD"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m5526cdw",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-C2655wMFP",
+      "kyocera": "M5526cdw"
+    },
+    "produktname": "Sirius MFP TSI",
+    "code": "2R7",
+    "aliases": [
+      "P-C2655wMFP",
+      "UTAX P-C2655wMFP",
+      "M5526cdw",
+      "Kyocera M5526cdw",
+      "Sirius MFP TSI",
+      "2R7",
+      "PC2655wMFP",
+      "UTAXPC2655wMFP",
+      "KyoceraM5526cdw",
+      "SiriusMFPTSI"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m6026cdn",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C2660MFP",
+      "kyocera": "M6026cdn"
+    },
+    "produktname": "E-Gemini L",
+    "code": "2PV",
+    "aliases": [
+      "P-C2660MFP",
+      "UTAX P-C2660MFP",
+      "M6026cdn",
+      "Kyocera M6026cdn",
+      "E-Gemini L",
+      "2PV",
+      "PC2660MFP",
+      "UTAXPC2660MFP",
+      "KyoceraM6026cdn",
+      "EGeminiL"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m6026cidn",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C2660iMFP",
+      "kyocera": "M6026cidn"
+    },
+    "produktname": "E-GeminiHyPAS",
+    "code": "2PX",
+    "aliases": [
+      "P-C2660iMFP",
+      "UTAX P-C2660iMFP",
+      "M6026cidn",
+      "Kyocera M6026cidn",
+      "E-GeminiHyPAS",
+      "2PX",
+      "PC2660iMFP",
+      "UTAXPC2660iMFP",
+      "KyoceraM6026cidn",
+      "EGeminiHyPAS"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m6030cdn",
+    "beginn": "06-2015",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C3060MFP",
+      "kyocera": "M6030cdn"
+    },
+    "produktname": "Mebius MFP",
+    "code": "2NV",
+    "aliases": [
+      "P-C3060MFP",
+      "UTAX P-C3060MFP",
+      "M6030cdn",
+      "Kyocera M6030cdn",
+      "Mebius MFP",
+      "2NV",
+      "PC3060MFP",
+      "UTAXPC3060MFP",
+      "KyoceraM6030cdn",
+      "MebiusMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m6035cidn",
+    "beginn": "06-2015",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C3560iMFP",
+      "kyocera": "M6035cidn"
+    },
+    "produktname": "Mebius MFP",
+    "code": "2PB",
+    "aliases": [
+      "P-C3560iMFP",
+      "UTAX P-C3560iMFP",
+      "M6035cidn",
+      "Kyocera M6035cidn",
+      "Mebius MFP",
+      "2PB",
+      "PC3560iMFP",
+      "UTAXPC3560iMFP",
+      "KyoceraM6035cidn",
+      "MebiusMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m6230cidn",
+    "beginn": "03-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C3062iMFP",
+      "kyocera": "M6230cidn"
+    },
+    "produktname": "Mebius E MFP",
+    "code": "2TY",
+    "aliases": [
+      "P-C3062iMFP",
+      "UTAX P-C3062iMFP",
+      "M6230cidn",
+      "Kyocera M6230cidn",
+      "Mebius E MFP",
+      "2TY",
+      "PC3062iMFP",
+      "UTAXPC3062iMFP",
+      "KyoceraM6230cidn",
+      "MebiusEMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m6235cidn",
+    "beginn": "03-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C3562iMFP",
+      "kyocera": "M6235cidn"
+    },
+    "produktname": "Mebius E MFP",
+    "code": "2V0",
+    "aliases": [
+      "P-C3562iMFP",
+      "UTAX P-C3562iMFP",
+      "M6235cidn",
+      "Kyocera M6235cidn",
+      "Mebius E MFP",
+      "2V0",
+      "PC3562iMFP",
+      "UTAXPC3562iMFP",
+      "KyoceraM6235cidn",
+      "MebiusEMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m6526cdn",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C2665MFP",
+      "kyocera": "M6526cdn"
+    },
+    "produktname": "E-Gemini L",
+    "code": "2PW",
+    "aliases": [
+      "P-C2665MFP",
+      "UTAX P-C2665MFP",
+      "M6526cdn",
+      "Kyocera M6526cdn",
+      "E-Gemini L",
+      "2PW",
+      "PC2665MFP",
+      "UTAXPC2665MFP",
+      "KyoceraM6526cdn",
+      "EGeminiL"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m6526cidn",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C2665iMFP",
+      "kyocera": "M6526cidn"
+    },
+    "produktname": "E-GeminiHyPAS",
+    "code": "2PY",
+    "aliases": [
+      "P-C2665iMFP",
+      "UTAX P-C2665iMFP",
+      "M6526cidn",
+      "Kyocera M6526cidn",
+      "E-GeminiHyPAS",
+      "2PY",
+      "PC2665iMFP",
+      "UTAXPC2665iMFP",
+      "KyoceraM6526cidn",
+      "EGeminiHyPAS"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m6530cdn",
+    "beginn": "06-2015",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C3065MFP",
+      "kyocera": "M6530cdn"
+    },
+    "produktname": "Mebius MFP",
+    "code": "2NW",
+    "aliases": [
+      "P-C3065MFP",
+      "UTAX P-C3065MFP",
+      "M6530cdn",
+      "Kyocera M6530cdn",
+      "Mebius MFP",
+      "2NW",
+      "PC3065MFP",
+      "UTAXPC3065MFP",
+      "KyoceraM6530cdn",
+      "MebiusMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m6535cidn",
+    "beginn": "06-2015",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C3565iMFP",
+      "kyocera": "M6535cidn"
+    },
+    "produktname": "Mebius MFP",
+    "code": "2PC",
+    "aliases": [
+      "P-C3565iMFP",
+      "UTAX P-C3565iMFP",
+      "M6535cidn",
+      "Kyocera M6535cidn",
+      "Mebius MFP",
+      "2PC",
+      "PC3565iMFP",
+      "UTAXPC3565iMFP",
+      "KyoceraM6535cidn",
+      "MebiusMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m6630cidn",
+    "beginn": "03-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C3066iMFP",
+      "kyocera": "M6630cidn"
+    },
+    "produktname": "Mebius E MFP",
+    "code": "2TZ",
+    "aliases": [
+      "P-C3066iMFP",
+      "UTAX P-C3066iMFP",
+      "M6630cidn",
+      "Kyocera M6630cidn",
+      "Mebius E MFP",
+      "2TZ",
+      "PC3066iMFP",
+      "UTAXPC3066iMFP",
+      "KyoceraM6630cidn",
+      "MebiusEMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "m6635cidn",
+    "beginn": "03-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C3566iMFP",
+      "kyocera": "M6635cidn"
+    },
+    "produktname": "Mebius E MFP",
+    "code": "2V1",
+    "aliases": [
+      "P-C3566iMFP",
+      "UTAX P-C3566iMFP",
+      "M6635cidn",
+      "Kyocera M6635cidn",
+      "Mebius E MFP",
+      "2V1",
+      "PC3566iMFP",
+      "UTAXPC3566iMFP",
+      "KyoceraM6635cidn",
+      "MebiusEMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma3500ci",
+    "beginn": "12-2023",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "358ci",
+      "kyocera": "TASKalfa MA3500ci"
+    },
+    "produktname": "Virgo black",
+    "code": "2Z6",
+    "aliases": [
+      "358ci",
+      "UTAX 358ci",
+      "TASKalfa MA3500ci",
+      "Kyocera TASKalfa MA3500ci",
+      "ma3500ci",
+      "Virgo black",
+      "2Z6",
+      "UTAX358ci",
+      "TASKalfaMA3500ci",
+      "KyoceraTASKalfaMA3500ci",
+      "Virgoblack"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma3500cifx",
+    "beginn": "10-2023",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-C3567iMFP",
+      "kyocera": "MA3500cifx"
+    },
+    "produktname": "Virgo MFP",
+    "code": "2Z3",
+    "aliases": [
+      "P-C3567iMFP",
+      "UTAX P-C3567iMFP",
+      "MA3500cifx",
+      "Kyocera MA3500cifx",
+      "Virgo MFP",
+      "2Z3",
+      "PC3567iMFP",
+      "UTAXPC3567iMFP",
+      "KyoceraMA3500cifx",
+      "VirgoMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma3500cix",
+    "beginn": "10-2023",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-C3563iMFP",
+      "kyocera": "MA3500cix"
+    },
+    "produktname": "Virgo MFP",
+    "code": "2YK",
+    "aliases": [
+      "P-C3563iMFP",
+      "UTAX P-C3563iMFP",
+      "MA3500cix",
+      "Kyocera MA3500cix",
+      "Virgo MFP",
+      "2YK",
+      "PC3563iMFP",
+      "UTAXPC3563iMFP",
+      "KyoceraMA3500cix",
+      "VirgoMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma4000cifx",
+    "beginn": "01-2024",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-C4067iMFP",
+      "kyocera": "MA4000cifx"
+    },
+    "produktname": "Virgo MFP",
+    "code": "2Z5",
+    "aliases": [
+      "P-C4067iMFP",
+      "UTAX P-C4067iMFP",
+      "MA4000cifx",
+      "Kyocera MA4000cifx",
+      "Virgo MFP",
+      "2Z5",
+      "PC4067iMFP",
+      "UTAXPC4067iMFP",
+      "KyoceraMA4000cifx",
+      "VirgoMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma4000cix",
+    "beginn": "01-2024",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-C4063iMFP",
+      "kyocera": "MA4000cix"
+    },
+    "produktname": "Virgo MFP",
+    "code": "2Z4",
+    "aliases": [
+      "P-C4063iMFP",
+      "UTAX P-C4063iMFP",
+      "MA4000cix",
+      "Kyocera MA4000cix",
+      "Virgo MFP",
+      "2Z4",
+      "PC4063iMFP",
+      "UTAXPC4063iMFP",
+      "KyoceraMA4000cix",
+      "VirgoMFP"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma4000wfx",
+    "beginn": "11-2024",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-4026wMFP",
+      "kyocera": "MA4000wfx"
+    },
+    "produktname": "Libra MFP 2.0",
+    "code": "C1C",
+    "aliases": [
+      "P-4026wMFP",
+      "UTAX P-4026wMFP",
+      "MA4000wfx",
+      "Kyocera MA4000wfx",
+      "Libra MFP 2.0",
+      "C1C",
+      "P4026wMFP",
+      "UTAXP4026wMFP",
+      "KyoceraMA4000wfx",
+      "LibraMFP2.0"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma4000wifx",
+    "beginn": "11-2024",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-4027iwMFP",
+      "kyocera": "MA4000wifx"
+    },
+    "produktname": "Libra MFP 2.0",
+    "code": "C1D",
+    "aliases": [
+      "P-4027iwMFP",
+      "UTAX P-4027iwMFP",
+      "MA4000wifx",
+      "Kyocera MA4000wifx",
+      "Libra MFP 2.0",
+      "C1D",
+      "P4027iwMFP",
+      "UTAXP4027iwMFP",
+      "KyoceraMA4000wifx",
+      "LibraMFP2.0"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma4000x",
+    "beginn": "11-2024",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-4021MFP",
+      "kyocera": "MA4000x"
+    },
+    "produktname": "Libra MFP 2.0",
+    "code": "C14",
+    "aliases": [
+      "P-4021MFP",
+      "UTAX P-4021MFP",
+      "MA4000x",
+      "Kyocera MA4000x",
+      "Libra MFP 2.0",
+      "C14",
+      "P4021MFP",
+      "UTAXP4021MFP",
+      "KyoceraMA4000x",
+      "LibraMFP2.0"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma4500ci",
+    "beginn": "02-2024",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "458ci",
+      "kyocera": "TASKalfa MA4500ci"
+    },
+    "produktname": "Virgo black",
+    "code": "2Z7",
+    "aliases": [
+      "458ci",
+      "UTAX 458ci",
+      "TASKalfa MA4500ci",
+      "Kyocera TASKalfa MA4500ci",
+      "ma4500ci",
+      "Virgo black",
+      "2Z7",
+      "UTAX458ci",
+      "TASKalfaMA4500ci",
+      "KyoceraTASKalfaMA4500ci",
+      "Virgoblack"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma4500fx",
+    "beginn": "10-2023",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-4539MFP",
+      "kyocera": "MA4500fx"
+    },
+    "produktname": "Polaris Next",
+    "code": "C12",
+    "aliases": [
+      "P-4539MFP",
+      "UTAX P-4539MFP",
+      "MA4500fx",
+      "Kyocera MA4500fx",
+      "Polaris Next",
+      "C12",
+      "P4539MFP",
+      "UTAXP4539MFP",
+      "KyoceraMA4500fx",
+      "PolarisNext"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma4500ifx",
+    "beginn": "10-2023",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-4539iMFP",
+      "kyocera": "MA4500ifx"
+    },
+    "produktname": "Polaris Next",
+    "code": "C10",
+    "aliases": [
+      "P-4539iMFP",
+      "UTAX P-4539iMFP",
+      "MA4500ifx",
+      "Kyocera MA4500ifx",
+      "Polaris Next",
+      "C10",
+      "P4539iMFP",
+      "UTAXP4539iMFP",
+      "KyoceraMA4500ifx",
+      "PolarisNext"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma4500ix",
+    "beginn": "10-2023",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-4532iMFP",
+      "kyocera": "MA4500ix"
+    },
+    "produktname": "Polaris Next",
+    "code": "C11",
+    "aliases": [
+      "P-4532iMFP",
+      "UTAX P-4532iMFP",
+      "MA4500ix",
+      "Kyocera MA4500ix",
+      "Polaris Next",
+      "C11",
+      "P4532iMFP",
+      "UTAXP4532iMFP",
+      "KyoceraMA4500ix",
+      "PolarisNext"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma4500x",
+    "beginn": "10-2023",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-4532MFP",
+      "kyocera": "MA4500x"
+    },
+    "produktname": "Polaris Next",
+    "code": "C13",
+    "aliases": [
+      "P-4532MFP",
+      "UTAX P-4532MFP",
+      "MA4500x",
+      "Kyocera MA4500x",
+      "Polaris Next",
+      "C13",
+      "P4532MFP",
+      "UTAXP4532MFP",
+      "KyoceraMA4500x",
+      "PolarisNext"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma5500ifx",
+    "beginn": "10-2023",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-5539iMFP",
+      "kyocera": "MA5500ifx"
+    },
+    "produktname": "Polaris Next",
+    "code": "C0Z",
+    "aliases": [
+      "P-5539iMFP",
+      "UTAX P-5539iMFP",
+      "MA5500ifx",
+      "Kyocera MA5500ifx",
+      "Polaris Next",
+      "C0Z",
+      "P5539iMFP",
+      "UTAXP5539iMFP",
+      "KyoceraMA5500ifx",
+      "PolarisNext"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ma6000ifx",
+    "beginn": "10-2023",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-6039iMFP",
+      "kyocera": "MA6000ifx"
+    },
+    "produktname": "Polaris Next",
+    "code": "C0V",
+    "aliases": [
+      "P-6039iMFP",
+      "UTAX P-6039iMFP",
+      "MA6000ifx",
+      "Kyocera MA6000ifx",
+      "Polaris Next",
+      "C0V",
+      "P6039iMFP",
+      "UTAXP6039iMFP",
+      "KyoceraMA6000ifx",
+      "PolarisNext"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "mz2501ci",
+    "beginn": "04-2025",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "2509ci",
+      "kyocera": "TASKalfa MZ2501ci"
+    },
+    "produktname": "Iris 2024 Color",
+    "code": "C2M",
+    "aliases": [
+      "2509ci",
+      "UTAX 2509ci",
+      "TASKalfa MZ2501ci",
+      "Kyocera TASKalfa MZ2501ci",
+      "mz2501ci",
+      "Iris 2024 Color",
+      "C2M",
+      "UTAX2509ci",
+      "TASKalfaMZ2501ci",
+      "KyoceraTASKalfaMZ2501ci",
+      "Iris2024Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "mz3200i",
+    "beginn": "07-2022",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "3263i",
+      "kyocera": "TASKalfa MZ3200i"
+    },
+    "produktname": "Tomcat 4",
+    "code": "2ZT",
+    "aliases": [
+      "3263i",
+      "UTAX 3263i",
+      "TASKalfa MZ3200i",
+      "Kyocera TASKalfa MZ3200i",
+      "mz3200i",
+      "Tomcat 4",
+      "2ZT",
+      "UTAX3263i",
+      "TASKalfaMZ3200i",
+      "KyoceraTASKalfaMZ3200i",
+      "Tomcat4"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "mz3501ci",
+    "beginn": "04-2025",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "3509ci",
+      "kyocera": "TASKalfa MZ3501ci"
+    },
+    "produktname": "Iris 2024 Color",
+    "code": "C2L",
+    "aliases": [
+      "3509ci",
+      "UTAX 3509ci",
+      "TASKalfa MZ3501ci",
+      "Kyocera TASKalfa MZ3501ci",
+      "mz3501ci",
+      "Iris 2024 Color",
+      "C2L",
+      "UTAX3509ci",
+      "TASKalfaMZ3501ci",
+      "KyoceraTASKalfaMZ3501ci",
+      "Iris2024Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "mz4000i",
+    "beginn": "07-2022",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "4063i",
+      "kyocera": "TASKalfa MZ4000i"
+    },
+    "produktname": "Tomcat 4",
+    "code": "2ZS",
+    "aliases": [
+      "4063i",
+      "UTAX 4063i",
+      "TASKalfa MZ4000i",
+      "Kyocera TASKalfa MZ4000i",
+      "mz4000i",
+      "Tomcat 4",
+      "2ZS",
+      "UTAX4063i",
+      "TASKalfaMZ4000i",
+      "KyoceraTASKalfaMZ4000i",
+      "Tomcat4"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "mz4001ci",
+    "beginn": "04-2025",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "4009ci",
+      "kyocera": "TASKalfa MZ4001ci"
+    },
+    "produktname": "Iris 2024 Color",
+    "code": "C2K",
+    "aliases": [
+      "4009ci",
+      "UTAX 4009ci",
+      "TASKalfa MZ4001ci",
+      "Kyocera TASKalfa MZ4001ci",
+      "mz4001ci",
+      "Iris 2024 Color",
+      "C2K",
+      "UTAX4009ci",
+      "TASKalfaMZ4001ci",
+      "KyoceraTASKalfaMZ4001ci",
+      "Iris2024Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "mz5001ci",
+    "beginn": "04-2025",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "5009ci",
+      "kyocera": "TASKalfa MZ5001ci"
+    },
+    "produktname": "Iris 2024 Color",
+    "code": "C2J",
+    "aliases": [
+      "5009ci",
+      "UTAX 5009ci",
+      "TASKalfa MZ5001ci",
+      "Kyocera TASKalfa MZ5001ci",
+      "mz5001ci",
+      "Iris 2024 Color",
+      "C2J",
+      "UTAX5009ci",
+      "TASKalfaMZ5001ci",
+      "KyoceraTASKalfaMZ5001ci",
+      "Iris2024Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "mz5001i",
+    "beginn": "04-2025",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "5059i",
+      "kyocera": "TASKalfa MZ5001i"
+    },
+    "produktname": "Iris 2024 mono",
+    "code": "C2R",
+    "aliases": [
+      "5059i",
+      "UTAX 5059i",
+      "TASKalfa MZ5001i",
+      "Kyocera TASKalfa MZ5001i",
+      "mz5001i",
+      "Iris 2024 mono",
+      "C2R",
+      "UTAX5059i",
+      "TASKalfaMZ5001i",
+      "KyoceraTASKalfaMZ5001i",
+      "Iris2024mono"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "mz6001ci",
+    "beginn": "04-2025",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "6009ci",
+      "kyocera": "TASKalfa MZ6001ci"
+    },
+    "produktname": "Iris 2024 Color",
+    "code": "C2H",
+    "aliases": [
+      "6009ci",
+      "UTAX 6009ci",
+      "TASKalfa MZ6001ci",
+      "Kyocera TASKalfa MZ6001ci",
+      "mz6001ci",
+      "Iris 2024 Color",
+      "C2H",
+      "UTAX6009ci",
+      "TASKalfaMZ6001ci",
+      "KyoceraTASKalfaMZ6001ci",
+      "Iris2024Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "mz6001i",
+    "beginn": "04-2025",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "6059i",
+      "kyocera": "TASKalfa MZ6001i"
+    },
+    "produktname": "Iris 2024 mono",
+    "code": "C2P",
+    "aliases": [
+      "6059i",
+      "UTAX 6059i",
+      "TASKalfa MZ6001i",
+      "Kyocera TASKalfa MZ6001i",
+      "mz6001i",
+      "Iris 2024 mono",
+      "C2P",
+      "UTAX6059i",
+      "TASKalfaMZ6001i",
+      "KyoceraTASKalfaMZ6001i",
+      "Iris2024mono"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "mz7001ci",
+    "beginn": "04-2025",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "7009ci",
+      "kyocera": "TASKalfa MZ7001ci"
+    },
+    "produktname": "Iris 2024 Color",
+    "code": "C2G",
+    "aliases": [
+      "7009ci",
+      "UTAX 7009ci",
+      "TASKalfa MZ7001ci",
+      "Kyocera TASKalfa MZ7001ci",
+      "mz7001ci",
+      "Iris 2024 Color",
+      "C2G",
+      "UTAX7009ci",
+      "TASKalfaMZ7001ci",
+      "KyoceraTASKalfaMZ7001ci",
+      "Iris2024Color"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "mz7001i",
+    "beginn": "04-2025",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "7059i",
+      "kyocera": "TASKalfa MZ7001i"
+    },
+    "produktname": "Iris 2024 mono",
+    "code": "C2N",
+    "aliases": [
+      "7059i",
+      "UTAX 7059i",
+      "TASKalfa MZ7001i",
+      "Kyocera TASKalfa MZ7001i",
+      "mz7001i",
+      "Iris 2024 mono",
+      "C2N",
+      "UTAX7059i",
+      "TASKalfaMZ7001i",
+      "KyoceraTASKalfaMZ7001i",
+      "Iris2024mono"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p2035d",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-3520D",
+      "kyocera": "P2035d"
+    },
+    "produktname": "E-Dolphin",
+    "code": "2PG",
+    "aliases": [
+      "P-3520D",
+      "UTAX P-3520D",
+      "P2035d",
+      "Kyocera P2035d",
+      "E-Dolphin",
+      "2PG",
+      "P3520D",
+      "UTAXP3520D",
+      "KyoceraP2035d",
+      "EDolphin"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p2040dn",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4020DN",
+      "kyocera": "P2040dn"
+    },
+    "produktname": "Libra Printer",
+    "code": "2RX",
+    "aliases": [
+      "P-4020DN",
+      "UTAX P-4020DN",
+      "P2040dn",
+      "Kyocera P2040dn",
+      "Libra Printer",
+      "2RX",
+      "P4020DN",
+      "UTAXP4020DN",
+      "KyoceraP2040dn",
+      "LibraPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p2040dw",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4020DW",
+      "kyocera": "P2040dw"
+    },
+    "produktname": "Libra Printer",
+    "code": "2RY",
+    "aliases": [
+      "P-4020DW",
+      "UTAX P-4020DW",
+      "P2040dw",
+      "Kyocera P2040dw",
+      "Libra Printer",
+      "2RY",
+      "P4020DW",
+      "UTAXP4020DW",
+      "KyoceraP2040dw",
+      "LibraPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p2135d",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-3521D",
+      "kyocera": "P2135d"
+    },
+    "produktname": "E-Dolphin",
+    "code": "2PH",
+    "aliases": [
+      "P-3521D",
+      "UTAX P-3521D",
+      "P2135d",
+      "Kyocera P2135d",
+      "E-Dolphin",
+      "2PH",
+      "P3521D",
+      "UTAXP3521D",
+      "KyoceraP2135d",
+      "EDolphin"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p2135dn",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-3521DN",
+      "kyocera": "P2135dn"
+    },
+    "produktname": "E-Dolphin Net",
+    "code": "2LZ",
+    "aliases": [
+      "P-3521DN",
+      "UTAX P-3521DN",
+      "P2135dn",
+      "Kyocera P2135dn",
+      "E-Dolphin Net",
+      "2LZ",
+      "P3521DN",
+      "UTAXP3521DN",
+      "KyoceraP2135dn",
+      "EDolphinNet"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p2235dw",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-3522DW",
+      "kyocera": "P2235dw"
+    },
+    "produktname": "Libra Printer",
+    "code": "2RW",
+    "aliases": [
+      "P-3522DW",
+      "UTAX P-3522DW",
+      "P2235dw",
+      "Kyocera P2235dw",
+      "Libra Printer",
+      "2RW",
+      "P3522DW",
+      "UTAXP3522DW",
+      "KyoceraP2235dw",
+      "LibraPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p3045dn",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4531DN",
+      "kyocera": "P3045dn"
+    },
+    "produktname": "6th Generation +",
+    "code": "2T9",
+    "aliases": [
+      "P-4531DN",
+      "UTAX P-4531DN",
+      "P3045dn",
+      "Kyocera P3045dn",
+      "6th Generation +",
+      "2T9",
+      "P4531DN",
+      "UTAXP4531DN",
+      "KyoceraP3045dn",
+      "6thGeneration+"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p3050dn",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-5031DN",
+      "kyocera": "P3050dn"
+    },
+    "produktname": "6th Generation +",
+    "code": "2T8",
+    "aliases": [
+      "P-5031DN",
+      "UTAX P-5031DN",
+      "P3050dn",
+      "Kyocera P3050dn",
+      "6th Generation +",
+      "2T8",
+      "P5031DN",
+      "UTAXP5031DN",
+      "KyoceraP3050dn",
+      "6thGeneration+"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p3055dn",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-5531DN",
+      "kyocera": "P3055dn"
+    },
+    "produktname": "6th Generation +",
+    "code": "2T7",
+    "aliases": [
+      "P-5531DN",
+      "UTAX P-5531DN",
+      "P3055dn",
+      "Kyocera P3055dn",
+      "6th Generation +",
+      "2T7",
+      "P5531DN",
+      "UTAXP5531DN",
+      "KyoceraP3055dn",
+      "6thGeneration+"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p3060dn",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-6031DN",
+      "kyocera": "P3060dn"
+    },
+    "produktname": "6th Generation +",
+    "code": "2T6",
+    "aliases": [
+      "P-6031DN",
+      "UTAX P-6031DN",
+      "P3060dn",
+      "Kyocera P3060dn",
+      "6th Generation +",
+      "2T6",
+      "P6031DN",
+      "UTAXP6031DN",
+      "KyoceraP3060dn",
+      "6thGeneration+"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p3145dn",
+    "beginn": "01-2020",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-4532DN",
+      "kyocera": "P3145dn"
+    },
+    "produktname": "6th Gen.+E",
+    "code": "2TT",
+    "aliases": [
+      "P-4532DN",
+      "UTAX P-4532DN",
+      "P3145dn",
+      "Kyocera P3145dn",
+      "6th Gen.+E",
+      "2TT",
+      "P4532DN",
+      "UTAXP4532DN",
+      "KyoceraP3145dn",
+      "6thGen.+E"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p3150dn",
+    "beginn": "01-2020",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-5032DN",
+      "kyocera": "P3150dn"
+    },
+    "produktname": "6th Gen.+E",
+    "code": "2TS",
+    "aliases": [
+      "P-5032DN",
+      "UTAX P-5032DN",
+      "P3150dn",
+      "Kyocera P3150dn",
+      "6th Gen.+E",
+      "2TS",
+      "P5032DN",
+      "UTAXP5032DN",
+      "KyoceraP3150dn",
+      "6thGen.+E"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p3155dn",
+    "beginn": "01-2020",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-5532DN",
+      "kyocera": "P3155dn"
+    },
+    "produktname": "6th Gen.+E",
+    "code": "2TR",
+    "aliases": [
+      "P-5532DN",
+      "UTAX P-5532DN",
+      "P3155dn",
+      "Kyocera P3155dn",
+      "6th Gen.+E",
+      "2TR",
+      "P5532DN",
+      "UTAXP5532DN",
+      "KyoceraP3155dn",
+      "6thGen.+E"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p3260dn",
+    "beginn": "01-2020",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-6033DN",
+      "kyocera": "P3260dn"
+    },
+    "produktname": "6th Gen.+E",
+    "code": "2WD",
+    "aliases": [
+      "P-6033DN",
+      "UTAX P-6033DN",
+      "P3260dn",
+      "Kyocera P3260dn",
+      "6th Gen.+E",
+      "2WD",
+      "P6033DN",
+      "UTAXP6033DN",
+      "KyoceraP3260dn",
+      "6thGen.+E"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p4060dn",
+    "beginn": "06-2020",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-6040DN",
+      "kyocera": "P4060dn"
+    },
+    "produktname": "Iris Printer mono",
+    "code": "2RS",
+    "aliases": [
+      "P-6040DN",
+      "UTAX P-6040DN",
+      "P4060dn",
+      "Kyocera P4060dn",
+      "Iris Printer mono",
+      "2RS",
+      "P6040DN",
+      "UTAXP6040DN",
+      "KyoceraP4060dn",
+      "IrisPrintermono"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p5026cdw",
+    "beginn": "01-2017",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-C2650DW",
+      "kyocera": "P5026cdw"
+    },
+    "produktname": "Sirius Printer",
+    "code": "2RB",
+    "aliases": [
+      "P-C2650DW",
+      "UTAX P-C2650DW",
+      "P5026cdw",
+      "Kyocera P5026cdw",
+      "Sirius Printer",
+      "2RB",
+      "PC2650DW",
+      "UTAXPC2650DW",
+      "KyoceraP5026cdw",
+      "SiriusPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p6021cdn",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C2160DN",
+      "kyocera": "P6021cdn"
+    },
+    "produktname": "E-Gemini 1.5 Prt",
+    "code": "2PS",
+    "aliases": [
+      "P-C2160DN",
+      "UTAX P-C2160DN",
+      "P6021cdn",
+      "Kyocera P6021cdn",
+      "E-Gemini 1.5 Prt",
+      "2PS",
+      "PC2160DN",
+      "UTAXPC2160DN",
+      "KyoceraP6021cdn",
+      "EGemini1.5Prt"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p6026cdn",
+    "beginn": "12-2013",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C2660DN",
+      "kyocera": "P6026cdn"
+    },
+    "produktname": "E-Gemini 1.5 Prt",
+    "code": "2PT",
+    "aliases": [
+      "P-C2660DN",
+      "UTAX P-C2660DN",
+      "P6026cdn",
+      "Kyocera P6026cdn",
+      "E-Gemini 1.5 Prt",
+      "2PT",
+      "PC2660DN",
+      "UTAXPC2660DN",
+      "KyoceraP6026cdn",
+      "EGemini1.5Prt"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p6030cdn",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C3060DN",
+      "kyocera": "P6030cdn"
+    },
+    "produktname": "E-Cassiopeia 30",
+    "code": "2PP",
+    "aliases": [
+      "P-C3060DN",
+      "UTAX P-C3060DN",
+      "P6030cdn",
+      "Kyocera P6030cdn",
+      "E-Cassiopeia 30",
+      "2PP",
+      "PC3060DN",
+      "UTAXPC3060DN",
+      "KyoceraP6030cdn",
+      "ECassiopeia30"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p6035cdn",
+    "beginn": "06-2015",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C3560DN",
+      "kyocera": "P6035cdn"
+    },
+    "produktname": "Mebius Printer",
+    "code": "2NS",
+    "aliases": [
+      "P-C3560DN",
+      "UTAX P-C3560DN",
+      "P6035cdn",
+      "Kyocera P6035cdn",
+      "Mebius Printer",
+      "2NS",
+      "PC3560DN",
+      "UTAXPC3560DN",
+      "KyoceraP6035cdn",
+      "MebiusPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p6130cdn",
+    "beginn": "06-2015",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C3061DN",
+      "kyocera": "P6130cdn"
+    },
+    "produktname": "Mebius Printer",
+    "code": "2NR",
+    "aliases": [
+      "P-C3061DN",
+      "UTAX P-C3061DN",
+      "P6130cdn",
+      "Kyocera P6130cdn",
+      "Mebius Printer",
+      "2NR",
+      "PC3061DN",
+      "UTAXPC3061DN",
+      "KyoceraP6130cdn",
+      "MebiusPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p6230cdn",
+    "beginn": "05-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C3062DN",
+      "kyocera": "P6230cdn"
+    },
+    "produktname": "Mebius E Printer",
+    "code": "2TV",
+    "aliases": [
+      "P-C3062DN",
+      "UTAX P-C3062DN",
+      "P6230cdn",
+      "Kyocera P6230cdn",
+      "Mebius E Printer",
+      "2TV",
+      "PC3062DN",
+      "UTAXPC3062DN",
+      "KyoceraP6230cdn",
+      "MebiusEPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p6235cdn",
+    "beginn": "05-2018",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-C3562DN",
+      "kyocera": "P6235cdn"
+    },
+    "produktname": "Mebius E Printer",
+    "code": "2TW",
+    "aliases": [
+      "P-C3562DN",
+      "UTAX P-C3562DN",
+      "P6235cdn",
+      "Kyocera P6235cdn",
+      "Mebius E Printer",
+      "2TW",
+      "PC3562DN",
+      "UTAXPC3562DN",
+      "KyoceraP6235cdn",
+      "MebiusEPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p7035cdn",
+    "beginn": "01-2014",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C3570DN",
+      "kyocera": "P7035cdn"
+    },
+    "produktname": "E-Treasure",
+    "code": "2PR",
+    "aliases": [
+      "P-C3570DN",
+      "UTAX P-C3570DN",
+      "P7035cdn",
+      "Kyocera P7035cdn",
+      "E-Treasure",
+      "2PR",
+      "PC3570DN",
+      "UTAXPC3570DN",
+      "KyoceraP7035cdn",
+      "ETreasure"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p7040cdn",
+    "beginn": "05-2016",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C4070DN",
+      "kyocera": "P7040cdn"
+    },
+    "produktname": "Mebius Printer",
+    "code": "2NT",
+    "aliases": [
+      "P-C4070DN",
+      "UTAX P-C4070DN",
+      "P7040cdn",
+      "Kyocera P7040cdn",
+      "Mebius Printer",
+      "2NT",
+      "PC4070DN",
+      "UTAXPC4070DN",
+      "KyoceraP7040cdn",
+      "MebiusPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "p7240cdn",
+    "beginn": "05-2018",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "P-C4072DN",
+      "kyocera": "P7240cdn"
+    },
+    "produktname": "Mebius E Printer",
+    "code": "2TX",
+    "aliases": [
+      "P-C4072DN",
+      "UTAX P-C4072DN",
+      "P7240cdn",
+      "Kyocera P7240cdn",
+      "Mebius E Printer",
+      "2TX",
+      "PC4072DN",
+      "UTAXPC4072DN",
+      "KyoceraP7240cdn",
+      "MebiusEPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "pa3500cx",
+    "beginn": "10-2023",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-C3563DN",
+      "kyocera": "PA3500cx"
+    },
+    "produktname": "Virgo Printer",
+    "code": "2YJ",
+    "aliases": [
+      "P-C3563DN",
+      "UTAX P-C3563DN",
+      "PA3500cx",
+      "Kyocera PA3500cx",
+      "Virgo Printer",
+      "2YJ",
+      "PC3563DN",
+      "UTAXPC3563DN",
+      "KyoceraPA3500cx",
+      "VirgoPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "pa4000cx",
+    "beginn": "01-2024",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-C4063DN",
+      "kyocera": "PA4000cx"
+    },
+    "produktname": "Virgo Printer",
+    "code": "2Z0",
+    "aliases": [
+      "P-C4063DN",
+      "UTAX P-C4063DN",
+      "PA4000cx",
+      "Kyocera PA4000cx",
+      "Virgo Printer",
+      "2Z0",
+      "PC4063DN",
+      "UTAXPC4063DN",
+      "KyoceraPA4000cx",
+      "VirgoPrinter"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "pa4000wx",
+    "beginn": "11-2024",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-4021DW",
+      "kyocera": "PA4000wx"
+    },
+    "produktname": "Libra Prt. 2.0",
+    "code": "C1F",
+    "aliases": [
+      "P-4021DW",
+      "UTAX P-4021DW",
+      "PA4000wx",
+      "Kyocera PA4000wx",
+      "Libra Prt. 2.0",
+      "C1F",
+      "P4021DW",
+      "UTAXP4021DW",
+      "KyoceraPA4000wx",
+      "LibraPrt.2.0"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "pa4000x",
+    "beginn": "11-2024",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-4021DN",
+      "kyocera": "PA4000x"
+    },
+    "produktname": "Libra Prt. 2.0",
+    "code": "C15",
+    "aliases": [
+      "P-4021DN",
+      "UTAX P-4021DN",
+      "PA4000x",
+      "Kyocera PA4000x",
+      "Libra Prt. 2.0",
+      "C15",
+      "P4021DN",
+      "UTAXP4021DN",
+      "KyoceraPA4000x",
+      "LibraPrt.2.0"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "pa4500ci",
+    "beginn": "10-2023",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P458ci",
+      "kyocera": "PA4500ci"
+    },
+    "produktname": "Virgo Print. HyPAS",
+    "code": "2Z2",
+    "aliases": [
+      "P458ci",
+      "UTAX P458ci",
+      "PA4500ci",
+      "Kyocera PA4500ci",
+      "Virgo Print. HyPAS",
+      "2Z2",
+      "UTAXP458ci",
+      "KyoceraPA4500ci",
+      "VirgoPrint.HyPAS"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "pa4500x",
+    "beginn": "10-2023",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-4534DN",
+      "kyocera": "PA4500x"
+    },
+    "produktname": "6th Gen. Next",
+    "code": "C0Y",
+    "aliases": [
+      "P-4534DN",
+      "UTAX P-4534DN",
+      "PA4500x",
+      "Kyocera PA4500x",
+      "6th Gen. Next",
+      "C0Y",
+      "P4534DN",
+      "UTAXP4534DN",
+      "KyoceraPA4500x",
+      "6thGen.Next"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "pa5000x",
+    "beginn": "10-2023",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-5034DN",
+      "kyocera": "PA5000x"
+    },
+    "produktname": "6th Gen. Next",
+    "code": "C0X",
+    "aliases": [
+      "P-5034DN",
+      "UTAX P-5034DN",
+      "PA5000x",
+      "Kyocera PA5000x",
+      "6th Gen. Next",
+      "C0X",
+      "P5034DN",
+      "UTAXP5034DN",
+      "KyoceraPA5000x",
+      "6thGen.Next"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "pa5500x",
+    "beginn": "10-2023",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-5534DN",
+      "kyocera": "PA5500x"
+    },
+    "produktname": "6th Gen. Next",
+    "code": "C0W",
+    "aliases": [
+      "P-5534DN",
+      "UTAX P-5534DN",
+      "PA5500x",
+      "Kyocera PA5500x",
+      "6th Gen. Next",
+      "C0W",
+      "P5534DN",
+      "UTAXP5534DN",
+      "KyoceraPA5500x",
+      "6thGen.Next"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "pa6000x",
+    "beginn": "01-2024",
+    "vertrieb_eingestellt": false,
+    "marken": {
+      "utax": "P-6034DN",
+      "kyocera": "PA6000x"
+    },
+    "produktname": "6th Gen. Next",
+    "code": "C0T",
+    "aliases": [
+      "P-6034DN",
+      "UTAX P-6034DN",
+      "PA6000x",
+      "Kyocera PA6000x",
+      "6th Gen. Next",
+      "C0T",
+      "P6034DN",
+      "UTAXP6034DN",
+      "KyoceraPA6000x",
+      "6thGen.Next"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "taskaffa550c",
+    "beginn": "10-2009",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CDC 1755",
+      "kyocera": "TASKaffa 550c"
+    },
+    "produktname": "Broad Peak",
+    "code": "5JN",
+    "aliases": [
+      "CDC 1755",
+      "UTAX CDC 1755",
+      "DCC 2755",
+      "TASKaffa 550c",
+      "Kyocera TASKaffa 550c",
+      "taskaffa550c",
+      "Broad Peak",
+      "5JN",
+      "CDC1755",
+      "UTAXCDC1755",
+      "DCC2755",
+      "KyoceraTASKaffa550c",
+      "BroadPeak"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ti820",
+    "beginn": "03-2000",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LF 82",
+      "kyocera": "TI-820"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "LF 82",
+      "UTAX LF 82",
+      "TI-820",
+      "Kyocera TI-820",
+      "ti820",
+      "LF82",
+      "UTAXLF82",
+      "KyoceraTI820"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ti850",
+    "beginn": "03-2000",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LF 85",
+      "kyocera": "TI-850"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "LF 85",
+      "UTAX LF 85",
+      "F 950",
+      "TI-850",
+      "Kyocera TI-850",
+      "ti850",
+      "LF85",
+      "UTAXLF85",
+      "F950",
+      "KyoceraTI850"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "ti870",
+    "beginn": "03-2000",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "LF 87",
+      "kyocera": "TI-870"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "LF 87",
+      "UTAX LF 87",
+      "TI-870",
+      "Kyocera TI-870",
+      "ti870",
+      "LF87",
+      "UTAXLF87",
+      "KyoceraTI870"
+    ],
+    "bemerkung": ""
+  },
+  {
+    "id": "vi600",
+    "beginn": "01-2000",
+    "vertrieb_eingestellt": true,
+    "marken": {
+      "utax": "CD 60",
+      "kyocera": "VI-600"
+    },
+    "produktname": "",
+    "code": "",
+    "aliases": [
+      "CD 60",
+      "UTAX CD 60",
+      "VI-600",
+      "Kyocera VI-600",
+      "vi600",
+      "CD60",
+      "UTAXCD60",
+      "KyoceraVI600"
+    ],
+    "bemerkung": ""
+  }
+]

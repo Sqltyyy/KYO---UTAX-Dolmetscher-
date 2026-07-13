@@ -1,0 +1,29 @@
+﻿seite;bereich;zeile_x;beginn;utax;ta_alias;kyocera_spalte;produktname;code
+1;Kopierer Farbe;379.2;03-2011;CDC 5520;DCC 6520;;Hanabi;2K0
+1;Kopierer Farbe;398.2;03-2011;CDC 5525;DCC 6525;;Hanabi;2K0
+1;Kopierer Farbe;455.0;06-2012;206ci;;;Hanabi HyPAS;2MZ
+1;Kopierer Farbe;474.0;06-2012;256ci;;;Hanabi HyPAS;2MY
+2;Kopierer Farbe;531.2;10-2017;P-C2480iMFP;P-C2480iMFP;;Hanabi2 HyPAS;2P4
+3;Kopierer Farbe;270.4;01-2020;;;;;2ZJ
+3;Kopierer Farbe;279.8;05-2021;;;;;2Z8
+5;Kopierer Mono;238.8;02-2011;CD 5025;DC 6025;;Matsuri;2L3
+5;Kopierer Mono;257.8;02-2011;CD 5025P;DC 6025P;;Matsuri;2L3
+5;Kopierer Mono;276.7;02-2011;CD 5030;DC 6030;;Matsuri;2K3
+5;Kopierer Mono;381.0;06-2012;256ix;;;Matsuri HyPAS;2MX
+5;Kopierer Mono;400.0;06-2012;306i;;;Matsuri HyPAS;2MW
+6;Kopierer Mono;267.2;10-2017;P-2540iMFP;P-2540iMFP;;Matsuri2 HyPAS;2P2
+11;Kopierer XXL;229.0;09-2006;XC 9020;XC 8020;;;
+11;Kopierer XXL;238.9;09-2006;XC 9036;CX 8036;;;
+11;Kopierer XXL;248.7;01-2009;XC 9048;CX 8048;;;
+13;Drucker Mono;102.6;07-2001;LP 110;LP 210;;;/
+13;Drucker Mono;112.3;07-2001;LP 118;LP 218;;;/
+14;Drucker Mono;171.4;11-2000;XP 9042;PX 8042;;;/
+15;FAX;277.6;01-2001;F 320;F 720;;;
+15;FAX;287.3;11-2002;F 520;F 920;;;
+15;FAX;297.0;09-2004;F 525;F 925;;;
+15;FAX;306.7;01-2001;F 530;F 930;;;
+15;FAX;316.5;06-2002;F 540;F 940;;;
+15;FAX;326.2;09-2004;F 541;F 941;;;
+15;FAX;335.9;06-2006;F 542;F 942;;;
+15;FAX;345.6;01-2001;F 570;F 970;;;
+15;FAX;355.3;06-2004;F 580;F 980;;;
